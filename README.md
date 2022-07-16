@@ -11,5 +11,5 @@
 
 
 **HACKING**
-- Seguridad
-- - ad
+- `Seguridad`
+  - <sub>O.S: **Linux**</sub>

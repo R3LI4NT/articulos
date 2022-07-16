@@ -13,4 +13,4 @@
 **HACKING**
 - `Seguridad`
   - <sub>O.S: **Linux**</sub>
-    - <a href="#" target="_blank">[SHRED] Borrado de datos seguro, AntiForense</a>
+    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/shred.md" target="_blank">[SHRED] Borrado de datos seguro, AntiForense</a>

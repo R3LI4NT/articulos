@@ -15,3 +15,5 @@ El más común y repetitivo es el comando "`rm`" para eliminar directorios y arc
 sudo apt-get install coreutils 
 ```
 Coreutils es un paquete de tipo Unix que contiene varias herramientas y utilidades como ls, cd, rm, `shred`, entre otras.
+
+![1](https://user-images.githubusercontent.com/75953873/179375886-b7d55261-515a-44b1-84ea-9fe51f596b23.png)

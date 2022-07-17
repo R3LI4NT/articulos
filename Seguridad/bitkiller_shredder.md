@@ -8,7 +8,7 @@ Si bien es cierto que en la actualidad existen infinidades de software para la r
 
 <h1 align="center"></h1>
 
-**BitKiller**
+###**BitKiller**
 
 BitKiller tritura de forma segura archivos y directorios, eliminándolos por completo de su disco duro. Puede sobrescribir archivos de manera rápida y eficiente utilizando cualquier cosa, desde datos aleatorios hasta el método Gutmann. También cambia los nombres de los archivos para que sean más difíciles de encontrar. No se necesita configuración ni instalación.
 

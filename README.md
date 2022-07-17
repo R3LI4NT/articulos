@@ -10,7 +10,7 @@
 - Proximamente...
 
 
-### HACKING**
+**HACKING**
 - `Seguridad`
   - <sub>O.S: **Linux**</sub>
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/shred.md" target="_blank">Borrado de datos seguro en GNU / LINUX, AntiForense</a>

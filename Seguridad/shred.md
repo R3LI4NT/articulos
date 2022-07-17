@@ -30,10 +30,14 @@ El parámetro "`-n`" se utiliza para sobreescribir el archivo cuantas veces quie
 
 ![4](https://user-images.githubusercontent.com/75953873/179379527-d16a4963-629e-47ff-abd0-5712931654f3.png)
 
-Con el parámetro "`-v`" (verbose) indicamos que nos muestre los detalles que reescribe y poder tener noción de que pasar por detrás...
+Con el parámetro "`-v`" (verbose) indicamos que nos muestre los detalles que sobreescribe y poder tener noción de que pasar por detrás...
 
 ![5](https://user-images.githubusercontent.com/75953873/179379659-50a2e7a8-5953-4f04-9d26-278899828bb5.png)
 
-Por último, contiene el parámetro "`-z`" el cual agrega una sobrescritura al final con ceros para ocultar la evidencia con caracteres encriptados o aleatorios vistos anteriormente.
+Por último, contiene el parámetro "`-z`" el cual agrega una sobrescritura al final con ceros para ocultar la evidencia con caracteres encriptados.
 
 ![6](https://user-images.githubusercontent.com/75953873/179379711-a2069c48-fc2a-4f59-ad00-1602edfbc1a0.png)
+
+
+
+#### ~R3LI4NT~

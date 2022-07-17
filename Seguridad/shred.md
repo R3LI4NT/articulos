@@ -18,6 +18,10 @@ Coreutils es un paquete de tipo Unix que contiene varias herramientas y utilidad
 
 ![1](https://user-images.githubusercontent.com/75953873/179375886-b7d55261-515a-44b1-84ea-9fe51f596b23.png)
 
-Utilizaré como ejemplo un archivo de texto donde escribiré tres líneas y posteriormente ejecutare el comando shred + nombre del archivo a sobreescribir:
+Utilizaré como ejemplo un archivo de texto donde escribiré tres líneas y posteriormente ejecutare el comando `shred` **+** nombre del archivo a sobreescribir:
 
 ![2](https://user-images.githubusercontent.com/75953873/179375954-d4ae3128-3c96-45de-ba0f-45de20086496.png)
+
+Como observarán, el documento es totalmente ilegible ya que es ofuscado con una serie de caracteres aleatorios. En el ejemplo anterior no he utilizado ningún parámetro a especificar, ya de por sí la herramienta se encarga de añadir una variedad de caracteres por defecto (25). Si quisiéramos eliminar el fichero deberíamos a especificar con el parámetro "`-u`":
+
+![3](https://user-images.githubusercontent.com/75953873/179379315-f7a81860-38fa-4eca-8739-b9a14fc4ffcf.png)

@@ -25,3 +25,9 @@ Utilizaré como ejemplo un archivo de texto donde escribiré tres líneas y post
 Como observarán, el documento es totalmente ilegible ya que es ofuscado con una serie de caracteres aleatorios. En el ejemplo anterior no he utilizado ningún parámetro a especificar, ya de por sí la herramienta se encarga de añadir una variedad de caracteres por defecto (25). Si quisiéramos eliminar el fichero deberíamos a especificar con el parámetro "`-u`":
 
 ![3](https://user-images.githubusercontent.com/75953873/179379315-f7a81860-38fa-4eca-8739-b9a14fc4ffcf.png)
+
+El parámetro "`-n`" se utiliza para sobreescribir el archivo cuantas veces quieramos, en este caso lo que hago es borrar todo el contenido del disco (**cuidado con esto**, es a modo de ejemplo):
+
+![4](https://user-images.githubusercontent.com/75953873/179379527-d16a4963-629e-47ff-abd0-5712931654f3.png)
+
+

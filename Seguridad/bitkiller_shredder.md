@@ -14,6 +14,6 @@ BitKiller tritura de forma segura archivos y directorios, eliminándolos por com
 
 - Descargar: https://sourceforge.net/projects/bitkiller/
 
-Tiene diferentes algoritmos de trituración, cada uno gradualmente más fuerte. "Shred file" para eliminar los archivos y directorios seleccionados.
+Tiene diferentes algoritmos de trituración, cada uno gradualmente más fuerte. "`Shred file`" para eliminar los archivos y directorios seleccionados.
 
 ![1](https://user-images.githubusercontent.com/75953873/179380282-7cdea9e6-73a5-437a-9af6-aa6ac6a5e58d.png)

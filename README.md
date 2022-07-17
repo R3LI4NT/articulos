@@ -2,7 +2,7 @@
 
 </br>
 
-**Bienvenid@s a este espacio donde estaré compartiendo artículos relacionados a la Ciberseguridad y Hacking en general. Abarcará temarios de explotación de vulnerabilidades, técnicas de seguridad y antiforense, criptografía, programación con enfoque a ciberseguridad, auditorías de redes y sistemas operativos (Windows y GNU / Linux), pentesting web y mucho más!**
+**Bienvenid@s a este espacio donde estaré compartiendo artículos relacionados a la Ciberseguridad y Hacking en general. Abarcará temarios de explotación de vulnerabilidades, técnicas de seguridad y antiforense, criptografía, programación con enfoque a hacking, auditorías de redes y sistemas operativos (Windows y GNU / Linux), pentesting web y mucho más!**
 
 <h1 align="center"></h1>
 

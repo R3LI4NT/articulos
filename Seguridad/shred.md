@@ -10,7 +10,7 @@ El más común y repetitivo es el comando "`rm`" para eliminar directorios y arc
 
 <h1 align="center"></h1>
 
-**Instalar herramienta en Debian**
+**Instalar herramienta en Debian:**
 ```
 sudo apt-get install coreutils 
 ```

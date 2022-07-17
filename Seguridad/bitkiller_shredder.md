@@ -30,4 +30,5 @@ Así como el primero, también podemos seleccionar el algoritmo más bajo hasta 
 ![2](https://user-images.githubusercontent.com/75953873/179380342-49c78898-c22f-438e-b70c-d4fa94230f0f.png)
 
 
+
 #### ~R3LI4NT~

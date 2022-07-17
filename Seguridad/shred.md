@@ -17,3 +17,7 @@ sudo apt-get install coreutils
 Coreutils es un paquete de tipo Unix que contiene varias herramientas y utilidades como ls, cd, rm, `shred`, entre otras.
 
 ![1](https://user-images.githubusercontent.com/75953873/179375886-b7d55261-515a-44b1-84ea-9fe51f596b23.png)
+
+Utilizaré como ejemplo un archivo de texto donde escribiré tres líneas y posteriormente ejecutare el comando shred + nombre del archivo a sobreescribir:
+
+![2](https://user-images.githubusercontent.com/75953873/179375954-d4ae3128-3c96-45de-ba0f-45de20086496.png)

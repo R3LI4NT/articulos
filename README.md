@@ -11,7 +11,7 @@
 
 </br>
 
-**HACKING:**
+:skull: **HACKING** :skull:
 
 - [x] Seguridad
     - `Criptografía`

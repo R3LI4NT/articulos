@@ -6,7 +6,7 @@
 
 <h1 align="center"></h1>
 
-**CIBERSEGURIDAD**
+:mag_right: **CIBERSEGURIDAD** :lock:
 - Proximamente...
 
 </br>

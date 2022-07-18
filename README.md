@@ -15,8 +15,8 @@
 
 <h1 align="center"></h1>
 
-- `Seguridad`
-    - [x] Criptografía
+- [x] Seguridad
+    - `Criptografía`
   
   - <sub>O.S: **GNU / Linux**</sub>
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/GNU-Linux/shred.md" target="_blank">Borrado de datos seguro en GNU / Linux, AntiForense</a>

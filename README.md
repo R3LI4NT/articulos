@@ -11,9 +11,7 @@
 
 </br>
 
-**HACKING**
-
-<h1 align="center"></h1>
+**HACKING:**
 
 - [x] Seguridad
     - `Criptografía`

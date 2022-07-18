@@ -14,11 +14,11 @@
 **HACKING**
 - `Seguridad`
   - <sub>O.S: **GNU / Linux**</sub>
-    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/shred.md" target="_blank">Borrado de datos seguro en GNU / Linux, AntiForense</a>
+    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/GNU-Linux/shred.md" target="_blank">Borrado de datos seguro en GNU / Linux, AntiForense</a>
     
-    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/ccrypt.md" target="_blank">Cifrar archivos con CCRYPT</a>
+    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/GNU-Linux/ccrypt.md" target="_blank">Cifrar archivos con CCRYPT</a>
     
   - <sub>O.S: **Windows**</sub>
-    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/bitkiller_shredder.md" target="_blank">Borrado de datos seguro en Windows, AntiForense</a>
+    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Windows/bitkiller_shredder.md" target="_blank">Borrado de datos seguro en Windows, AntiForense</a>
     
     - <a href="#" target="_blank">Cifrar archivos con AEScrypt</a>

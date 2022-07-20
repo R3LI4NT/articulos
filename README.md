@@ -28,14 +28,11 @@
      
 </br>
  
-- [ ] 
-    - `Esteganografía`
-  
-  - <sub>O.S: **GNU / Linux**</sub>
-  - Proximamente...
+- 
+  - `Esteganografía`
+    - <sub>O.S: **GNU / Linux**</sub>
+      - Proximamente...
     
-  - <sub>O.S: **Windows**</sub>
-    - <a href="" target="_blank">Ocultar archivos secretos en una pista de audio</a>
     
     
 <h1 align="center"></h1>

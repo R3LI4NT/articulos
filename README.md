@@ -30,7 +30,7 @@
  
 - 
   - `Esteganografía`
-    - <sub>O.S: **GNU / Linux**</sub>
+  - <sub>O.S: **GNU / Linux**</sub>
       - Proximamente...
     
     

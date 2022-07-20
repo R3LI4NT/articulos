@@ -28,7 +28,7 @@
      
 </br>
  
-1. 
+_ 
   - `Esteganografía`
   
   - <sub>O.S: **GNU / Linux**</sub>

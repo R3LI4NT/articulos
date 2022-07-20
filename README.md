@@ -25,4 +25,15 @@
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Windows/bitkiller_shredder.md" target="_blank">Borrado de datos seguro en Windows, AntiForense</a>
     
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Windows/AEScrypt.md" target="_blank">Cifrar archivos con AEScrypt</a>
+     
+  
+      - `Esteganografía`
+  
+  - <sub>O.S: **GNU / Linux**</sub>
+    - Proximamente...
+    
+  - <sub>O.S: **Windows**</sub>
+    - <a href="" target="_blank">Ocultar archivos secretos en una pista de audio</a>
+    
+    
 <h1 align="center"></h1>

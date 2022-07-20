@@ -32,6 +32,10 @@
   - `Esteganografía`
   
   - <sub>O.S: **GNU / Linux**</sub>
+    - Proximamente...
+
+  - <sub>O.S: **Windows**</sub>
+  - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Windows/AEScrypt.md" target="_blank">Ocultar archivos secretos en una pista de audio</a>
     
     
     

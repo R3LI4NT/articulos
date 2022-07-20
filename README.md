@@ -27,7 +27,7 @@
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Windows/AEScrypt.md" target="_blank">Cifrar archivos con AEScrypt</a>
      
   
-    - `Esteganografía`
+- `Esteganografía`
   
       - <sub>O.S: **GNU / Linux**</sub>
       - Proximamente...

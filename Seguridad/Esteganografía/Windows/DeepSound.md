@@ -37,8 +37,10 @@ Con esto ya tenemos nuestros archivos ocultos en la pista de audio... ¿cómo po
 Ingresan la contraseña y le dan a `Extract secret files`.
 
 <p align="center">
-WALA!  
+  <img src="https://user-images.githubusercontent.com/75953873/179873871-59804325-6512-4451-9996-c5f7327ecf2f.png">
 </p>
 
-![6](https://user-images.githubusercontent.com/75953873/179873871-59804325-6512-4451-9996-c5f7327ecf2f.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75953873/179873909-5a15b8fc-16d5-4539-b379-8518b1af692e.gif">
+</p>
 

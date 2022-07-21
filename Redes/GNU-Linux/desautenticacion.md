@@ -12,3 +12,10 @@ En el siguiente esquema se observa como el `Atacante` envía solicitudes masivas
 ![esquema_desautenticacion](https://user-images.githubusercontent.com/75953873/180201683-5b0b1d4d-154d-4f3e-91a0-ecec5e35e4c1.png)
 
 <h1 align="center"></h1>
+
+Existen infinidades de herramientas para realizar este ataque, una de las más conocidas es la suite de Aircrack-ng, ya viene incorporada en distribuciones basadas en Debian como lo es Kali Linux y Parrot OS.
+
+**Instalar en Debian:**
+```
+sudo apt-get install aircrack-ng
+```

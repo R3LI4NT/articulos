@@ -19,3 +19,23 @@ Existen infinidades de herramientas para realizar este ataque, una de las más c
 ```
 sudo apt-get install aircrack-ng
 ```
+
+Pero antes que nada hay que reconocer la dirección MAC del objetivo (AP) y para ello es necesario poner nuestra tarjeta de red en modo monitor. Esto permitirá escuchar y capturar todos los paquetes que viajan en el aire.
+```
+ifconfig wlan0 down
+iwconfig wlan0 mode monitor
+ifconfig wlan0 up
+```
+![1](https://user-images.githubusercontent.com/75953873/180204632-77b2796f-52ba-4f03-8749-f3ce83a16a47.png)
+
+Si lo prefieren automatizado:
+```
+airmon-ng start wlan0
+```
+![2](https://user-images.githubusercontent.com/75953873/180204828-ea12756e-4daf-4041-95e7-337f19969bd7.png)
+
+Lo siguiente será matar los procesos PID para no presentar ningún error al momento de auditar la red. Cada PID es único y se puede matar se forma manual según su ID:
+```
+pkill <nombre-del-proceso>
+```
+![3](https://user-images.githubusercontent.com/75953873/180205864-5c1debac-deed-4bb2-8146-58f864389591.png)

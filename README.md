@@ -15,7 +15,7 @@
 
 - [x] Redes / Wireless
     - <sub>O.S: **GNU / Linux**</sub>
-        - Ataque de Desautenticación
+        - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Criptograf%C3%ADa/GNU-Linux/shred.md" target="_blank">Ataque de Desautenticación</a>
     
 - [x] Seguridad
     - `Criptografía`

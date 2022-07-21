@@ -69,3 +69,17 @@ airodump-ng wlan0
 **AUTH:** Protocolo de autenticación utilizado.
 
 **ESSID:** Nombre de la red inalámbrica.
+
+Luego de reconocer el BSSID y el canal, quedaría capturar los paquetes del AP objetivo:
+```
+airodump-ng -c <N-CHANNEL> --bssid <MAC-AP> wlan0
+```
+![6](https://user-images.githubusercontent.com/75953873/180209382-2b325c19-3b9c-4fc9-8395-91d46da5fb16.png)
+
+La `STATION` son los clientes que están conectados la red (BSSID). En otra terminal proseguiremos a lanzar el ataque de desautenticación para desconectarlos:
+```
+aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP>
+```
+![7](https://user-images.githubusercontent.com/75953873/180210826-d42ea7a3-8a7a-49aa-9f9a-bedbcc510d1c.png)
+
+Al específicar el tiempo en `0` el ataque no se detendra a menos que lo detenga, el párametro `a` es el BSSID del punto de acceso que atacará, permitiendo así que todos los clientes no puedan conectarse a dicha red.

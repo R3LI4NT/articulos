@@ -34,8 +34,14 @@ airmon-ng start wlan0
 ```
 ![2](https://user-images.githubusercontent.com/75953873/180204828-ea12756e-4daf-4041-95e7-337f19969bd7.png)
 
-Lo siguiente será matar los procesos PID para no presentar ningún error al momento de auditar la red. Cada PID es único y se puede matar se forma manual según su ID:
+Lo siguiente será matar los procesos PID para no presentar ningún error al momento de auditar la red. Cada PID es único y se puede matar de forma manual según su ID:
 ```
 pkill <nombre-del-proceso>
 ```
 ![3](https://user-images.githubusercontent.com/75953873/180205864-5c1debac-deed-4bb2-8146-58f864389591.png)
+
+Pero si lo preferimos, aircrack lo hace automatizado por nosotros:
+```
+airmon-ng check kill
+```
+![4](https://user-images.githubusercontent.com/75953873/180206365-5a57d41b-26a8-40aa-bac1-1b2ad1b80d39.png)

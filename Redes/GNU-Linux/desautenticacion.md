@@ -45,3 +45,27 @@ Pero si lo preferimos, aircrack lo hace automatizado por nosotros:
 airmon-ng check kill
 ```
 ![4](https://user-images.githubusercontent.com/75953873/180206365-5a57d41b-26a8-40aa-bac1-1b2ad1b80d39.png)
+
+A continuación, es momento de reconocer las redes de nuestro alrededor:
+```
+airodump-ng wlan0
+```
+![5](https://user-images.githubusercontent.com/75953873/180207009-d32f3206-8a73-41b7-b389-466aa8ac67a3.png)
+
+**BSSID:** Dirección MAC del punto de acceso.
+
+**PWR:** Rango en el que se encuentra el AP.
+
+**Beacons:** Número de paquetes envíado por el AP.
+
+**#Data:** Número de paquetes capturados.
+
+**CH:** Número de canal donde opera el AP.
+
+**MB:** Velocidad máxima soportada por el AP. MB = 11 es 802.11b, si MB = 22 es 802.11b+ y hasta 54 son 802.11g.
+
+**ENC:** Tipo de algoritmo de cifrado, generalmente las redes privadas utilizan WPA/WPA2 y WEP. En caso de ser una red pública, el algoritmo que utilizará es OPN = sin encriptación.
+
+**AUTH:** Protocolo de autenticación utilizado.
+
+**ESSID:** Nombre de la red inalámbrica.

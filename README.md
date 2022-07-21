@@ -14,8 +14,9 @@
 :skull: **HACKING** :skull:
 
 - [x] Redes / Wireless
-    - Proximamente...
-
+    - <sub>O.S: **GNU / Linux**</sub>
+        - Ataque de Desautenticación
+    
 - [x] Seguridad
     - `Criptografía`
   

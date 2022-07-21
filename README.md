@@ -15,7 +15,7 @@
 
 - [x] Redes / Wireless
     - <sub>O.S: **GNU / Linux**</sub>
-        - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Criptograf%C3%ADa/GNU-Linux/shred.md" target="_blank">Ataque de Desautenticación</a>
+        - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/desautenticacion.md" target="_blank">Ataque de Desautenticación</a>
     
 - [x] Seguridad
     - `Criptografía`
@@ -38,8 +38,8 @@
   - <sub>O.S: **GNU / Linux**</sub>
     - Proximamente...
 
-  - <sub>O.S: **Windows**</sub>
-    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Esteganograf%C3%ADa/Windows/DeepSound.md" target="_blank">Ocultar archivos secretos en una pista de audio</a>
+    - <sub>O.S: **Windows**</sub>
+        - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Esteganograf%C3%ADa/Windows/DeepSound.md" target="_blank">Ocultar archivos secretos en una pista de audio</a>
     
  
 <h1 align="center"></h1>

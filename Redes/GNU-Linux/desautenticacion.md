@@ -83,3 +83,6 @@ aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP>
 ![7](https://user-images.githubusercontent.com/75953873/180210826-d42ea7a3-8a7a-49aa-9f9a-bedbcc510d1c.png)
 
 Al específicar el tiempo en `0` el ataque será ilimitado, el párametro `a` es el BSSID del punto de acceso que atacará, permitiendo así que todos los clientes no puedan conectarse a dicha red.
+
+
+Continuará.....

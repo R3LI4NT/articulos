@@ -78,11 +78,14 @@ airodump-ng -c <N-CHANNEL> --bssid <MAC-AP> wlan0
 
 La `STATION` son los clientes que están conectados la red (BSSID). En otra terminal proseguiremos a lanzar el ataque de desautenticación para desconectarlos:
 ```
-aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP>
+aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> wlan0
 ```
 ![7](https://user-images.githubusercontent.com/75953873/180210826-d42ea7a3-8a7a-49aa-9f9a-bedbcc510d1c.png)
 
 Al específicar el tiempo en `0` el ataque será ilimitado, el párametro `a` es el BSSID del punto de acceso que atacará, permitiendo así que todos los clientes no puedan conectarse a dicha red.
 
-
-Continuará.....
+El ejemplo anterior desconectará a todos los dispositivos de la red. Ahora, si quisieramos desautenticar a un dispositivo en específico utilizamos el parámetro `-c` **+** la dirección `MAC` del dispositivo (STATION).
+```
+aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> -c <MAC> wlan0
+```
+![8](https://user-images.githubusercontent.com/75953873/180893345-e1540589-7b67-4fb6-99ab-71b661089e93.png)

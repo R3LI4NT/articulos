@@ -88,4 +88,4 @@ El ejemplo anterior desconectará a todos los dispositivos de la red. Ahora, si 
 ```
 aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> -c <MAC> wlan0
 ```
-![8](https://user-images.githubusercontent.com/75953873/180893345-e1540589-7b67-4fb6-99ab-71b661089e93.png)
+

@@ -84,7 +84,7 @@ aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> wlan0
 
 Al específicar el tiempo en `0` el ataque será ilimitado, el párametro `a` es el BSSID del punto de acceso que atacará, permitiendo así que todos los clientes no puedan conectarse a dicha red.
 
-El ejemplo anterior desconectará a todos los dispositivos de la red. Ahora, si quisieramos desautenticar a un dispositivo en específico utilizamos el parámetro `-c` **+** la dirección `MAC` del dispositivo (STATION).
+El ejemplo anterior desconectará a todos los dispositivos de la red. Ahora, si quisieramos desautenticar a un dispositivo en específico utilizamos el parámetro `-c` **+** la dirección `MAC` del dispositivo (**STATION**).
 ```
 aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> -c <MAC> wlan0
 ```

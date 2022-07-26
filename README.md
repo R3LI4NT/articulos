@@ -14,7 +14,13 @@
 :skull: **HACKING** :skull:
 
 - [x] Pentesting
-    - <a href="#" target="_blank">Explotar Windows Network con envenenamiento LMMNR/NBT-NS [SMB-Relay]</a>
+     - <sub>O.S: **GNU / Linux**</sub>
+        - Proximamente
+     
+     - <sub>O.S: **Windows**</sub>
+        - <a href="#" target="_blank">Explotar Windows Network con envenenamiento LMMNR/NBT-NS [SMB-Relay]</a>
+
+
 
 - [x] Redes / Wireless
     - <sub>O.S: **GNU / Linux**</sub>

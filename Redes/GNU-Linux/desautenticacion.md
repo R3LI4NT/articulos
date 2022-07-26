@@ -90,3 +90,6 @@ aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> -c <MAC> wlan0
 ```
 ![8](https://user-images.githubusercontent.com/75953873/180893744-86724669-affe-45b6-a424-9e0d77e0315e.png)
 
+
+
+#### ~R3LI4NT~

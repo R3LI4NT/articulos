@@ -13,6 +13,9 @@
 
 :skull: **HACKING** :skull:
 
+- [x] Pentesting
+    - <a href="#" target="_blank">Explotar Windows Network con envenenamiento LMMNR/NBT-NS [SMB-Relay]</a>
+
 - [x] Redes / Wireless
     - <sub>O.S: **GNU / Linux**</sub>
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/desautenticacion.md" target="_blank">Ataque de Desautenticación Wi-Fi</a>

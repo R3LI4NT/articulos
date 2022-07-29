@@ -43,3 +43,7 @@ En el caso de MDK4, también contiene parámetros para dicho ataque:
 mdk4 <INTERFAZ> a -a <AP-MAC> -m 
 ```
 ![1](https://user-images.githubusercontent.com/75953873/181666285-473396ff-e871-4196-9245-3b0956e5e229.png)
+
+
+
+#### ~R3LI4NT~

@@ -12,10 +12,10 @@ Un ataque de Autenticación es lo inverso al de un Desautenticación, aquí lo q
 
 Este ataque es funcional si el punto de acceso tiene la seguridad WEP activada, de lo contrario, mostrará un mensaje de: `Denegado (código 12), ESSID o WPA incorrecto`.
 ```
-aireplay-ng -1 5000 -a <AP-MAC> -h <MAC> <INTERFAZ>
+aireplay-ng --fakeauth 5000 -a <AP-MAC> -h <MAC> <INTERFAZ>
 ```
 
-**-1:** Modo de ataque Autenticación.
+**--fakeauth:** Modo de ataque Autenticación.
 
 **5000:** Segundos que transcurré para volver a autenticar.
 

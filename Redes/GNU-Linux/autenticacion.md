@@ -23,4 +23,5 @@ aireplay-ng -1 5000 -a <AP-MAC> -h <MAC> <INTERFAZ>
 
 **-h:** Dirección MAC falsa a autenticar.
 
-![2](https://user-images.githubusercontent.com/75953873/181665374-039da28b-5da3-4631-bff3-9411cbc4af81.png)
+![2](https://user-images.githubusercontent.com/75953873/181665516-835bfdd9-d080-4091-92e1-86f72cb22987.png)
+

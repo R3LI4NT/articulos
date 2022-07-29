@@ -119,7 +119,7 @@ Expulsar a todos los clientes de la red:
 ```
 mdk4 <INTERFAZ> d -c 1,6,10 -E <ESSID>
 ```
-![9](https://user-images.githubusercontent.com/75953873/181661574-1a550111-38a0-4d4f-bed4-753d690892d7.png)
+
 
 
 

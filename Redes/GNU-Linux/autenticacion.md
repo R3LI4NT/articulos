@@ -25,3 +25,21 @@ aireplay-ng --fakeauth 5000 -a <AP-MAC> -h <MAC> <INTERFAZ>
 
 ![2](https://user-images.githubusercontent.com/75953873/181665516-835bfdd9-d080-4091-92e1-86f72cb22987.png)
 
+Al específicar el tiempo en `0` la autenticación del cliente falso será ilimitado.
+
+</br>
+
+### MDK4
+
+En el caso de MDK4, también contiene parámetros para dicho ataque:
+
+**a:** Modo de ataque Autenticaicón.
+
+**-a:** Dirección MAC del punto de acceso.
+
+**-m:** Direcciones MAC's aleatorias.
+
+```
+mdk4 <INTERFAZ> a -a <AP-MAC> -m 
+```
+![1](https://user-images.githubusercontent.com/75953873/181666285-473396ff-e871-4196-9245-3b0956e5e229.png)

@@ -115,12 +115,21 @@ Mdk4 contiene distintos parámetros con subparámetros de ataques, entre ellos, 
 
 **-S:** Dirección MAC del cliente (STATION).
 
+</br>
+
 Expulsar a todos los clientes de la red:
 ```
 mdk4 <INTERFAZ> d -c 1,6,10 -E <ESSID>
 ```
 ![9](https://user-images.githubusercontent.com/75953873/181662085-b509907a-6a50-44fe-b86c-790f5642562e.png)
 
+</br>
+
+Expulsar un cliente en específico:
+```
+mdk4 <INTERFAZ> d -S <MAC-CLIENTE>
+```
+![10](https://user-images.githubusercontent.com/75953873/181662651-c2858424-4bcf-40ff-b424-7a0fae2b194f.png)
 
 
 

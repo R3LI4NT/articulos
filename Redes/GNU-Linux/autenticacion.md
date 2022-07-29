@@ -15,7 +15,7 @@ Este ataque es funcional si el punto de acceso tiene la seguridad WEP activada, 
 aireplay-ng -1 5000 -a <AP-MAC> -h <MAC> <INTERFAZ>
 ```
 
-**-1:** Modo de ataque Autentciación.
+**-1:** Modo de ataque Autenticación.
 
 **5000:** Segundos que transcurré para volver a autenticar.
 

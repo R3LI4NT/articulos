@@ -15,7 +15,7 @@ Este ataque es funcional si el punto de acceso tiene la seguridad WEP activada, 
 aireplay-ng --fakeauth 5000 -a <AP-MAC> -h <MAC> <INTERFAZ>
 ```
 
-**--fakeauth:** Modo de ataque Autenticación.
+**--fakeauth / -1:** Modo de ataque Autenticación.
 
 **5000:** Segundos que transcurré para volver a autenticar.
 

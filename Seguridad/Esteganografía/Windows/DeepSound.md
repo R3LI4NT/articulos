@@ -14,7 +14,7 @@ En la serie Mr. Robot, Elliot utiliza una herramienta llamada `DeepSound` para o
 
 <h1 align="center"></h1>
 
-### DeepSound
+### DEEPSOUND
 
 - Descargar: https://deepsound.uptodown.com/windows
 

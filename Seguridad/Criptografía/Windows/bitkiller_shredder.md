@@ -8,7 +8,7 @@ Si bien es cierto que en la actualidad existen infinidades de software para la r
 
 <h1 align="center"></h1>
 
-## BitKiller
+### BITKILLER
 
 > BitKiller tritura de forma segura archivos y directorios, eliminándolos por completo de su disco duro. Puede sobrescribir archivos de manera rápida y eficiente utilizando cualquier cosa, desde datos aleatorios hasta el método Gutmann. También cambia los nombres de los archivos para que sean más difíciles de encontrar. No se necesita configuración ni instalación.
 
@@ -19,7 +19,7 @@ Tiene diferentes algoritmos de trituración, cada uno gradualmente más fuerte. 
 ![1](https://user-images.githubusercontent.com/75953873/179380282-7cdea9e6-73a5-437a-9af6-aa6ac6a5e58d.png)
 
 
-## File Shredder
+### FILE SHREDDER
 
 > Con File Shredder puede eliminar archivos de su disco duro sin temor a que puedan recuperarse. Para eliminar o triturar archivos permanentemente de su sistema, debe usar un programa que sea capaz de reescribir los archivos con series aleatorias de datos binarios varias veces. Este proceso a menudo se llama trituración. De esa manera, el contenido real del archivo se ha sobrescrito y las posibilidades de recuperar un archivo tan triturado son en su mayoría teóricas. File Shredder ha sido desarrollado como una herramienta rápida, segura y confiable para destruir archivos de la empresa.File Shredder es un programa simple pero poderoso que supera a muchas trituradoras de archivos comerciales que existen. El autor cree que dicha utilidad debería estar disponible para cualquier persona de forma gratuita y que la eliminación permanente y segura de documentos confidenciales es una cuestión de derecho básico a la privacidad.
 

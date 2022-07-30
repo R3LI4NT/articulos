@@ -52,7 +52,7 @@
   - `Anonimato`
   
   - <sub>O.S: **GNU / Linux**</sub>
-    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Esteganograf%C3%ADa/Windows/DeepSound.md" target="_blank">Ocultar archivos secretos en una pista de audio</a>
+    - <a href="" target="_blank">Configuración de Proxychains & Tor</a>
     
   - <sub>O.S: **Windows**</sub>
      - Proximamente

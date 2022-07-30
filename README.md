@@ -45,6 +45,14 @@
 
     - <sub>O.S: **Windows**</sub>
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Esteganograf%C3%ADa/Windows/DeepSound.md" target="_blank">Ocultar archivos secretos en una pista de audio</a>
+        
+- `Anonimato`
+  
+  - <sub>O.S: **GNU / Linux**</sub>
+    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Esteganograf%C3%ADa/Windows/DeepSound.md" target="_blank">Ocultar archivos secretos en una pista de audio</a>
+    
+  - <sub>O.S: **Windows**</sub>
+     - Proximamente
     
  
 <h1 align="center"></h1>

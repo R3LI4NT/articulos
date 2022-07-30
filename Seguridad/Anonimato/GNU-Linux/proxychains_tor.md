@@ -14,7 +14,7 @@ Un proxy es un intermediario, o mejor conocido como "puente" entre el cliente/us
 
 <h3 align="center">¿Qué es la red TOR?</h3>
 
-La red tor es un navegador de código abierto desarrollado en el año 2003 cuyo objetivo es proporcionar seguridad y privacidad al usuario en internet. Contiene una red de servidores proxy muy potentes, evitando todo tipo de control, bloqueos internacionales y seguimientos. Tor utiliza distintos nodos de enruamiento para llevar la petición que hagamos a su destino.
+La red tor es un navegador de código abierto desarrollado en el año 2003 cuyo objetivo es proporcionar seguridad y privacidad al usuario en internet. Contiene una red de servidores proxy muy potentes, evitando todo tipo de control, bloqueos internacionales y seguimientos. Tor utiliza distintos nodos de enruamiento para llevar la petición a su destino.
 
 **Nodo de entrada:** Se comunica con el cliente de Tor y conecta a los clientes con el resto de la red Tor.
 

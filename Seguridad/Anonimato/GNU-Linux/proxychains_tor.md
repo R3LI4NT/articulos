@@ -10,6 +10,8 @@ Un proxy es un intermediario, o mejor conocido como "puente" entre el cliente/us
 
 ![2](https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/img/servidor_proxy.png)
 
+<a href="#" align="center"><img src="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/img/servidor_proxy.png"></a>
+
 </br>
 
 <h3 align="center">¿Qué es la red TOR?</h3>

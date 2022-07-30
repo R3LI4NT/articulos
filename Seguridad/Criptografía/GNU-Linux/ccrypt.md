@@ -10,6 +10,8 @@ Esta herramienta esta basada en el cifrado belga Rijndael, mismo que es utilizad
 
 <h1 align="center"></h1>
 
+### CCRYPT
+
 **Instalar herramienta en Debian:**
 ```
 sudo apt-get install ccrypt

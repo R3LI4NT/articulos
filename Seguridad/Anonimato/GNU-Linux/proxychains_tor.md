@@ -10,4 +10,16 @@ Un proxy es un intermediario, o mejor conocido como "puente" entre el cliente/us
 
 ![2](https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/img/servidor_proxy.png)
 
+</br>
+
+<h3 align="center">¿Qué es la red TOR?</h3>
+
+La red tor es un navegador de código abierto desarrollado en el año 2003 cuyo objetivo es proporcionar seguridad y privacidad al usuario en internet. Contiene una red de servidores proxy muy potentes, evitando todo tipo de control, bloqueos internacionales y seguimientos. Tor utiliza distintos nodos de enruamiento para llevar la petición que hagamos a su destino.
+
+**Nodo de entrada:** Se comunica con el cliente de Tor y conecta a los clientes con el resto de la red Tor.
+
+**Nodo intermediario:** Se comunica solamente con otros nodos sin que el tráfico salga de la red Tor, se puede configurar para aumentar su seguridad.
+
+**Nodo de salida:** Es la salida del tráfico de Tor, el cliente recibe su respuesta del destinario y las envía de vuelta a la red del originario. Es el punto más crítico, pués, el tráfico puede ser analizado antes de salir a Internet.
+
 <h1 align="center"></h1>

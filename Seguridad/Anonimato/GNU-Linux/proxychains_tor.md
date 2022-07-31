@@ -34,10 +34,13 @@ La red tor es un navegador de código abierto desarrollado en el año 2003 cuyo 
 sudo apt-get install proxychains
 ```
 
+#### TOR
 **Instalar Tor en Debian:**
 ```
 sudo apt-get install tor
 ```
+
+</br>
 
 Lo primero que se debe hacer es ingresar a la configuración de proxychains4 y editar el archivo de configuración:
 ```

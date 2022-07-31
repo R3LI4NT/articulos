@@ -33,3 +33,12 @@ La red tor es un navegador de código abierto desarrollado en el año 2003 cuyo 
 ```
 sudo apt-get install proxychains
 ```
+
+Lo primero que se debe hacer es ingresar a la configuración de proxychains4 y editar el archivo de configuración:
+```
+sudo nano /etc/proxychains4.conf
+```
+
+Desmarcan (**#**) la línea de `dynamic_chain`, es la más dinámica ya que su función es saltar de servidor en servidor. Y marcan (**#**) la línea de `strict_chain`, es estricta y poco recomendable.
+
+![1](https://user-images.githubusercontent.com/75953873/182004430-fbc2b6cb-c15c-4a31-8598-9633685efb03.png)

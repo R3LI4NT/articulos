@@ -35,7 +35,7 @@ sudo apt-get install proxychains
 ```
 
 #### TOR
-**Instalar Tor en Debian:**
+**Instalar en Debian:**
 ```
 sudo apt-get install tor
 ```

@@ -55,3 +55,10 @@ Al final del archivo se encuentrán la lista de los servidores proxys. Los servi
 ```
 sudo apt-get install tor
 ```
+
+Iniciar y comprobar servicio de tor:
+```
+sudo service tor start 
+sudo service tor status
+```
+![3](https://user-images.githubusercontent.com/75953873/182004654-2d06883a-ad62-4795-ab39-dae0fabec20e.png)

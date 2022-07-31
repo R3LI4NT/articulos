@@ -62,3 +62,26 @@ sudo service tor start
 sudo service tor status
 ```
 ![3](https://user-images.githubusercontent.com/75953873/182004654-2d06883a-ad62-4795-ab39-dae0fabec20e.png)
+
+Para comprobar que nuestra dirección IP ha sido cambiada, ingresamos al navegador pero antes ejecutamos la herramienta:
+```
+proxychains firefox
+```
+![4](https://user-images.githubusercontent.com/75953873/182004806-b7b65eea-1820-4c6f-b95d-b7246b5894b4.png)
+
+Otra forma para reconocer nuestra dirección IP pero esta vez desde la terminal:
+```
+proxychains curl ifconfig.me
+proxychains curl checkip.dyndns.org
+```
+![5](https://user-images.githubusercontent.com/75953873/182004912-44806eea-e52b-4769-9f2c-2a800f41b700.png)
+
+</br>
+
+**¿Cómo cambiar de país?**
+
+Restaurar el servicio tor:
+```
+sudo service tor restart
+```
+![6](https://user-images.githubusercontent.com/75953873/182004956-177e8082-5890-4aa8-a37f-8dd4b85d676e.png)

@@ -34,6 +34,11 @@ La red tor es un navegador de código abierto desarrollado en el año 2003 cuyo 
 sudo apt-get install proxychains
 ```
 
+**Instalar Tor en Debian:**
+```
+sudo apt-get install tor
+```
+
 Lo primero que se debe hacer es ingresar a la configuración de proxychains4 y editar el archivo de configuración:
 ```
 sudo nano /etc/proxychains4.conf
@@ -46,3 +51,4 @@ Desmarcan (**#**) la línea de `dynamic_chain`, es la más dinámica ya que su f
 Al final del archivo se encuentrán la lista de los servidores proxys. Los servidores `SOCKS` son comúnmente los que utiliza Tor, socks4 solo utiliza TCP, mientras que socks5 TCP y UDP, por la cual la recomiendo. Guardar el archivo **CTRL + O + ENTER**.
 
 ![2](https://user-images.githubusercontent.com/75953873/182004552-68d77571-4664-4174-bc29-504291c2bebf.png)
+

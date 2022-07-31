@@ -28,3 +28,8 @@ La red tor es un navegador de código abierto desarrollado en el año 2003 cuyo 
 
 
 ### PROXYCHAINS
+
+**Instalar herramienta en Debian:**
+```
+sudo apt-get install proxychains
+```

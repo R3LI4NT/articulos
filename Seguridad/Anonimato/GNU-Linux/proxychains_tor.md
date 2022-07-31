@@ -43,7 +43,7 @@ Desmarcan (**#**) la línea de `dynamic_chain`, es la más dinámica ya que su f
 
 ![1](https://user-images.githubusercontent.com/75953873/182004430-fbc2b6cb-c15c-4a31-8598-9633685efb03.png)
 
-Al final del archivo se encuentrán la lista de los servidores proxys. Los servidores `SOCKS` son comúnmente los que utiliza Tor, socks4 solo utiliza TCP, mientras que socks5 TCP y UDP, por la cual la recomiendo. Guardar el archivo **CTRL + O + ENTER**.
+Al final del archivo se encuentrá la lista de los servidores proxys. Los servidores `SOCKS` son comúnmente los que utiliza Tor, socks4 solo utiliza TCP, mientras que socks5 TCP y UDP, por la cual la recomiendo. Guardar el archivo **CTRL + O + ENTER**.
 
 ![2](https://user-images.githubusercontent.com/75953873/182004552-68d77571-4664-4174-bc29-504291c2bebf.png)
 

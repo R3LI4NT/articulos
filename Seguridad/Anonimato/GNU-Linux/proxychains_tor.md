@@ -69,7 +69,7 @@ proxychains firefox
 ```
 ![4](https://user-images.githubusercontent.com/75953873/182004806-b7b65eea-1820-4c6f-b95d-b7246b5894b4.png)
 
-Otra forma para reconocer nuestra dirección IP pero esta vez desde la terminal:
+Otra forma para reconocer nuestra dirección IP pero desde la terminal:
 ```
 proxychains curl ifconfig.me
 proxychains curl checkip.dyndns.org

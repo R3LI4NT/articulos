@@ -45,7 +45,7 @@ Existen infinidades de servidores gratuitos con soporte OpenVPN de diferentes pa
 
 - **FreeVPN:** http://freevpn.me/accounts
 
-De preferencia, optaré por descargar un servidor gratuito de FreeOpenVPN y anotaré las credenciales que necesitaré para establecer la conexión.
+De preferencia, optaré por descargar un servidor gratuito de FreeOpenVPN y anoté las credenciales que necesitaré para establecer la conexión.
 
 ![4](https://user-images.githubusercontent.com/75953873/182973920-8c49bb84-9c27-41a4-9d91-d0c30afddb67.png)
 
@@ -59,5 +59,10 @@ sudo openvpn <SERVIDOR.ovpn>
 ```
 ![5](https://user-images.githubusercontent.com/75953873/182974041-a0351940-58b5-48c3-824e-2a2559c65885.png)
 
+</br>
+
+<h3 align="center">¡CONEXIÓN ESTABLECIDA CON ÉXITO!</h3>
+
+![6](https://user-images.githubusercontent.com/75953873/182974290-5698df85-8844-4a2a-89f9-3f5bbfd63880.png)
 
 

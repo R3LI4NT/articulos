@@ -54,7 +54,7 @@
   - <sub>O.S: **GNU / Linux**</sub>
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/proxychains_tor.md" target="_blank">Configuración de Proxychains & Tor</a>
     
-    - <a href="" target="_blank">Configurar una VPN con OpenVPN</a>
+    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/openvpn.md" target="_blank">Configurar una VPN con OpenVPN</a>
     
   - <sub>O.S: **Windows**</sub>
      - Proximamente

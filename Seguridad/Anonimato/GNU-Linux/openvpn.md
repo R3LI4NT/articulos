@@ -18,7 +18,7 @@ Es recomendado siempre leer las políticas del servicio VPN, no todas prometen s
 
 </br>
 
-<h3 align="center">¿Qué diferencia hay entre un VPN o servidor Proxy?</h3>
+<h3 align="center">¿Qué diferencia hay entre un VPN y un servidor Proxy?</h3>
 
 Un servidor proxy solo opera mediante aplicaciones, es decir, corre detrás de ellas. Mientras que un VPN opera desde todo el sistema operativo y redirige el tráfico en su totalidad. Los servidores VPN tienen mayor superioridad a la de un proxy.
 

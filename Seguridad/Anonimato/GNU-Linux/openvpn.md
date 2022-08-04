@@ -32,3 +32,27 @@ OpenVPN es una software libre que permite levantar una red privada virtual (VPN)
 ```
 sudo apt-get install openvpn 
 ```
+
+Existen infinidades de servidores gratuitos con soporte OpenVPN de diferentes países, tales como:
+
+- **FreeOpenVPN:** https://www.freeopenvpn.org/
+
+- **VPNbook:** https://www.vpnbook.com/
+
+- **FreeVPN4You:** https://www.vpnbook.com/
+
+- **VPNgate:** https://www.vpngate.net/en/
+
+- **FreeVPN:** http://freevpn.me/accounts
+
+De preferencia, optaré por descargar un servidor gratuito de VPNbook y anotaré las credenciales que necesitaré para establecer la conexión.
+
+![4](https://user-images.githubusercontent.com/75953873/182965859-b4a2305c-e63c-4000-bb99-7778bc8cc7ef.png)
+
+Usuario: `vpnbook`
+
+Contraseña: `n4862iu`
+
+Extraemos los archivos.
+
+![5](https://user-images.githubusercontent.com/75953873/182966889-3873b84f-7000-42d7-9856-aa444cb8b676.png)

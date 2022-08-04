@@ -35,7 +35,7 @@
     
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Criptograf%C3%ADa/Windows/AEScrypt.md" target="_blank">Cifrar archivos con AEScrypt</a>
      
-</br>
+
  
 - 
   - `Esteganografía`
@@ -46,7 +46,7 @@
     - <sub>O.S: **Windows**</sub>
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Esteganograf%C3%ADa/Windows/DeepSound.md" target="_blank">Ocultar archivos secretos en una pista de audio</a>
        
-</br>
+
 
 -
   - `Anonimato`

@@ -63,6 +63,5 @@ sudo openvpn <SERVIDOR.ovpn>
 
 <h3 align="center">¡CONEXIÓN ESTABLECIDA CON ÉXITO!</h3>
 
-![6](https://user-images.githubusercontent.com/75953873/182974290-5698df85-8844-4a2a-89f9-3f5bbfd63880.png)
-
+<a href="#" align="center"><img src="https://user-images.githubusercontent.com/75953873/182974290-5698df85-8844-4a2a-89f9-3f5bbfd63880.png"></a>
 

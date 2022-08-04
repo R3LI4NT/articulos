@@ -23,7 +23,7 @@
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/desautenticacion.md" target="_blank">Ataque de Desautenticación Wi-Fi</a>
         
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/autenticacion.md" target="_blank">Ataque de Autenticación Wi-Fi</a>
-
+        - 
 </br>
 
 - [x] Seguridad
@@ -39,7 +39,6 @@
     
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Criptograf%C3%ADa/Windows/AEScrypt.md" target="_blank">Cifrar archivos con AEScrypt</a>
      
-
  
 - 
   - `Esteganografía`

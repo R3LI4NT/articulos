@@ -66,3 +66,15 @@ sudo openvpn <SERVIDOR.ovpn>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75953873/182974290-5698df85-8844-4a2a-89f9-3f5bbfd63880.png">
 </p>
+
+</br>
+
+Ahora solo quedaría chequear nuestra dirección IP en el navegador:
+
+![6](https://user-images.githubusercontent.com/75953873/182974522-e8f17bb2-9890-4fd4-9795-8af308800837.png)
+
+Otra forma para reconocer nuestra dirección IP pero desde la terminal:
+```
+curl ifconfig.me && curl checkip.dyndns.org
+```
+![10](https://user-images.githubusercontent.com/75953873/182974662-d5364980-dfdb-4312-b918-c2a322e265ee.png)

@@ -23,3 +23,12 @@ Es recomendado siempre leer las políticas del servicio VPN, no todas prometen s
 Un servidor proxy solo opera mediante aplicaciones, es decir, corre detrás de ellas. Mientras que un VPN opera desde todo el sistema operativo y redirige el tráfico en su totalidad. Los servidores VPN tienen mayor superioridad a la de un proxy.
 
 <h1 align="center"></h1>
+
+
+### OPENVPN
+OpenVPN es una software libre que permite levantar una red privada virtual (VPN). Está basado en SSL/TLS, por lo tanto, permite crear certificados digitales de autenticación de clientes, así como autenticarnos con usuarios y contraseñas. Todo el tráfico es cifrado sin importar si la red es cableada (**Ethernet**) o inalámbrica (**802.11**), con cifrado WEP/WPA/WPA2 o sin cifrar.
+
+**Instalar herramienta en Debian:**
+```
+sudo apt-get install openvpn 
+```

@@ -45,14 +45,19 @@ Existen infinidades de servidores gratuitos con soporte OpenVPN de diferentes pa
 
 - **FreeVPN:** http://freevpn.me/accounts
 
-De preferencia, optaré por descargar un servidor gratuito de VPNbook y anotaré las credenciales que necesitaré para establecer la conexión.
+De preferencia, optaré por descargar un servidor gratuito de FreeOpenVPN y anotaré las credenciales que necesitaré para establecer la conexión.
 
-![4](https://user-images.githubusercontent.com/75953873/182965859-b4a2305c-e63c-4000-bb99-7778bc8cc7ef.png)
+![4](https://user-images.githubusercontent.com/75953873/182973920-8c49bb84-9c27-41a4-9d91-d0c30afddb67.png)
 
-Usuario: `vpnbook`
+Usuario: `freeopenvpn`
 
-Contraseña: `n4862iu`
+Contraseña: `186543146`
 
-Extraemos los archivos.
+Conectarse al servidor:
+```
+sudo openvpn <SERVIDOR.ovpn>
+```
+![5](https://user-images.githubusercontent.com/75953873/182974041-a0351940-58b5-48c3-824e-2a2559c65885.png)
 
-![5](https://user-images.githubusercontent.com/75953873/182966889-3873b84f-7000-42d7-9856-aa444cb8b676.png)
+
+

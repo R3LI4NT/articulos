@@ -15,4 +15,11 @@ Es recomendado siempre leer las políticas del servicio VPN, no todas prometen s
 </br>
 
 <a href="#" align="center"><img src="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/img/procesoVPN.png"></a>
+
+</br>
+
+<h3 align="center">¿Qué diferencia hay entre un VPN o servidor Proxy?</h3>
+
+Un servidor proxy solo opera mediante aplicaciones, es decir, corre detrás de ellas. Mientras un VPN opera desde todo el sistema operativo y redirige el tráfico en su totalidad. Los servidores VPN tienen mayor superioridad a la de un proxy.
+
 <h1 align="center"></h1>

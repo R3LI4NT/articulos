@@ -82,6 +82,7 @@ curl ifconfig.me && curl checkip.dyndns.org
 </br>
 
 <h1 alig="center"></h1>
+
 ### CONSECUENCIAS AL USAR SERVICIOS VPN'S GRATUITOS
 
 Lo más probable es que tu ancho de banda sea compartido con el resto de usuarios en internet para contribuir en el anonimato de estos, algunos servicios poco "confiables" se aprovechan de la ténica **Browser Hijacking** (secuestro del navegador) para redirigirte a sitios webs sin que tú lo hayas proporcionado (comparte similitud a DNS Spoofing). Otros servicios monitorean al tráfico del usuario y esté es guardado en sus servidores con la finalidad de vender la información personal de esté y ganar dinero sucio. Dependiendo del equipo detrás del servicio, una mala configuración por parte de estos puede exponer la dirección IP pública del usuario, poniendo en riesgo su seguridad y privacidad. Es por eso que se recomienda leer las políticas de seguridad, centrarse en la reputación y comentarios de clientes de la misma, sí es de paga mucho mejor.

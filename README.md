@@ -64,7 +64,10 @@
   - <sub>O.S: **Windows**</sub>
      - Proximamente
     
- 
+</br>
+
+</br>
+
 <h1 align="center"></h1>
 
 > TODO MATERIAL E INFORMACIÓN COMPARTIDO EN ESTE REPOSITORIO SON CON FINES EDUCATIVOS Y PRÁCTICOS, CON LA FINALIDAD DE EXPANDIR Y LIBERAR EL CONOCIMIENTO

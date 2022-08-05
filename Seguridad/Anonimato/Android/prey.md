@@ -13,3 +13,5 @@ Los sistemas de seguridad antirrobo sirven para proteger el acceso al dispositiv
 - ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
 
 <h1 align="center"></h1>
+
+<p style='color:red'>This is some red text.</p>

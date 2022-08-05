@@ -14,11 +14,15 @@ Prey es un software Antirrobo con plataforma de rastreo en línea para la admini
 
 > La principal herramienta de Prey es el rastreo de equipos móviles de manera remota, y el monitoreo activo de movimientos para la detección de conflictos como el robo y la pérdida. El servicio también ofrece reacciones automáticas ante la detección de movimientos no deseados, ejecutando seguridad remota al detectar el evento.
 
-Rastreo por GPS, Triangulación WiFi y GeoIP: Prey utiliza tres tecnologías de rastreo dependiendo del dispositivo y la tecnología que este tenga disponible. Se prioriza el GPS cuando está presente, pero se dispone de la triangulación de redes WiFi y el GeoIP para ubicar laptops y tabletas sin GPS.
-Historial de Ubicaciones: El usuario puede acceder a un registro por equipo que visualiza las ubicaciones pasadas en un mapa, segmentadas por día y actividad.
-Zonas de Control: Funcionalidad de Geovalla. El usuario puede delimitar áreas en un mapa en las cuales Prey monitoreará el movimiento de dispositivos y reaccionará, según especifique el usuario, a la entrada y salida de equipos vinculados.
-Vista Global: Vista de mapa que muestra la ubicación de todos los dispositivos vinculados a la cuenta.
-Preferencias de Rastreo: Configuración que permite cambiar entre un rastreo activo e inteligente, y el rastreo de ubicación manual.
+> **Rastreo por GPS, Triangulación WiFi y GeoIP:** Prey utiliza tres tecnologías de rastreo dependiendo del dispositivo y la tecnología que este tenga disponible. Se prioriza el GPS cuando está presente, pero se dispone de la triangulación de redes WiFi y el GeoIP para ubicar laptops y tabletas sin GPS.
+
+> **Historial de Ubicaciones:** El usuario puede acceder a un registro por equipo que visualiza las ubicaciones pasadas en un mapa, segmentadas por día y actividad.
+
+> **Zonas de Control:** Funcionalidad de Geovalla. El usuario puede delimitar áreas en un mapa en las cuales Prey monitoreará el movimiento de dispositivos y reaccionará, según especifique el usuario, a la entrada y salida de equipos vinculados.
+
+> **Vista Global:** Vista de mapa que muestra la ubicación de todos los dispositivos vinculados a la cuenta.
+ 
+> **Preferencias de Rastreo:** Configuración que permite cambiar entre un rastreo activo e inteligente, y el rastreo de ubicación manual.
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.prey"><img src="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/Android/img/prey.png"</a>

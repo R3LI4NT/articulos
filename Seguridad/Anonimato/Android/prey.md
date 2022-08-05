@@ -10,6 +10,7 @@ Los sistemas de seguridad antirrobo sirven para proteger el acceso al dispositiv
 
 <h3 align="center">APLICACIÓN PRAY</h3>
 
-<span style="color: green"> Some green text </span>
+<font color="green"> Some green text </font>
+
 
 <h1 align="center"></h1>

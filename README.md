@@ -60,7 +60,10 @@
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/proxychains_tor.md" target="_blank">Configuración de Proxychains & Tor</a>
     
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/openvpn.md" target="_blank">Configurar una VPN con OpenVPN</a>
-    
+  
+  - <sub>O.S: **Android**</sub>
+     - <a href="#" target="_blank">[AntiRobo] aplicación Prey</a>
+     
   - <sub>O.S: **Windows**</sub>
      - Proximamente
     

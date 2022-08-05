@@ -77,7 +77,7 @@ Otra forma para reconocer nuestra dirección IP pero desde la terminal:
 ```
 curl ifconfig.me && curl checkip.dyndns.org
 ```
-![10](https://user-images.githubusercontent.com/75953873/182974662-d5364980-dfdb-4312-b918-c2a322e265ee.png)
+![10](https://user-images.githubusercontent.com/75953873/182976217-8cb1eece-e822-4acf-821b-31eee69cb547.png)
 
 </br>
 

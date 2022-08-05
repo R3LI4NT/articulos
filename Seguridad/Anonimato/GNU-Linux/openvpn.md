@@ -79,9 +79,9 @@ curl ifconfig.me && curl checkip.dyndns.org
 ```
 ![10](https://user-images.githubusercontent.com/75953873/182976217-8cb1eece-e822-4acf-821b-31eee69cb547.png)
 
-</br>
-
 <h1 alig="center"></h1>
+
+</br>
 
 ### ⚠️ CONSECUENCIAS AL USAR SERVICIOS VPN'S GRATUITOS ⚠️
 

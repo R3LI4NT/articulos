@@ -27,9 +27,9 @@ Prey es un software Antirrobo con plataforma de rastreo en línea para la admini
 > **Preferencias de Rastreo:** Configuración que permite cambiar entre un rastreo activo e inteligente, y el rastreo de ubicación manual.
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.prey"><img src="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/Android/img/prey.png"</a>
+  <a href="https://play.google.com/store/apps/details?id=com.prey"><img src="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/Android/img/prey.png"></a>
 </p>
-  
+
 **Web oficial:** https://preyproject.com/es/
   
 **Descargar desde PlayStore:** https://play.google.com/store/apps/details?id=com.prey

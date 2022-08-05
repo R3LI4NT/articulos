@@ -11,7 +11,7 @@ Los sistemas de seguridad antirrobo sirven para proteger el acceso al dispositiv
 <h3 align="center">APLICACIÓN PREY</h3>
 
 
-<a href="" alig="center"><img src="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/Android/img/prey.png"></a>
+<a href="" alig="center"><img src="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/Android/img/prey.png" width="600" height="350"></a>
 
 <h1 align="center"></h1>
 

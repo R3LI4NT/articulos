@@ -62,7 +62,7 @@
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/openvpn.md" target="_blank">Configurar una VPN con OpenVPN</a>
   
   - <sub>O.S: **Android**</sub>
-     - <a href="#" target="_blank">[AntiRRobo] aplicación Prey</a>
+     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/Android/prey.md" target="_blank">[AntiRRobo] aplicación Prey</a>
      
   - <sub>O.S: **Windows**</sub>
      - Proximamente

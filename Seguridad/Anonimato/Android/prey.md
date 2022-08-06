@@ -51,3 +51,6 @@ Al iniciar sesión desde la App, deberán víncular su dispositivo en el ícono 
 
 ![3](https://user-images.githubusercontent.com/75953873/183225720-6c045897-53fd-4b51-8547-e825f5b7710a.jpg)
 
+En el apartado de control pueden ubicar el dispositivo, hacer sonar una alarma o mandar un mensaje de alerta:
+
+![4](https://user-images.githubusercontent.com/75953873/183225828-02c67208-781d-42be-b7b6-d67a901ae7ce.jpg)

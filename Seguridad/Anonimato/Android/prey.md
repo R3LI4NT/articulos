@@ -67,3 +67,7 @@ Ahora bien, en caso de un robo o pérdida, para ubicar el dispositivo tendríamo
 Al marcar el dispositivo como perdido, esté emitirá una alerta cada cierto tiempo para identificar la ubicación del dispositivo:
 
 ![7](https://user-images.githubusercontent.com/75953873/183226555-51a8472d-0529-49c0-9928-963aa6f2e089.png)
+
+Si el dispositivo se encuentra desbloqueado existe la posibilidad de mandar un mensaje de alerta para que esté sea advertido:
+
+![8](https://user-images.githubusercontent.com/75953873/183226814-95ec5f60-9b9d-4066-98d6-f821bf625e5a.jpg)

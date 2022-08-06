@@ -49,4 +49,5 @@ Una vez la aplicación este instalada nos pedirá crearnos una cuenta desde su s
 
 Al iniciar sesión desde la App, deberán víncular su dispositivo en el ícono de "**+**".
 
-![3](https://user-images.githubusercontent.com/75953873/183225676-603143db-d22b-4582-827a-b177d5d94471.jpg)
+![3](https://user-images.githubusercontent.com/75953873/183225720-6c045897-53fd-4b51-8547-e825f5b7710a.jpg)
+

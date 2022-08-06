@@ -85,7 +85,7 @@ Luego del reinicio, solo quedaría probar el modo monitor:
 <h1 align="center"></h1>
 
 ### Solución para versiones 5.18.0 en adelante
-Para este caso los controladores oficiales de aircrack quedarón inutilizable para la nueva versión del kernel de Kali Linux, es por ello que el usuario @KanuX-14 modifico los controladores pero con pasos extras.
+Para este caso los controladores oficiales de aircrack quedarón inutilizable para la nueva versión del kernel de Kali Linux, es por ello que el usuario <a href="https://github.com/KanuX-14">@KanuX-14</a> modifico los controladores pero con pasos extras.
 
 ```
 > sudo apt update
@@ -117,6 +117,8 @@ Para este caso los controladores oficiales de aircrack quedarón inutilizable pa
 <img src="https://user-images.githubusercontent.com/75953873/183260481-5c55a9b9-e365-4dcb-8449-bb8c15ef54fd.png">
 </p>
 
-</br>
-
 <h1 align="center"></h1>
+
+
+
+#### ~R3LI4NT~

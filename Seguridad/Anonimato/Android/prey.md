@@ -85,7 +85,7 @@ El registro de actividad nos mostrará todas las acciones que hemos ejecutado co
 ![11](https://user-images.githubusercontent.com/75953873/183227389-b21790b3-76c3-40bb-80e6-4897919f5e4f.png)
 
 
-La alarma de alerta es útil para asustar al ladrón en caso de que se encuentre en un espacio público, la ventaja de está es que por más que traté de bajar el volúmen no funciona ya que la aplicación se encarga de mantenerlo al máximo para que suene lo más alto posible.
+La alarma de alerta es útil para asustar al ladrón en caso de que se encuentre en un espacio público, la ventaja de está es que por más que intente bajar el volúmen no funciona ya que la aplicación se encarga de mantenerlo al máximo para que suene lo más alto posible.
 
 ![12](https://user-images.githubusercontent.com/75953873/183227537-73a2d595-392a-4036-bf11-1b949c06e2b7.png)
 

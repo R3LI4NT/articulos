@@ -70,4 +70,7 @@ Al marcar el dispositivo como perdido, esté emitirá una alerta cada cierto tie
 
 Si el dispositivo se encuentra desbloqueado existe la posibilidad de mandar un mensaje de alerta para que esté sea advertido:
 
-![8](https://user-images.githubusercontent.com/75953873/183226814-95ec5f60-9b9d-4066-98d6-f821bf625e5a.jpg)
+![8](https://user-images.githubusercontent.com/75953873/183226983-e67229c6-8d92-4fbe-add7-cb33c8f57607.png)
+
+![9](https://user-images.githubusercontent.com/75953873/183226994-79d1b336-c262-4187-baf3-3b1d61920d45.jpg)
+

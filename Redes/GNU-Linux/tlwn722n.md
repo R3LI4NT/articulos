@@ -49,3 +49,10 @@ Aircrack lanzó un controlador oficial para RTL8188eus en su repositorio, por lo
 + git clone https://github.com/aircrack-ng/rtl8188eus
 + cd rtl8188eus
 ```
+
+Dentro del directorio, hay que incluir en la lista negra los controladores antiguos:
+```diff
+! sudo -i
+! echo "blacklist r8188eu" > "/etc/modprobe.d/realtek.conf"
+! exit
+```

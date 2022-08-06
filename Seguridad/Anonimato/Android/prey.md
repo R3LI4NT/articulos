@@ -59,6 +59,8 @@ Esta versión es gratuita y por lo tanto límitada (máximo 3 dispositivos), per
 
 ![5](https://user-images.githubusercontent.com/75953873/183225960-c55be9d4-633b-4681-abe4-0a0bde764a9d.jpg)
 
+![4 (2)](https://user-images.githubusercontent.com/75953873/183227592-f4015463-0e3a-4d00-8ec1-016cf76198bf.jpg)
+
 
 Ahora bien, en caso de un robo o pérdida, para ubicar el dispositivo tendríamos que acceder al panel de administración e iniciar sesión: https://panel.preyproject.com/login?redirect=/app
 

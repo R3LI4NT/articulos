@@ -12,4 +12,11 @@ Una dirección MAC (Media Access Control) es un identificador único que se le a
   <img src="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/img/direccionMAC.png">
 </p>
 
+Al ser identificadores únicos, un administrador de red puede crear listas para denegar a uno o varios dispositivos a la red.
+
+**Lista blanca:** Identificadores que tienen `permitido` acceder a la red.
+
+**Lista negra:** Identificadores que tienen `prohibido` acceder a la red.
+
+El filtrado por MAC es útil para expulsar intrusos de la red pero es fácil burlarse de su seguridad con un cambio de MAC. Primeramente, el atacante pone su tarjeta en modo monitor y luego captura los paquetes de la red objetivo (sin estar conectado a dicha red) con `airodump`, lo que le permitirá ver los clientes (STATIONS) conectados a la red y suplantar su dirección MAC aceptada.
 <h1 align="center"></h1>

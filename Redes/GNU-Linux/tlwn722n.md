@@ -62,3 +62,22 @@ Luego necesitamos compilar este controlador e instalarlo con el comando "`make`"
 - make
 - sudo make install
 ```
+
+Posteriormente utilizamos el comando `modprobe` para configurar los drivers:
+```diff
++ sudo modprobe 8188eu
+```
+
+Y por último reiniciar el sistema:
+```diff
+! reboot
+```
+
+Luego del reinicio, solo quedaría probar el modo monitor:
+```diff
++ ifconfig wlan0 down
++ airmon-ng check kill
++ iwconfig wlan0 mode monitor
++ ifconfig wlan0 up
++ iwconfig
+```

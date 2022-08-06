@@ -119,6 +119,16 @@ Para este caso los controladores oficiales de aircrack quedarón inutilizable pa
 
 <h1 align="center"></h1>
 
+##### Sala de discusión:
+- https://github.com/aircrack-ng/rtl8188eus/issues/64
+
+</br> 
+
+##### Créditos:
+- https://github.com/aircrack-ng/rtl8188eus
+
+- https://github.com/KanuX-14
+
 
 
 #### ~R3LI4NT~

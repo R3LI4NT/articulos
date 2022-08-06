@@ -43,3 +43,10 @@ Fuente: https://es.wikipedia.org/wiki/Prey_(software)#Caracter%C3%ADsticas
 
 <h1 align="center"></h1>
 
+Una vez la aplicación este instalada nos pedirá crearnos una cuenta desde su sitio oficial, recomiendo que utilicen protonmail como correo seguro: https://panel.preyproject.com/signup
+
+![2](https://user-images.githubusercontent.com/75953873/183225063-be0cd66c-b21c-4d39-91b6-8057a84b63d9.png)
+
+Al iniciar sesión desde la App, deberán víncular su dispositivo en el ícono de "**+**".
+
+![3](https://user-images.githubusercontent.com/75953873/183225676-603143db-d22b-4582-827a-b177d5d94471.jpg)

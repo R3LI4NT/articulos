@@ -11,3 +11,4 @@
 <h1 align="center"></h1>
 
 <h3 align="center">ADAPTADOR TP-LINK TL-WN722N</h3>
+El adaptador USB inalámbrico TL-WN722N fue desarrollado y es mantenido por la empresa <a href="https://es.wikipedia.org/wiki/TP-LINK">TP-Link Technologies CO. LTD</a>.

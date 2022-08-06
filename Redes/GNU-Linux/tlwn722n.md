@@ -13,7 +13,7 @@
 <h3 align="center">ADAPTADOR TP-LINK TL-WN722N</h3>
 El adaptador USB inalámbrico TL-WN722N fue desarrollado y es mantenido por la empresa <a href="https://www.tp-link.com/us/">TP-Link Technologies CO. LTD</a>. Permite conectar una computadora de escritorio o portátil a una red inalámbrica y acceder a una conexión a Internet de alta velocidad. Proporciona una velocidad inalámbrica de hasta 150 Mbps, lo que es beneficioso para los juegos en línea o incluso la transmisión de video.
 
-##### Problema con Kali Linux
+#### Problema con Kali Linux
 Luego de que Offensive Security lanzará la nueva versión de Kali Linux, el kernel de esté también se actualizó lo que hizo que afectará los controladores del adaptador en versiones 5.0.0 del kernel en adelante. El adaptador es reconocido perfectamente y deja navegar en internet, pero al momento de ponerlo en modo monitor devuelve el siguiente error:
 
 <p align="center">

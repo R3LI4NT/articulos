@@ -55,6 +55,11 @@ En el apartado de control pueden ubicar el dispositivo, hacer sonar una alarma, 
 
 ![4](https://user-images.githubusercontent.com/75953873/183225828-02c67208-781d-42be-b7b6-d67a901ae7ce.jpg)
 
-Esta versión es gratuita y por lo tanto límitada, pero si tienen la posibilidad de acudir a algún plan, entonces pueden ver los diferentes precios y características: https://preyproject.com/es/precios/?s=menu
+Esta versión es gratuita y por lo tanto límitada (máximo 3 dispositivos), pero si tienen la posibilidad de acudir a algún plan, entonces pueden ver los diferentes precios y características: https://preyproject.com/es/precios/?s=menu
 
 ![5](https://user-images.githubusercontent.com/75953873/183225960-c55be9d4-633b-4681-abe4-0a0bde764a9d.jpg)
+
+
+Ahora bien, en caso de un robo o pérdida para ubicar el dispositivo tendríamos que acceder al panel de administración e iniciar sesión: https://panel.preyproject.com/login?redirect=/app
+
+![6](https://user-images.githubusercontent.com/75953873/183226514-7a97269b-7b20-4845-a70e-8c11827f5380.png)

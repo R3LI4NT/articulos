@@ -127,6 +127,6 @@ Para este caso los controladores oficiales de aircrack quedarón inutilizable pa
 
 - https://github.com/KanuX-14/rtl8188eus
 
-- Compartido también en: https://hackxcrack.net/foro/hacking-wireless/poner-adaptador-tl-wn722n-v2v3-en-modo-monitor-en-kali-linux-2022/
+- https://hackxcrack.net/foro/hacking-wireless/poner-adaptador-tl-wn722n-v2v3-en-modo-monitor-en-kali-linux-2022/
 
 #### ~R3LI4NT~

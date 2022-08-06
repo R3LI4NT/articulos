@@ -56,3 +56,9 @@ Dentro del directorio, hay que incluir en la lista negra los controladores antig
 ! echo "blacklist r8188eu" > "/etc/modprobe.d/realtek.conf"
 ! exit
 ```
+
+Luego necesitamos compilar este controlador e instalarlo con el comando "`make`":
+```diff
+@@ make@@
+@@ sudo make install@@
+```

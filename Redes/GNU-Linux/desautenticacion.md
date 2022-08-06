@@ -9,7 +9,9 @@ Un ataque de desautenticación Wi-Fi, también conocido como denegación de serv
 
 En el siguiente esquema se observa como el `Atacante` envía solicitudes masivas al `Punto de Acceso`, haciendo que el/los clientes u otros equipos que estén conectados a la red LAN se vean afectados.
 
-![esquema_desautenticacion](https://user-images.githubusercontent.com/75953873/180201683-5b0b1d4d-154d-4f3e-91a0-ecec5e35e4c1.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75953873/180201683-5b0b1d4d-154d-4f3e-91a0-ecec5e35e4c1.png">
+</p>
 
 <h1 align="center"></h1>
 

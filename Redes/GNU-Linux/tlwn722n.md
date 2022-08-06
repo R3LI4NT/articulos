@@ -25,10 +25,19 @@ Luego de que Offensive Security lanzará la nueva versión de Kali Linux, el ker
 ### Solución para versiones 4.X.X | 5.X.X
 El primer paso es actualizar la lista de paquetes disponibles y sus versiones.
 ```diff
-! sudo apt-get update && sudo apt-get dist-upgrade
+- sudo apt-get update && sudo apt-get dist-upgrade
 ```
 
 Luego, instalan el paquete `bc`. Es una calculadora que se puede utilizar en la línea de comandos, su principal utilidad en los scripts bash es realizar operaciones matemáticas  y que nos devuelva un valor.
 ```diff
-- sudo apt-get install bc
+! sudo apt-get install bc
 ```
+
+Los `linux-headers` son los encabezados de paquetes que contiene el kernel para definir los componentes del núcleo y sus interfaces, como también para compilar drivers y meterlos en el código del núcleo. Para instalar los encabezados más recientes debemos de ejecutar el siguiente comando:
+```diff
++ sudo apt-get install -y bc linux-headers-$(uname -r)
+```
+No es necesario específicar una versión, al incluir "`uname -r`" esté automáticamente reconocerá las versiones compatibles con tu sistema e intentará instalar la más adecuada.
+
+
+

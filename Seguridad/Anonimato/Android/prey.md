@@ -93,7 +93,7 @@ La alarma de alerta es útil para asustar al ladrón en caso de que se encuentre
 
 <h1 align="center"></h1>
 
-<p alig="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/75953873/183227661-ecfa023c-4d6e-47bb-84c7-69071235896a.jpg">
 </p>
 

@@ -19,3 +19,11 @@ Luego de que Offensive Security lanzará la nueva versión de Kali Linux, el ker
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75953873/183257849-f1876da4-cbbc-44ab-acf3-f9cbfbfc4f6e.png">
 </p>
+
+<h1 align="center"></h1>
+
+### Solución para versiones 4.X.X | 5.X.X
+El primer paso es actualizar la lista de paquetes disponibles y sus versiones.
+```diff
+- sudo apt-get update && sudo apt-get dist-upgrade
+```

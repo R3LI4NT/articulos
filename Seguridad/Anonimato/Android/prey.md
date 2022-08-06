@@ -76,7 +76,7 @@ Si el dispositivo se encuentra desbloqueado existe la posibilidad de mandar un m
 
 ![9](https://user-images.githubusercontent.com/75953873/183226994-79d1b336-c262-4187-baf3-3b1d61920d45.jpg)
 
-Luego también tenemos la posibilidad de bloquear la pantalla y cambiar la contraseña de la misma cuantas veces quisieramos.
+Luego también tenemos la posibilidad de bloquear la pantalla y cambiar la contraseña de la misma cuantas veces quisiéramos.
 
 ![10](https://user-images.githubusercontent.com/75953873/183227136-f739a9c4-3b24-4cb8-9b7b-d324868358be.png)
 

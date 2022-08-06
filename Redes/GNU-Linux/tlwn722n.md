@@ -75,9 +75,34 @@ Y por último reiniciar el sistema:
 
 Luego del reinicio, solo quedaría probar el modo monitor:
 ```diff
-+ ifconfig wlan0 down
++ ifconfig <INTERFAZ> down
 + airmon-ng check kill
-+ iwconfig wlan0 mode monitor
-+ ifconfig wlan0 up
++ iwconfig <INTERFAZ> mode monitor
++ ifconfig <INTERFAZ> up
 + iwconfig
+```
+
+<h1 align="center"></h1>
+
+### Solución para versiones 5.18.0 en adelante
+Para este caso los controladores oficiales de aircrack quedarón inutilizable para la nueva versión del kernel de Kali Linux, es por ello que el usuario @KanuX-14 modifico los controladores pero con pasos extras.
+
+```
+> sudo apt update
+> sudo apt upgrade
+> sudo reboot
+> sudo apt install bc
+> sudo apt-get install build-essential 
+> sudo apt-get install libelf-dev 
+> sudo apt-get install linux-headers-$('uname -r')
+> cd Desktop
+> git clone https://github.com/KanuX-14/rtl8188eus.git
+> cd rtl8188eus
+> sudo -i
+> echo "blacklist r8188eu" > "/etc/modprobe.d/realtek.conf"
+> exit
+> sudo reboot
+> cd Desktop
+> cd rtl8188eus
+> sh -c "$(curl -fsSL https://raw.githubusercontent.com/KanuX-14/rtl8188eus/v5.3.9/build.sh)"
 ```

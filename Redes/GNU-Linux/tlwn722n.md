@@ -37,7 +37,10 @@ Los `linux-headers` son los encabezados de paquetes que contiene el kernel para 
 ```diff
 + sudo apt-get install -y bc linux-headers-$(uname -r)
 ```
-No es necesario específicar una versión, al incluir "`uname -r`" esté automáticamente reconocerá las versiones compatibles con tu sistema e intentará instalar la más adecuada.
+No es necesario especificar una versión, al incluir "`uname -r`" esté automáticamente reconocerá las versiones compatibles con tu sistema e intentará instalar la más adecuada.
 
-
+Después de instalar los headers hay que eliminar el módulo `r8188eu.ko` con `rmmod:
+```diff
+! sudo rmmod r8188eu.ko
+```
 

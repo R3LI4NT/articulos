@@ -63,3 +63,7 @@ Esta versión es gratuita y por lo tanto límitada (máximo 3 dispositivos), per
 Ahora bien, en caso de un robo o pérdida para ubicar el dispositivo tendríamos que acceder al panel de administración e iniciar sesión: https://panel.preyproject.com/login?redirect=/app
 
 ![6](https://user-images.githubusercontent.com/75953873/183226514-7a97269b-7b20-4845-a70e-8c11827f5380.png)
+
+Al marcar el dispositivo como perdido, esté emitirá una alerta cada cierto tiempo para identificar la ubicación del dispositivo:
+
+![7](https://user-images.githubusercontent.com/75953873/183226555-51a8472d-0529-49c0-9928-963aa6f2e089.png)

@@ -64,16 +64,20 @@ Ahora bien, en caso de un robo o pérdida, para ubicar el dispositivo tendríamo
 
 ![6](https://user-images.githubusercontent.com/75953873/183226514-7a97269b-7b20-4845-a70e-8c11827f5380.png)
 
-Al marcar el dispositivo como perdido, esté emitirá una alerta cada cierto tiempo para identificar la ubicación del dispositivo:
+Al marcar el dispositivo como perdido, esté emitirá una alerta cada cierto tiempo para identificar la ubicación del dispositivo.
 
 ![7](https://user-images.githubusercontent.com/75953873/183226555-51a8472d-0529-49c0-9928-963aa6f2e089.png)
 
-Si el dispositivo se encuentra desbloqueado existe la posibilidad de mandar un mensaje de alerta para que esté sea advertido:
+Si el dispositivo se encuentra desbloqueado existe la posibilidad de mandar un mensaje de alerta para que esté sea advertido.
 
 ![8](https://user-images.githubusercontent.com/75953873/183226983-e67229c6-8d92-4fbe-add7-cb33c8f57607.png)
 
 ![9](https://user-images.githubusercontent.com/75953873/183226994-79d1b336-c262-4187-baf3-3b1d61920d45.jpg)
 
-Luego también tenemos la posibilidad de bloquear la pantalla y cambiar la contraseña de la misma cuantas veces quisieramos:
+Luego también tenemos la posibilidad de bloquear la pantalla y cambiar la contraseña de la misma cuantas veces quisieramos.
 
 ![10](https://user-images.githubusercontent.com/75953873/183227136-f739a9c4-3b24-4cb8-9b7b-d324868358be.png)
+
+El registro de actividad nos mostrará todas las acciones que hemos ejecutado con Prey.
+
+![11](https://user-images.githubusercontent.com/75953873/183227389-b21790b3-76c3-40bb-80e6-4897919f5e4f.png)

@@ -59,6 +59,6 @@ Dentro del directorio, hay que incluir en la lista negra los controladores antig
 
 Luego necesitamos compilar este controlador e instalarlo con el comando "`make`":
 ```diff
-@@ make@@
-@@ sudo make install@@
+- make
+- sudo make install
 ```

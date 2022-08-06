@@ -99,3 +99,19 @@ La alarma de alerta es útil para asustar al ladrón en caso de que se encuentre
 
 <h1 align="center"></h1>
 
+</br>
+
+### TIP DE RECOMENDACIÓN
+Recomiendo que escondan la aplicación en una carpeta entre medio de otras aplicaciones para pasar desapercibida o instalar una aplicación para camuflarla/ocultarla/bloquearla en el escritorio. Por ejemplo:
+
+- **Hidden App (ROOT)**: https://play.google.com/store/apps/details?id=com.phongphan.disableapp
+
+- **AppLock:** https://play.google.com/store/apps/details?id=com.domobile.applockwatcher&hl=es_UY&gl=US
+
+- **App Icon Hider (NO ROOT):** https://play.google.com/store/apps/details?id=com.appiconhider&hl=es_UY&gl=US
+
+![14](https://user-images.githubusercontent.com/75953873/183228723-4b16e0d8-8ccc-465f-9d62-ee1ba34daf47.jpg)
+
+
+
+#### ~R3LI4NT~

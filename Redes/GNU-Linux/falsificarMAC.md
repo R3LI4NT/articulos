@@ -55,6 +55,8 @@ sudo nmap -sP 192.168.1.0/24
 ```
 ![5](https://user-images.githubusercontent.com/75953873/183270094-8638c053-a42e-4c5c-8ee0-7b65109141c8.png)
 
+<h1 align="center"></h1>
+
 </br>
 
 ### CAMBIAR DIRECCIÓN MAC | Automatizado

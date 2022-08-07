@@ -25,3 +25,21 @@ El filtrado por MAC es útil para expulsar intrusos de la red pero es fácil bur
 Antes que nada, hay que identificar la dirección MAC de nuestra tarjeta de red. El comando "`ifconfig`" es muy útil ya que permite desplegar todas las interfaces de red conectadas a nuestro sistema, así como mostrar información de su IP y MAC, entre otras.
 
 ![2](https://user-images.githubusercontent.com/75953873/183269576-fd22db23-1d23-4498-8a94-3884045b0357.png)
+
+Para falsificar la dirección manualmente, en primer lugar hay que deshabilitar el adaptador de red:
+```
+sudo ifconfig <INTERFAZ> down
+```
+
+Asignamos la dirección MAC usando con la orden:
+```
+sudo ifconfig <INTERFAZ> hw ether <MAC>
+```
+**Ej:** sudo ifconfig eth0 hw ether 08:00:46:ab:2b:1b
+
+Activamos el adaptador de red:
+
+```
+sudo ifconfig <INTERFAZ> up
+```
+![3](https://user-images.githubusercontent.com/75953873/183269940-caf02f43-c38b-4d73-8cb9-dcd9dca88b57.png)

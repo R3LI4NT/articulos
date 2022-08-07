@@ -43,8 +43,14 @@ sudo ifconfig <INTERFAZ> up
 ```
 ![3](https://user-images.githubusercontent.com/75953873/183269940-caf02f43-c38b-4d73-8cb9-dcd9dca88b57.png)
 
-Ejecutamos ifconfig para comprobar el cambio:
+Ejecutamos `ifconfig` para comprobar el cambio:
 ```
 ifconfig <INTERFAZ> 
 ```
 ![4](https://user-images.githubusercontent.com/75953873/183269978-6b07a03a-e065-4ea8-b893-250fa2399519.png)
+
+Al hacer un mapeo con Nmap a nuestra red local podemos observar que nuestra MAC cambio y es legible para cualquiera que esté conectado a la misma red.
+```
+sudo nmap -sP 192.168.1.0/24
+```
+![5](https://user-images.githubusercontent.com/75953873/183270094-8638c053-a42e-4c5c-8ee0-7b65109141c8.png)

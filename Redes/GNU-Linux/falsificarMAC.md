@@ -22,3 +22,6 @@ El filtrado por MAC es útil para expulsar intrusos de la red pero es fácil bur
 <h1 align="center"></h1>
 
 ### CAMBIAR DIRECCIÓN MAC | Manual
+Antes que nada, hay que identificar la dirección MAC de nuestra tarjeta de red. El comando "`ifconfig`" es muy útil ya que permite desplegar todas las interfaces de red conectadas a nuestro sistema, así como mostrar información de su IP y MAC, entre otras.
+
+![2](https://user-images.githubusercontent.com/75953873/183269576-fd22db23-1d23-4498-8a94-3884045b0357.png)

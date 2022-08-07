@@ -85,3 +85,25 @@ macchanger -A <INTERFAZ>
 ![10](https://user-images.githubusercontent.com/75953873/183270900-1809a73f-00e7-4617-9231-26010d462944.png)
 
 ![11](https://user-images.githubusercontent.com/75953873/183270956-8cc65696-3e89-4ca6-82a8-53b1e3eeea39.png)
+
+La herramienta contiene una lista de todas las direcciones MAC existentes según la empresa fabricante. Desplegar lista con el parámetro "`-l`":
+```
+macchanger -l
+```
+![12](https://user-images.githubusercontent.com/75953873/183270996-9d936419-9022-471e-9927-c79490d84c00.png)
+
+Volviendo al principio, los primeros 6 dígitos identifican al fabricante. Por ejemplo, **d8:57:ef** corresponde a **Samsung Electronics** y así sucesivamente. En caso de querer utilizar una dirección MAC en específico acompañamos el parámetro "`-l`" + "`| grep "nombre-del-fabricante"`".
+
+**Ej:** macchanger -l | grep "NATIONAL SECURITY AGENCY"
+
+![13](https://user-images.githubusercontent.com/75953873/183271098-431b10e8-b9b6-4e5a-a2d2-00262a08f0a7.png)
+
+**00:20:91** son los 6 dígitos correspondientes a la Agencia de Seguridad Nacional de los Estados Unidos, pero bien podría ser Samsung, Xiaomi, etc.
+
+Al tener ya los 6 dígitos principales, los otros que restan pueden ser inventados:
+```
+macchanger --mac=<MAC> <INTERFAZ>
+```
+**Ej:** macchanger --mac=00:20:91:01:02:03 wlan0
+
+![14](https://user-images.githubusercontent.com/75953873/183271166-60bb1023-9e3f-4991-8d5d-e9475502b87f.png)

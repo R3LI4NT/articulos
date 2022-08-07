@@ -63,3 +63,21 @@ Lo mismo si hicieramos un `arp -a` desde el CMD:
 </br>
 
 ### CAMBIAR DIRECCIÓN MAC | Automatizado
+Existen herramientas gratuitas para automatizar la tarea, como lo es MACchanger que ya viene incorporada en Kali.
+
+**Instalar herramienta en Debian:**
+```
+sudo apt-get install macchanger
+```
+
+Desplegar la dirección MAC actual con el parámetro "`-s`":
+```
+macchanger -s <INTERFAZ>
+```
+![8](https://user-images.githubusercontent.com/75953873/183270712-b485940b-9a04-46ad-9c9c-31604c8d018f.png)
+
+Cambiar la dirección MAC a una aleatoria con el parámetro "`-A`". Recuerden que primero deben deshabilitar la tarjeta de red y por último volvera activarla.
+```
+macchanger -A <INTERFAZ>
+```
+![9](https://user-images.githubusercontent.com/75953873/183270802-ce041169-c495-4514-a088-f72591bf4513.png)

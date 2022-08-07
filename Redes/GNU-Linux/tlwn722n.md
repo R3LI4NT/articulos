@@ -129,4 +129,6 @@ Para este caso los controladores oficiales de aircrack quedarón inutilizable pa
 
 - https://hackxcrack.net/foro/hacking-wireless/poner-adaptador-tl-wn722n-v2v3-en-modo-monitor-en-kali-linux-2022/
 
+
+
 #### ~R3LI4NT~

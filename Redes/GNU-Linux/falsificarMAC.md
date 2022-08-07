@@ -81,3 +81,5 @@ Cambiar la dirección MAC a una aleatoria con el parámetro "`-A`". Recuerden qu
 macchanger -A <INTERFAZ>
 ```
 ![9](https://user-images.githubusercontent.com/75953873/183270802-ce041169-c495-4514-a088-f72591bf4513.png)
+
+![10](https://user-images.githubusercontent.com/75953873/183270900-1809a73f-00e7-4617-9231-26010d462944.png)

@@ -49,7 +49,7 @@ ifconfig <INTERFAZ>
 ```
 ![4](https://user-images.githubusercontent.com/75953873/183270278-aefb06fa-b599-43eb-857c-fa88173ac43d.png)
 
-Al enviar paquetes desde Kali hacia Windows se puede observar como lo hace desde una MAC falsificada:
+Al enviar paquetes desde Kali hacia Windows se puede observar como lo hace desde la MAC falsificada:
 
 ![6](https://user-images.githubusercontent.com/75953873/183270490-5b7ccbf8-f131-4f65-821b-1af134110ce1.png)
 

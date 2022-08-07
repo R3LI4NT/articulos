@@ -122,3 +122,7 @@ macchanger -p <INTERFAZ>
 </br>
 
 La falsificación MAC es útil para saltarnos un filtrado de MAC o bien ya sean para realizar auditorías o pentesting Wi-Fi. Generalmente un atacante malicoso se aprovecha de esto para enmascarar su identidad y no ser localizado por medio de su MAC. Un administrador de redes puede lanzar un `traceroute mac` para rastrear los paquetes a través de la red local y obtener información detallada de la IP y MAC del dispositivo.
+
+
+
+#### ~R3LI4NT~

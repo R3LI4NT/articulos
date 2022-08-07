@@ -35,19 +35,19 @@ Asignamos la dirección MAC usando con la orden:
 ```
 sudo ifconfig <INTERFAZ> hw ether <MAC>
 ```
-**Ej:** sudo ifconfig eth0 hw ether 08:00:46:ba:2b:1b
+**Ej:** sudo ifconfig wlan0 hw ether 08:00:46:ba:2b:1b
 
 Activamos el adaptador de red:
 ```
 sudo ifconfig <INTERFAZ> up
 ```
-![3](https://user-images.githubusercontent.com/75953873/183269940-caf02f43-c38b-4d73-8cb9-dcd9dca88b57.png)
+![3](https://user-images.githubusercontent.com/75953873/183270251-56fd81bc-1bd0-482d-bd8f-bc9dfcd347c7.png)
 
 Ejecutamos `ifconfig` para comprobar el cambio:
 ```
 ifconfig <INTERFAZ> 
 ```
-![4](https://user-images.githubusercontent.com/75953873/183269978-6b07a03a-e065-4ea8-b893-250fa2399519.png)
+![4](https://user-images.githubusercontent.com/75953873/183270278-aefb06fa-b599-43eb-857c-fa88173ac43d.png)
 
 Al hacer un mapeo con Nmap a nuestra red local podemos observar que nuestra MAC cambio y es legible para cualquiera que esté conectado a la misma red.
 ```

@@ -76,7 +76,7 @@ macchanger -s <INTERFAZ>
 ```
 ![8](https://user-images.githubusercontent.com/75953873/183270712-b485940b-9a04-46ad-9c9c-31604c8d018f.png)
 
-Cambiar la dirección MAC a una aleatoria con el parámetro "`-A`". Recuerden que primero deben deshabilitar la tarjeta de red y por último volvera activarla.
+Cambiar la dirección MAC a una aleatoria con el parámetro "`-A`". Recuerden que primero deben deshabilitar la tarjeta de red y por último volver a activarla.
 ```
 macchanger -A <INTERFAZ>
 ```

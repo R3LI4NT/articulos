@@ -53,7 +53,7 @@ Al enviar paquetes desde Kali hacia Windows se puede observar como lo hace desde
 
 ![6](https://user-images.githubusercontent.com/75953873/183270490-5b7ccbf8-f131-4f65-821b-1af134110ce1.png)
 
-Lo mismo si hicieramos un `arp -a` desde el CMD:
+Lo mismo si hiciéramos un `arp -a` desde el CMD:
 
 ![7](https://user-images.githubusercontent.com/75953873/183270558-eddaf8e4-85fd-4872-822b-5b15194f898f.png)
 

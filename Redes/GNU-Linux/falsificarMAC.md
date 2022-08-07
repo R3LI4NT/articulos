@@ -107,3 +107,16 @@ macchanger --mac=<MAC> <INTERFAZ>
 **Ej:** macchanger --mac=00:20:91:01:02:03 wlan0
 
 ![14](https://user-images.githubusercontent.com/75953873/183271166-60bb1023-9e3f-4991-8d5d-e9475502b87f.png)
+
+![15](https://user-images.githubusercontent.com/75953873/183271297-4623c3d7-32cd-4461-81f5-902087d6e4a3.png)
+
+
+Para resetear los cambios y volver a la dirección MAC original, entonces utilizan el parámetro "`-p`":
+```
+macchanger -p <INTERFAZ>
+```
+![16](https://user-images.githubusercontent.com/75953873/183271238-ec259078-bec2-49c2-93d8-22d62f4ade1c.png)
+
+<h1 align="center"></h1>
+
+</br>

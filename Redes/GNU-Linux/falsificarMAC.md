@@ -38,8 +38,13 @@ sudo ifconfig <INTERFAZ> hw ether <MAC>
 **Ej:** sudo ifconfig eth0 hw ether 08:00:46:ba:2b:1b
 
 Activamos el adaptador de red:
-
 ```
 sudo ifconfig <INTERFAZ> up
 ```
 ![3](https://user-images.githubusercontent.com/75953873/183269940-caf02f43-c38b-4d73-8cb9-dcd9dca88b57.png)
+
+Ejecutamos ifconfig para comprobar el cambio:
+```
+ifconfig <INTERFAZ> 
+```
+![4](https://user-images.githubusercontent.com/75953873/183269978-6b07a03a-e065-4ea8-b893-250fa2399519.png)

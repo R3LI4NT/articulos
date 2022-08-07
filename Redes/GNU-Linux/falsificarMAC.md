@@ -49,10 +49,13 @@ ifconfig <INTERFAZ>
 ```
 ![4](https://user-images.githubusercontent.com/75953873/183270278-aefb06fa-b599-43eb-857c-fa88173ac43d.png)
 
-Al hacer un mapeo con Nmap a nuestra red local podemos observar que nuestra MAC cambio y es legible para cualquiera que esté conectado a la misma red.
-```
-sudo nmap -sP 192.168.1.0/24
-```
+Al enviar paquetes desde Kali hacia Windows se puede observar como lo hace desde una MAC falsificada:
+
+![6](https://user-images.githubusercontent.com/75953873/183270490-5b7ccbf8-f131-4f65-821b-1af134110ce1.png)
+
+Lo mismo si hicieramos un `arp -a` desde el CMD:
+
+![7](https://user-images.githubusercontent.com/75953873/183270558-eddaf8e4-85fd-4872-822b-5b15194f898f.png)
 
 
 <h1 align="center"></h1>

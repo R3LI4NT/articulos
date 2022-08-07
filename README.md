@@ -16,9 +16,14 @@
 :skull: **HACKING** :skull:
 
 - [x] Pentesting
-     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/O.S/smbRelay.md" target="_blank">Explotar Windows Network con envenenamiento LMMNR/NBT-NS [SMB-Relay]</a>
-     
-     - <a href="" target="_blank">Email Spoofing [Ingeniería Social]</a>
+     - <sub>A nivel **O.S**</sub>
+          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/O.S/smbRelay.md" target="_blank">Explotar Windows Network con envenenamiento LMMNR/NBT-NS [SMB-Relay]</a>
+          
+     - <sub>A nivel **Ingeniería Social**</sub>
+          - <a href="" target="_blank">Email Spoofing [Ingeniería Social]</a>
+          
+     - <sub>A nivel **Web**</sub>
+          - Proximamente...
 
 </br>
 

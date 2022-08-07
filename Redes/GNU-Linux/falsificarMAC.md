@@ -12,7 +12,7 @@ Una dirección MAC (Media Access Control) es un identificador único que se le a
   <img src="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/img/direccionMAC.png">
 </p>
 
-Al ser identificadores únicos, un administrador de red puede crear listas para denegar a uno o varios dispositivos a la red.
+Al ser identificadores únicos, un administrador de red puede crear listas para denegar o permitir a uno o varios clientes a la red.
 
 **Lista BLANCA:** Identificadores que tienen `permitido` acceder a la red.
 

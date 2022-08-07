@@ -35,7 +35,7 @@ Asignamos la dirección MAC usando con la orden:
 ```
 sudo ifconfig <INTERFAZ> hw ether <MAC>
 ```
-**Ej:** sudo ifconfig eth0 hw ether 08:00:46:ab:2b:1b
+**Ej:** sudo ifconfig eth0 hw ether 08:00:46:ba:2b:1b
 
 Activamos el adaptador de red:
 

@@ -18,7 +18,7 @@
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/O.S/smbRelay.md" target="_blank">Explotar Windows Network con envenenamiento LMMNR/NBT-NS [SMB-Relay]</a>
           
      - <sub>A nivel: **Ingeniería Social**</sub>
-          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/ING-SOCIAL/email_spoofing.md" target="_blank">Email Spoofing + Phishing [Facebook]</a>
+          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/ING-SOCIAL/email_spoofing.md" target="_blank">Email Spoofing + Phishing [Facebook] fuera y dentro de LAN</a>
           
      - <sub>A nivel: **Web**</sub>
           - Proximamente...

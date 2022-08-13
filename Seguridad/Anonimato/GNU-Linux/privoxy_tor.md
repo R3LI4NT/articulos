@@ -51,3 +51,15 @@ service tor status
 service privoxy status
 ```
 ![5](https://user-images.githubusercontent.com/75953873/184516562-a94bdb10-ee9f-4591-acdc-0cd48af311db.png)
+
+Para comprobar que nuestra dirección IP ha sido cambiada ingresamos a una web de geolocalización basada en IP:
+
+![6](https://user-images.githubusercontent.com/75953873/184516708-8384ce3b-359a-47b8-ae26-9878875f9973.png)
+
+**¿Cómo cambiar de país?**
+
+Restaurar el servicio tor:
+```
+sudo service tor restart
+```
+![7](https://user-images.githubusercontent.com/75953873/184516780-11f9750d-3d65-42df-909c-3a6ccc3149f3.png)

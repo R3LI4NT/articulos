@@ -36,7 +36,7 @@ Al final del archivo agregan la línea `forward-socks5 / localhost:9050` y guard
 
 Luego editan los proxy del navegador (Ej. Firefox) como se muestra en la siguiente captura:
 
-| Proxy | -> Manual |
+| Proxy |  IP | Puerto |
 | ------------- | ------------- |
 | HTTP Proxy | localhost  | 8118 |
 | HTTPS Proxy | localhost  | 8118 |

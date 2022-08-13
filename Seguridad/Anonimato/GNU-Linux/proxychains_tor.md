@@ -63,7 +63,7 @@ sudo service tor status
 ```
 ![3](https://user-images.githubusercontent.com/75953873/182004654-2d06883a-ad62-4795-ab39-dae0fabec20e.png)
 
-Para comprobar que nuestra dirección IP ha sido cambiada, ingresamos al navegador pero antes ejecutamos la herramienta:
+Para comprobar que nuestra dirección IP ha sido cambiada ingresamos al navegador pero antes ejecutamos la herramienta:
 ```
 proxychains firefox
 ```

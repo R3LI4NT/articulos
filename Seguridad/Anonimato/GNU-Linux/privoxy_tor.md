@@ -69,3 +69,7 @@ sudo service tor restart
 En caso de que estén utilizando el entorno de escritorio de Gnome, pueden configurar el proxy desde las Preferencias del menú.
 
 ![8](https://user-images.githubusercontent.com/75953873/184516873-25be5cbf-6d45-4766-8379-1b64b4c039b0.png)
+
+
+
+#### ~R3LI4NT~

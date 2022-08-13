@@ -24,3 +24,12 @@ Portocolo **UDP:** El protocolo UDP es similar al anterior, con la única difere
 ```
 sudo apt-get install privoxy
 ```
+
+Lo primero que se debe hacer es ingresar a la configuración de privoxy y editar el archivo:
+```
+sudo nano /etc/proxychains4.conf
+```
+
+Al final del archivo agregan la línea `forward-socks5 / localhost:9050` y guardan los cambios con **CTRL + O + ENTER**:
+
+![3](https://user-images.githubusercontent.com/75953873/184516393-b5351c4f-029d-4c37-9c75-d5bdf06dd244.png)

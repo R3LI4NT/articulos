@@ -43,3 +43,11 @@ Luego editan los proxy del navegador (Ej. Firefox) como se muestra en la siguien
 | SOCKS Host | localhost  | 9050 |
 
 ![4](https://user-images.githubusercontent.com/75953873/184516484-079081bc-2d83-444f-9421-97404719568f.png)
+
+Inician los servicios de `tor` y `privoxy`, y comprueban su estado (activo).
+```
+sudo service tor start && sudo service privoxy start
+service tor status
+service privoxy status
+```
+![5](https://user-images.githubusercontent.com/75953873/184516562-a94bdb10-ee9f-4591-acdc-0cd48af311db.png)

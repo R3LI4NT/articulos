@@ -6,7 +6,7 @@
 
 <h3 align="center">PRIVOXY</h3>
 
-Privoxy es un proxy web de código abierto sin almacenamiento de cache con capas de seguridad avanzadas para mejorar la seguridad de navegación, modificar los datos de la página web y los encabezados HTTP, eliminar anuncios y restricción geográfica. Privoxy se puede utilizar mediante socks5 para enrutar todo el tráfico de la red bajo los nodos Tor, lo que lo vuelve aún más anónimo.
+Privoxy es un proxy web de código abierto sin almacenamiento de cache con capas de seguridad avanzadas para mejorar la seguridad de navegación, modificar los datos de la página web y los encabezados HTTP, eliminar anuncios y restricción geográfica. Al igual que proxychains, privoxy se puede utilizar mediante socks5 para enrutar todo el tráfico de la red bajo los nodos Tor, lo que lo vuelve aún más anónimo.
 
 El proxy SOCKS5 enruta la conexión a través de un proxy remoto utilizando una IP arbitraria antes de que llegues a la página destino. Para ello utiliza el protocolo TCP o UDP.
 

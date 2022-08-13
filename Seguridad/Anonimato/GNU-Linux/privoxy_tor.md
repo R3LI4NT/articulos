@@ -27,7 +27,7 @@ sudo apt-get install privoxy
 
 Lo primero que se debe hacer es ingresar a la configuración de privoxy y editar el archivo:
 ```
-sudo nano /etc/proxychains4.conf
+nano /etc/privoxy/config
 ```
 
 Al final del archivo agregan la línea `forward-socks5 / localhost:9050` y guardan los cambios con **CTRL + O + ENTER**:

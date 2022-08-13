@@ -40,6 +40,6 @@ Luego editan los proxy del navegador (Ej. Firefox) como se muestra en la siguien
 | ------------- | ------------- | ------------- |
 | HTTP Proxy | localhost  | 8118 |
 | HTTPS Proxy | localhost  | 8118 |
-| SOCKS5 Host | localhost  | 9050 |
+| SOCKS Host | localhost  | 9050 |
 
 ![4](https://user-images.githubusercontent.com/75953873/184516484-079081bc-2d83-444f-9421-97404719568f.png)

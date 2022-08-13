@@ -33,3 +33,13 @@ sudo nano /etc/proxychains4.conf
 Al final del archivo agregan la línea `forward-socks5 / localhost:9050` y guardan los cambios con **CTRL + O + ENTER**:
 
 ![3](https://user-images.githubusercontent.com/75953873/184516393-b5351c4f-029d-4c37-9c75-d5bdf06dd244.png)
+
+Luego editan los proxy del navegador (Ej. Firefox) como se muestra en la siguiente captura:
+
+| Proxy | -> Manual |
+| ------------- | ------------- |
+| HTTP Proxy | localhost  | 8118 |
+| HTTPS Proxy | localhost  | 8118 |
+| SOCKS5 Host | localhost  | 9050 |
+
+![4](https://user-images.githubusercontent.com/75953873/184516484-079081bc-2d83-444f-9421-97404719568f.png)

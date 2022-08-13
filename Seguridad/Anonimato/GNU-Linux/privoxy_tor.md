@@ -12,7 +12,7 @@ El proxy SOCKS5 enruta la conexión a través de un proxy remoto utilizando una 
 
 Protocolo **TCP:** El protocolo TCP es utilizado para la transmisión de datos entre un dispositivo y otro, siempre y cuando la verificación de la recepción sea correcta y sin errores.
 
-Portocolo **UDP:** El protocolo UDP es similar al anterior, con la única diferencia que no es orientado a transporte de conexiones, es decir, no verifica si la repeción de la información es enviada correctamente y sin presentar errores. Al no contar con una capa de verificación de la recepción lo hace inferior, pero, su velocidad es mayor al TCP al evadir el sistema de verificación de ida y vuelta.
+Protocolo **UDP:** El protocolo UDP es similar al anterior, con la única diferencia que no es orientado a transporte de conexiones, es decir, no verifica si la repeción de la información es enviada correctamente y sin presentar errores. Al no contar con una capa de verificación de la recepción lo hace inferior, pero, su velocidad es mayor al TCP al evadir el sistema de verificación de ida y vuelta.
   
 - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/proxychains_tor.md">Funcionamiento de un Proxy y nodos Tor (con esquema)</a>
  

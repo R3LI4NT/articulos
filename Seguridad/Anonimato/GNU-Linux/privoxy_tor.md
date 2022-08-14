@@ -64,6 +64,26 @@ sudo service tor restart
 ```
 ![7](https://user-images.githubusercontent.com/75953873/184516780-11f9750d-3d65-42df-909c-3a6ccc3149f3.png)
 
+Ahora, si deseamos elegir un proxy manual, entonces podemos hacer uso de la lista **->** https://free-proxy-list.net/
+
+![10](https://user-images.githubusercontent.com/75953873/184517400-25ef6ab7-ea5e-464c-bf1b-a2d159093990.png)
+
+Copian la dirección **IP** y el **Puerto**, entran nuevamente a la configuración de privoxy y marcan (#) la línea de `socks5`, agregan `forward-socks4 / IP:Puerto` y `forward-socks4a / IP:Puerto` junto con los datos copiados.
+
+![11](https://user-images.githubusercontent.com/75953873/184517491-17ab35d4-b60f-4340-b6af-d87712022d0f.png)
+
+En la configuración del navegador deben de cambiar los valores por la IP y puerto seleccionado, es importante marcar `SOCKSS v4` como proxy a utilizar:
+
+![12](https://user-images.githubusercontent.com/75953873/184517505-79fa83d0-0c37-4254-bb8f-e0e2ad6f63da.png)
+
+Ya no se estará haciendo uso de Tor, lor conveniente es detener el servicio y restablecer el de privoxy:
+```
+sudo service tor stop
+sudo service privoxy restart
+```
+![9](https://user-images.githubusercontent.com/75953873/184517550-0a9c1b9e-d784-4139-8e7a-431088ab5f6d.png)
+
+
 <h1 align="center"></h1>
 
 En caso de que estén utilizando el entorno de escritorio de Gnome, pueden configurar el proxy desde las Preferencias del menú.

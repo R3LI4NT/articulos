@@ -64,6 +64,8 @@ sudo service tor restart
 ```
 ![7](https://user-images.githubusercontent.com/75953873/184516780-11f9750d-3d65-42df-909c-3a6ccc3149f3.png)
 
+<h1 align="center"></h1>
+
 Ahora, si deseamos elegir un proxy manual, entonces podemos hacer uso de la lista **->** https://free-proxy-list.net/
 
 ![10](https://user-images.githubusercontent.com/75953873/184517400-25ef6ab7-ea5e-464c-bf1b-a2d159093990.png)

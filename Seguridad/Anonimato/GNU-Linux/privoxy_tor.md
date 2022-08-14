@@ -76,7 +76,7 @@ En la configuración del navegador deben de cambiar los valores por la IP y puer
 
 ![12](https://user-images.githubusercontent.com/75953873/184517505-79fa83d0-0c37-4254-bb8f-e0e2ad6f63da.png)
 
-Ya no se estará haciendo uso de Tor, lor conveniente es detener el servicio y restablecer el de privoxy:
+Ya no se estará haciendo uso de Tor, lo conveniente es detener el servicio y reiniciar el de privoxy:
 ```
 sudo service tor stop
 sudo service privoxy restart

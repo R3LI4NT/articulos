@@ -21,7 +21,7 @@
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/ING-SOCIAL/email_spoofing.md" target="_blank">Email Spoofing + Phishing [Facebook] fuera y dentro de LAN</a>
           
      - <sub>A nivel: **Web**</sub>
-          - Proximamente...
+          - <a href="" target="_blank">Explotar vulnerabilidad File Upload con Weevely + Burp Suite</a>
 
 </br>
 

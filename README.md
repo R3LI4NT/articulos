@@ -33,7 +33,10 @@
         
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/tlwn722n.md" target="_blank">Poner adaptador TL-WN722N v2/v3 en modo monitor en Kali Linux</a>
         
-        - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/falsificarMAC.md" target="_blank">Falsificar dirección MAC en GNU/Linux</a>
+        - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/falsificarMAC.md" target="_blank">Falsificar dirección MAC en GNU/Linux</a
+     
+    - <sub>O.S: **Windows**</sub>
+          - <a href="h#" target="_blank">Falsificar dirección MAC en Windows</a>
 </br>
 
 - [x] Seguridad

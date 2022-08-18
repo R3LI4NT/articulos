@@ -26,20 +26,20 @@
 </br>
 
 - [x] Redes / Wireless
-    - <sub>O.S: **GNU / Linux**</sub>
+    - <sub>O.S: **GNU/Linux**</sub>
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/desautenticacion.md" target="_blank">Ataque de Desautenticación Wi-Fi</a>
         
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/autenticacion.md" target="_blank">Ataque de Autenticación Wi-Fi</a>
         
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/tlwn722n.md" target="_blank">Poner adaptador TL-WN722N v2/v3 en modo monitor en Kali Linux</a>
         
-        - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/falsificarMAC.md" target="_blank">Falsificar dirección MAC</a>
+        - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/falsificarMAC.md" target="_blank">Falsificar dirección MAC en GNU/Linux</a>
 </br>
 
 - [x] Seguridad
     - `Criptografía`
      
-     - <sub>O.S: **GNU / Linux**</sub>
+     - <sub>O.S: **GNU/Linux**</sub>
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Criptograf%C3%ADa/GNU-Linux/shred.md" target="_blank">Borrado de datos seguro en GNU / Linux, AntiForense</a>
     
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Criptograf%C3%ADa/GNU-Linux/ccrypt.md" target="_blank">Cifrar archivos con CCRYPT</a>
@@ -53,7 +53,7 @@
 - 
   - `Esteganografía`
   
-  - <sub>O.S: **GNU / Linux**</sub>
+  - <sub>O.S: **GNU/Linux**</sub>
     - Proximamente...
 
     - <sub>O.S: **Windows**</sub>
@@ -64,7 +64,7 @@
 -
   - `Anonimato y Privacidad`
   
-  - <sub>O.S: **GNU / Linux**</sub>
+  - <sub>O.S: **GNU/Linux**</sub>
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/proxychains_tor.md" target="_blank">Configuración de Proxychains & Tor</a>
     
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/privoxy_tor.md" target="_blank">Configuración de Privoxy & Tor</a>

@@ -32,3 +32,6 @@ Complentan todos los pasos de instalación.
 ![1](https://user-images.githubusercontent.com/75953873/185271646-7d8db132-da76-4d75-bd27-a4e5a5cc7db1.png)
 
 
+Luego de la instalación, deben posicionarse en el adaptador de red que deseen cambiar su MAC:
+
+![2](https://user-images.githubusercontent.com/75953873/185272082-8997647b-ccb2-4f9b-b55f-fd5e06a0719b.png)

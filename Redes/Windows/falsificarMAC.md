@@ -75,10 +75,13 @@ Recuerden que pueden volver a su dirección MAC original del adaptador con clic 
 </br>
 
 ### CAMBIAR DIRECCIÓN MAC | Manual
-Otra forma de cambiar la dirección MAC en Windows es accediendo a **Administrador de dispositivos** en inicio de Windows **->** Adaptadores de red **->** Eligen la interfaz de red y luego clic en "Propiedades":
+Otra forma de cambiar la dirección MAC en Windows es accediendo a **Administrador de dispositivos** en inicio de Windows **->** **Adaptadores de red** **->** Eligen la **interfaz de red** y luego clic en "Propiedades":
 
 ![12](https://user-images.githubusercontent.com/75953873/185280198-3c579dd0-0373-4b51-a2ae-8efb21bb94b2.png)
 
+**Opciones avanzadas** **->** **Network Address** **->** Activan **valores** e ingresan la dirección falsa:
+
+![13](https://user-images.githubusercontent.com/75953873/185280599-5eb0f56d-9647-49f2-b29f-181a69f2a39a.png)
 
 
 

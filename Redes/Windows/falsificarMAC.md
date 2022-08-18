@@ -65,3 +65,7 @@ Ahora supongamos que el atacante utiliza una herramienta de reconocimiento de di
 Luego intenrará obtener más información de dicha MAC, así que recurre a fuentes públicas para obtener más información (Ej. <a href="https://macaddress.io/">macaddress.io</a>):
 
 ![10](https://user-images.githubusercontent.com/75953873/185278290-e02b62aa-7bce-4f38-8513-d58208009119.png)
+
+Recuerden que pueden volver a su dirección MAC original del adaptador con clic en "**_Restore Original_**."
+
+![11](https://user-images.githubusercontent.com/75953873/185278665-c8848b39-852c-4b02-8646-e0dced1059c3.png)

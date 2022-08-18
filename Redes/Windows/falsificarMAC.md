@@ -51,3 +51,7 @@ Si realizamos un escaneo desde ArpScan podemos observar como reconoce la MAC sup
 Lo mismo si mapeamos nuestra red local con Nmap:
 
 ![6](https://user-images.githubusercontent.com/75953873/185274372-7e070e09-0b9b-4b03-a3de-b973bc9eddbc.png)
+
+Ahora probaré cambiar la dirección MAC del adaptador de VMware por una Samsung:
+
+![7](https://user-images.githubusercontent.com/75953873/185276995-093531a9-4250-4a5c-964d-db14021c4424.png)

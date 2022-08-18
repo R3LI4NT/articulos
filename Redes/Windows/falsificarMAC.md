@@ -47,3 +47,7 @@ Una vez elegido el fabricante, clic en "**_Change Now_**:"
 Si realizamos un escaneo desde ArpScan podemos observar como reconoce la MAC suplantada en la interfaz de red de Windows:
 
 ![5](https://user-images.githubusercontent.com/75953873/185273793-8ed99f24-06a6-400a-b6d4-1849a547f30e.png)
+
+Lo mismo si mapeamos nuestra red local con Nmap:
+
+![6](https://user-images.githubusercontent.com/75953873/185274372-7e070e09-0b9b-4b03-a3de-b973bc9eddbc.png)

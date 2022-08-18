@@ -69,3 +69,11 @@ Luego intenrará obtener más información de dicha MAC, así que recurre a fuen
 Recuerden que pueden volver a su dirección MAC original del adaptador con clic en "**_Restore Original_**."
 
 ![11](https://user-images.githubusercontent.com/75953873/185278665-c8848b39-852c-4b02-8646-e0dced1059c3.png)
+
+<h1 align="center"></h1>
+
+</br>
+
+
+
+#### ~R3LI4NT~

@@ -62,7 +62,7 @@ Ahora supongamos que el atacante utiliza una herramienta de reconocimiento de di
 
 ![9](https://user-images.githubusercontent.com/75953873/185278045-24d91bfc-a538-4306-bcd3-60c2b4d4602e.png)
 
-Luego intenrará obtener más información de dicha MAC, así que recurre a fuentes públicas para obtener más información (Ej. <a href="https://macaddress.io/">macaddress.io</a>):
+Luego intentará obtener más información de dicha MAC, así que recurre a fuentes públicas para obtener más información (Ej. <a href="https://macaddress.io/">macaddress.io</a>):
 
 ![10](https://user-images.githubusercontent.com/75953873/185278290-e02b62aa-7bce-4f38-8513-d58208009119.png)
 

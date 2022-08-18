@@ -36,6 +36,6 @@ Luego de la instalación, deben posicionarse en el adaptador de red que deseen c
 
 ![2](https://user-images.githubusercontent.com/75953873/185272082-8997647b-ccb2-4f9b-b55f-fd5e06a0719b.png)
 
-Así como MacChanger para Linux, TMAC también trae incorporado uan lista de direcciones junto con su fabricador para suplantar:
+Así como MacChanger para Linux, TMAC también trae incorporado una lista de direcciones junto con su fabricador para suplantar:
 
 ![3](https://user-images.githubusercontent.com/75953873/185272465-217cd7af-0396-435f-ad10-484006589e4d.png)

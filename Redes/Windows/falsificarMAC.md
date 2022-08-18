@@ -19,4 +19,16 @@ Al ser identificadores únicos, un administrador de red puede crear listas para 
 **Lista NEGRA:** Identificadores que tienen `prohibido` acceder a la red.
 
 El filtrado por MAC es útil para expulsar intrusos de la red pero es fácil burlarse de su seguridad con un cambio de MAC. Primeramente, el atacante pone su tarjeta en modo monitor y luego captura los paquetes de la red objetivo (sin estar conectado a dicha red) con `airodump`, lo que le permitirá ver los clientes (STATIONS) conectados a la red y suplantar su dirección MAC aceptada.
+
 <h1 align="center"></h1>
+
+### CAMBIAR DIRECCIÓN MAC | TMAC
+Technitium MAC Address Changer es un software gratuito que permite cambiar la dirección MAC única de los adaptadores de red Wi-Fi y LAN. Esta diseñado para Windows, la herramienta cuenta con varas características de uso práctico para usuarios inexpertos, ofrece una interfaz simple e intuitiva.
+
+**Descargar:** https://technitium.com/tmac/
+
+Complentan todos los pasos de instalación.
+
+![1](https://user-images.githubusercontent.com/75953873/185271646-7d8db132-da76-4d75-bd27-a4e5a5cc7db1.png)
+
+

@@ -43,3 +43,7 @@ Así como MacChanger para Linux, TMAC también trae incorporado una lista de dir
 Una vez elegido el fabricante, clic en "**_Change Now_**:"
 
 ![4](https://user-images.githubusercontent.com/75953873/185273325-6bd6d038-9416-4524-8aa9-bdb097c12724.png)
+
+Si realizamos un escaneo desde ArpScan podemos observar como reconoce la MAC suplantada en la interfaz de red de Windows:
+
+![5](https://user-images.githubusercontent.com/75953873/185273793-8ed99f24-06a6-400a-b6d4-1849a547f30e.png)

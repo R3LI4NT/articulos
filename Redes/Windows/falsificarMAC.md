@@ -39,3 +39,7 @@ Luego de la instalación, deben posicionarse en el adaptador de red que deseen c
 Así como MacChanger para Linux, TMAC también trae incorporado una lista de direcciones junto con su fabricador para suplantar:
 
 ![3](https://user-images.githubusercontent.com/75953873/185272465-217cd7af-0396-435f-ad10-484006589e4d.png)
+
+Una vez elegido el fabricante, clic en "**_Change Now_**:"
+
+![4](https://user-images.githubusercontent.com/75953873/185273325-6bd6d038-9416-4524-8aa9-bdb097c12724.png)

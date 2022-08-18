@@ -36,7 +36,8 @@
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/falsificarMAC.md" target="_blank">Falsificar dirección MAC en GNU/Linux</a
      
     - <sub>O.S: **Windows**</sub>
-        - <a href="h#" target="_blank">Falsificar dirección MAC en Windows</a>
+        - <a href="#" target="_blank">Falsificar dirección MAC en Windows</a>
+        
 </br>
 
 - [x] Seguridad

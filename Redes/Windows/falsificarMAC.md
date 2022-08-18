@@ -55,3 +55,13 @@ Lo mismo si mapeamos nuestra red local con Nmap:
 Ahora probaré cambiar la dirección MAC del adaptador de VMware por una Samsung:
 
 ![7](https://user-images.githubusercontent.com/75953873/185276995-093531a9-4250-4a5c-964d-db14021c4424.png)
+
+Ahora supongamos que el atacante utiliza una herramienta de reconocimiento de direcciones como lo es Netdiscover o ArpScan:
+
+![8](https://user-images.githubusercontent.com/75953873/185277866-85aabb31-28c2-45c2-baef-c36a7d696799.png)
+
+![9](https://user-images.githubusercontent.com/75953873/185278045-24d91bfc-a538-4306-bcd3-60c2b4d4602e.png)
+
+Luego intenrará obtener más información de dicha MAC, así que recurre a fuentes públicas para obtener más información (Ej. <a href="https://macaddress.io/">macaddress.io</a>:
+
+![10](https://user-images.githubusercontent.com/75953873/185278290-e02b62aa-7bce-4f38-8513-d58208009119.png)

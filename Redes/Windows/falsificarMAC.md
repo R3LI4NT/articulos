@@ -27,7 +27,7 @@ Technitium MAC Address Changer es un software gratuito que permite cambiar la di
 
 **Descargar:** https://technitium.com/tmac/
 
-Complentan todos los pasos de instalación.
+Completan todos los pasos de instalación.
 
 ![1](https://user-images.githubusercontent.com/75953873/185271646-7d8db132-da76-4d75-bd27-a4e5a5cc7db1.png)
 

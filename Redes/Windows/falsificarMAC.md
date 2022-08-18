@@ -72,7 +72,6 @@ Recuerden que pueden volver a su dirección MAC original del adaptador con clic 
 
 <h1 align="center"></h1>
 
-</br>
 
 
 

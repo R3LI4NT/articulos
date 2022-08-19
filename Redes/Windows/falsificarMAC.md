@@ -98,7 +98,7 @@ SMAC es un cambiador de direcciones MAC (Spoofer) potente pero fácil de usar pa
 
 **Descagar:** https://smac-tool.com/
 
-Contiene una lista de fabricante a seleccionar, así como también una opción de **random** para elegir una dirección aleatorio, eliminar MAC y restablecer de fabrica. En "**_Update MAC_** establecemos la dirección a suplantar una vez seleccionada:
+Contiene una lista de fabricante a seleccionar, así como también una opción de **random** para elegir una dirección aleatorio, eliminar MAC y restablecer de fabrica. En "**_Update MAC_**" establecemos la dirección a suplantar una vez seleccionada:
 
 ![1](https://user-images.githubusercontent.com/75953873/185522708-4bf55922-d43a-4908-a046-50c3e1938508.png)
 

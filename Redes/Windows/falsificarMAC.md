@@ -93,6 +93,21 @@ Para cambiar a otra dirección MAC deben de hacer clic en "**_Randomize_**" y pa
 
 </br>
 
+### CAMBIAR DIRECCIÓN MAC | SMAC
+SMAC es un cambiador de direcciones MAC (Spoofer) potente pero fácil de usar para sistemas Windows 10, 8, 7, VISTA, 2008, 2003, XP y 2000, independientemente de si los fabricantes de tarjetas de red permiten esta opción o no. 
+
+**Descagar:** https://smac-tool.com/
+
+Contiene una lista de fabricante a seleccionar, así como también una opción de **random** para elegir una dirección aleatorio, eliminar MAC y restablecer de fabrica. En "**_Update MAC_** establecemos la dirección a suplantar una vez seleccionada:
+
+![1](https://user-images.githubusercontent.com/75953873/185522708-4bf55922-d43a-4908-a046-50c3e1938508.png)
+
+![2](https://user-images.githubusercontent.com/75953873/185522882-b5d03b34-62b4-48f0-83e3-634f15c70dfd.png)
+
+<h1 align="center"></h1>
+
+</br>
+
 ### CAMBIAR DIRECCIÓN MAC | Manual
 Otra forma de cambiar la dirección MAC en Windows es accediendo a **Administrador de dispositivos** en inicio de Windows **->** **Adaptadores de red** **->** Eligen la **interfaz de red** y luego clic en "Propiedades":
 

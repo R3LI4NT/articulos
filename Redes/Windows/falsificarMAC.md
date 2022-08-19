@@ -113,6 +113,10 @@ Smart Changer es un software que no solo permite suplantar una dirección MAC, s
 
 **Descargar:** https://download.cnet.com/Smart-DNS-Changer/3000-2381_4-76158452.html
 
+Primeramente seleccionan el adaptador de red:
+
+![3](https://user-images.githubusercontent.com/75953873/185525412-fe3f4305-fa5f-4561-903e-48e334d286fc.png)
+
 En el apartado de **MAC Changer** le dan clic en "**Generate random MAC Address** y luego en "**Apply MAC Address**":
 
 ![2](https://user-images.githubusercontent.com/75953873/185524943-a4283071-e829-4dc7-aebb-5151bc12a86c.png)

@@ -74,6 +74,20 @@ Recuerden que pueden volver a su dirección MAC original del adaptador con clic 
 
 </br>
 
+### CAMBIAR DIRECCIÓN MAC | NMAC
+NoVirusThanks MAC Address Changer es un software gratuito que permite suplantar la dirección MAC de sus adaptadores de red, así como restaurar la dirección MAC original.
+
+**Descargar:** https://novirusthanks-mac-address-changer.software.informer.com/1.0/
+
+Eligen la interfaz de red y clic en "**_Change MAC_**:
+
+![1](https://user-images.githubusercontent.com/75953873/185519830-cc994b22-24c9-4354-80dd-263b252de78e.png)
+
+
+<h1 align="center"></h1>
+
+</br>
+
 ### CAMBIAR DIRECCIÓN MAC | Manual
 Otra forma de cambiar la dirección MAC en Windows es accediendo a **Administrador de dispositivos** en inicio de Windows **->** **Adaptadores de red** **->** Eligen la **interfaz de red** y luego clic en "Propiedades":
 

@@ -117,7 +117,7 @@ En el apartado de **MAC Changer** le dan clic en "**Generate random MAC Address*
 
 ![2](https://user-images.githubusercontent.com/75953873/185524943-a4283071-e829-4dc7-aebb-5151bc12a86c.png)
 
-![1](https://user-images.githubusercontent.com/75953873/185524991-970c440d-09c6-4aa1-96b3-b3c60a67c1ef.png)
+![1](https://user-images.githubusercontent.com/75953873/185525160-3f77fa20-6814-453a-a1a4-a0f39ab3a6e0.png)
 
 <h1 align="center"></h1>
 

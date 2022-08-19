@@ -108,6 +108,21 @@ Contiene una lista de fabricante a seleccionar, así como también una opción d
 
 </br>
 
+### CAMBIAR DIRECCIÓN MAC | Smart MAC
+Smart Changer es un software que no solo permite suplantar una dirección MAC, sino también cambiar la configuración de los DNS para acceder a sitios web bloqueados por el ISP, así como también un proxy gratuito.
+
+**Descargar:** https://download.cnet.com/Smart-DNS-Changer/3000-2381_4-76158452.html
+
+En el apartado de **MAC Changer** le dan clic en "**Generate random MAC Address** y luego en **Apply MAC Address**":
+
+![2](https://user-images.githubusercontent.com/75953873/185524943-a4283071-e829-4dc7-aebb-5151bc12a86c.png)
+
+![1](https://user-images.githubusercontent.com/75953873/185524991-970c440d-09c6-4aa1-96b3-b3c60a67c1ef.png)
+
+<h1 align="center"></h1>
+
+</br>
+
 ### CAMBIAR DIRECCIÓN MAC | Manual
 Otra forma de cambiar la dirección MAC en Windows es accediendo a **Administrador de dispositivos** en inicio de Windows **->** **Adaptadores de red** **->** Eligen la **interfaz de red** y luego clic en "Propiedades":
 

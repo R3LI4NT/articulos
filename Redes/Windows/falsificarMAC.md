@@ -83,6 +83,11 @@ Eligen la interfaz de red y clic en "**_Change MAC_**:
 
 ![1](https://user-images.githubusercontent.com/75953873/185519830-cc994b22-24c9-4354-80dd-263b252de78e.png)
 
+Al hacer un reconocimiento de direcciones dentro de nuestra red local, observamos como nuestra MAC fue suplantada con éxito:
+
+![2](https://user-images.githubusercontent.com/75953873/185520177-798407b9-84ad-49ec-96eb-e59a7107f44b.png)
+
+Para cambiar a otra dirección MAC deben de hacer clic en "**_Randomize_**" y para restaurar la dirección de fabrica en "**_Restore MAC_**".
 
 <h1 align="center"></h1>
 

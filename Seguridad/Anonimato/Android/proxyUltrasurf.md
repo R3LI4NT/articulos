@@ -26,5 +26,9 @@ Esta disponible tanto para iOS, Android, Windows y en extensión de Chrome.
 
 Accedemos a PlayStore y descargamos la app:
 
-![1](https://user-images.githubusercontent.com/75953873/185728070-2da7a413-447c-4d33-a981-eebcb4489c78.jpg)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75953873/185728070-2da7a413-447c-4d33-a981-eebcb4489c78.jpg" width="300" height="600">
+</p>
+
 

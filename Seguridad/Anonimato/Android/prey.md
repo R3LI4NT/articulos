@@ -53,7 +53,7 @@ Al iniciar sesión desde la App, deberán vincular su dispositivo en el ícono d
 
 En el apartado de control pueden ubicar el dispositivo, hacer sonar una alarma, mandar una alerta y bloquear la pantalla.
 
-![1](https://user-images.githubusercontent.com/75953873/185758225-1c5fd78e-dc5e-4111-abb8-ca079f46ebd6.jpg)
+![4](https://user-images.githubusercontent.com/75953873/185758225-1c5fd78e-dc5e-4111-abb8-ca079f46ebd6.jpg)
 
 Esta versión es gratuita y por lo tanto limitada (máximo 3 dispositivos), pero si tienen la posibilidad de acudir a algún plan, entonces pueden ver los diferentes precios y características: https://preyproject.com/es/precios/?s=menu
 
@@ -64,7 +64,7 @@ Esta versión es gratuita y por lo tanto limitada (máximo 3 dispositivos), pero
 
 Ahora bien, en caso de un robo o pérdida, para ubicar el dispositivo tendríamos que acceder al panel de administración e iniciar sesión: https://panel.preyproject.com/login?redirect=/app
 
-![6](https://user-images.githubusercontent.com/75953873/183226514-7a97269b-7b20-4845-a70e-8c11827f5380.png)
+![6](https://user-images.githubusercontent.com/75953873/185758344-badd255a-8271-49f2-a03e-cc5b56c5ec8f.png)
 
 Al marcar el dispositivo como perdido, esté emitirá una alerta cada cierto tiempo para identificar la ubicación del dispositivo.
 

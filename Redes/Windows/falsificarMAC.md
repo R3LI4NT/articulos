@@ -102,7 +102,7 @@ Contiene una lista de fabricante a seleccionar, así como también una opción d
 
 ![1](https://user-images.githubusercontent.com/75953873/185522708-4bf55922-d43a-4908-a046-50c3e1938508.png)
 
-![2](https://user-images.githubusercontent.com/75953873/185522882-b5d03b34-62b4-48f0-83e3-634f15c70dfd.png)
+![1](https://user-images.githubusercontent.com/75953873/185758560-ebdad594-2026-40ef-9686-a009658ecad8.png)
 
 <h1 align="center"></h1>
 

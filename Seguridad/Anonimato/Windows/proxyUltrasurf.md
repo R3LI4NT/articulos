@@ -17,3 +17,8 @@ Esta disponible tanto para iOS, Android, Windows y en extensión de Chrome.
 - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/proxychains_tor.md">Qué es un Proxy (con esquema)</a>
 
 <h1 align="center"></h1>
+
+Una vez instalada, proseguimos a ejecutar el ejecutable **.EXE** y automáticamente el servicio localhost comenzará a correr junto con el puerto corrrespondiente:
+
+![1](https://user-images.githubusercontent.com/75953873/185723812-dd420459-a055-4d47-a50e-1a447eb01369.png)
+

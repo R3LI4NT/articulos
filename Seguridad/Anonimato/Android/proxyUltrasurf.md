@@ -10,10 +10,21 @@ Ultrasurf es un proxy gratuito que permite navegar en Internet de forma anónima
 
 El tráfico pasa a tráves del tunel **TLS** para ser más seguro e incriptado. Una de las ventajas más destacadas es su velocidad, el gran desempeño por parte del equipo de mantenimiento hizo que Ultrasurf tuviera esa altura de reputación. Según su política de privacidad, Ultrasurf **NO** está destinado a ser utilizado para actividades ilícitas o ilegales en línea. 
 
-Esta disponible tanto para iOS, Android, Windows y en extensión de Chrome.
-
-**Descargar:** https://ultrasurf.us/download/
-
 - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/proxychains_tor.md">Qué es un Proxy (con esquema)</a>
 
+Esta disponible tanto para iOS, Android, Windows y en extensión de Chrome.
+
+**Descargar desde web oficial:** https://ultrasurf.us/download/
+
+**Descargar desde PlayStore:** https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf&hl=es
+   
+**Descargar desde ApkPure:** https://apkpure.com/ultrasurf-fast-unlimited-vpn/us.ultrasurf.mobile.ultrasurf
+
+**Descargar desde Uptodown:** https://ultrasurf-beta-unlimited-free-vpn-proxy.uptodown.com/android
+
 <h1 align="center"></h1>
+
+Accedemos a PlayStore y descargamos la app:
+
+![1](https://user-images.githubusercontent.com/75953873/185728070-2da7a413-447c-4d33-a981-eebcb4489c78.jpg)
+

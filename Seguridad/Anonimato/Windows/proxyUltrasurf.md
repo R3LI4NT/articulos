@@ -22,3 +22,6 @@ Una vez instalada, proseguimos a ejecutar el ejecutable **.EXE** y automáticame
 
 ![1](https://user-images.githubusercontent.com/75953873/185723812-dd420459-a055-4d47-a50e-1a447eb01369.png)
 
+Se abrirá el navegador principal (en mi caso Brave) y su dirección IP ha sido cambiada.
+
+![2](https://user-images.githubusercontent.com/75953873/185723864-c114f239-ecb2-4bc6-a25a-627c0950fa54.png)

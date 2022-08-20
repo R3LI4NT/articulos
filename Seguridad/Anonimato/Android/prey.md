@@ -53,7 +53,7 @@ Al iniciar sesión desde la App, deberán vincular su dispositivo en el ícono d
 
 En el apartado de control pueden ubicar el dispositivo, hacer sonar una alarma, mandar una alerta y bloquear la pantalla.
 
-![4](https://user-images.githubusercontent.com/75953873/183225828-02c67208-781d-42be-b7b6-d67a901ae7ce.jpg)
+![1](https://user-images.githubusercontent.com/75953873/185758225-1c5fd78e-dc5e-4111-abb8-ca079f46ebd6.jpg)
 
 Esta versión es gratuita y por lo tanto limitada (máximo 3 dispositivos), pero si tienen la posibilidad de acudir a algún plan, entonces pueden ver los diferentes precios y características: https://preyproject.com/es/precios/?s=menu
 

@@ -25,3 +25,13 @@ Una vez instalada, proseguimos a ejecutar el ejecutable **.EXE** y automáticame
 Se abrirá el navegador principal (en mi caso Brave) y su dirección IP ha sido cambiada.
 
 ![2](https://user-images.githubusercontent.com/75953873/185723864-c114f239-ecb2-4bc6-a25a-627c0950fa54.png)
+
+En opciones pueden elegir el tipo de proxy (SOCKS5 = Tor, SOCKS4) ha utilizar, así como el puerto correspondiente.
+
+![3](https://user-images.githubusercontent.com/75953873/185724095-20a81b70-e92b-498a-bca3-09d01c6a2b73.png)
+
+
+
+#### ~R3LI4NT~
+
+

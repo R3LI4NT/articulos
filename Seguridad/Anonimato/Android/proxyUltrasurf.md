@@ -31,7 +31,7 @@ Accedemos a PlayStore y descargamos la app:
   <img src="https://user-images.githubusercontent.com/75953873/185728070-2da7a413-447c-4d33-a981-eebcb4489c78.jpg" width="300" height="600">
 </p>
 
-Ingresamos a la app y pulsamos en el botón de "**_Switch to connect_** y automáticamente iniciaria el navegador que tengamos establecido como principal:
+Ingresamos a la app y pulsamos en el botón de "**_Switch to connect_**" y automáticamente iniciaria el navegador que tengamos establecido como principal:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75953873/185728199-89bea408-4cd7-4e64-9ca0-6b0b77e7a22b.png">

@@ -79,7 +79,7 @@ NoVirusThanks MAC Address Changer es un software gratuito que permite suplantar 
 
 **Descargar:** https://novirusthanks-mac-address-changer.software.informer.com/1.0/
 
-Eligen la interfaz de red y clic en "**_Change MAC_**:
+Eligen la interfaz de red y clic en "**_Change MAC_**":
 
 ![1](https://user-images.githubusercontent.com/75953873/185519830-cc994b22-24c9-4354-80dd-263b252de78e.png)
 

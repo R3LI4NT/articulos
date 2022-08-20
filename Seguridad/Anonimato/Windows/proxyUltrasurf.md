@@ -30,8 +30,16 @@ En opciones pueden elegir el tipo de proxy (SOCKS5 = Tor, SOCKS4) ha utilizar, a
 
 ![3](https://user-images.githubusercontent.com/75953873/185724095-20a81b70-e92b-498a-bca3-09d01c6a2b73.png)
 
+Lista de servidores proxys gratuitos:
+
+- https://hidemy.name/es/proxy-list/
+
+- https://free-proxy-list.net/
+
+- https://geonode.com/free-proxy-list/
+
+- https://www.freeproxylists.net/
+
 
 
 #### ~R3LI4NT~
-
-

@@ -33,7 +33,9 @@ Accedemos a PlayStore y descargamos la app:
 
 Ingresamos a la app y pulsamos en el botón de "**_Connect_** y automáticamente iniciaria el navegador que tengamos establecido como principal:
 
-![3](https://user-images.githubusercontent.com/75953873/185728199-89bea408-4cd7-4e64-9ca0-6b0b77e7a22b.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75953873/185728199-89bea408-4cd7-4e64-9ca0-6b0b77e7a22b.png">
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75953873/185728206-7e72bcbb-a43b-472d-bdc6-6885af54cf4b.jpg" width="300" height="600">

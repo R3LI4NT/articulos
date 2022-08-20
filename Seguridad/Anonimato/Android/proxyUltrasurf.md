@@ -40,3 +40,23 @@ Ingresamos a la app y pulsamos en el botón de "**_Switch to connect_**" y autom
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75953873/185728206-7e72bcbb-a43b-472d-bdc6-6885af54cf4b.jpg" width="300" height="600">
 </p>
+
+En el apartado de configuraciones permite escoger el tipo de proxy a utilizar:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75953873/185728980-cfc5041e-9aef-4157-b4bc-d308ec2393fa.png">
+</p>
+
+Lista de servidores proxys gratuitos:
+
+- https://hidemy.name/es/proxy-list/
+
+- https://free-proxy-list.net/
+
+- https://geonode.com/free-proxy-list/
+
+- https://www.freeproxylists.net/
+
+
+
+#### ~R3LI4NT~

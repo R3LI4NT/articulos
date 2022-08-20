@@ -4,7 +4,7 @@
 
 <h1 align="center"></h1>
 
-<h3 align="center">PRIVOXY</h3>
+<h3 align="center"><ins>PRIVOXY</ins></h3>
 
 Privoxy es un proxy web de código abierto sin almacenamiento de cache con capas de seguridad avanzadas para mejorar la seguridad de navegación, modificar los datos de la página web y los encabezados HTTP, eliminar anuncios y restricción geográfica. Al igual que proxychains, privoxy se puede utilizar mediante socks5 para enrutar todo el tráfico de la red bajo los nodos Tor, lo que lo vuelve aún más anónimo.
 

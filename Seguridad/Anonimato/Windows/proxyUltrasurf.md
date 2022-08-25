@@ -4,7 +4,7 @@
 
 <h1 align="center"></h1>
 
-<h3 align="center"><ins>ULTRASURF</ins></h3>
+<h3 align="center"><ins>PROXY ULTRASURF</ins></h3>
 
 Ultrasurf es un proxy gratuito que permite navegar en Internet de forma anónima sin que los sitios web registren tu dirección IP, cookies e impide guardar tu historial de navegación. Además, te facilitará acceder a páginas censuradas geográficamente, así como aquellas que están bloqueadas en instituciones educativas o trabajo.
 

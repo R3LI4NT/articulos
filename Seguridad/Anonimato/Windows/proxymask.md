@@ -27,3 +27,7 @@ En la configuración de *TOR Network* **->** *IP Country* tiene la posibilidad d
 La protección de fuga contra IP es de gran utilidad en caso de que la cofiguración del proxy sea cambiada inesperadamente:
 
 ![3](https://user-images.githubusercontent.com/75953873/187049200-e272dac8-ec04-4d99-af43-dedc6026be06.png)
+
+Luego iniciaremos la conexión TOR para enrutar nuestro tráfico y cambiar la IP.
+
+![4](https://user-images.githubusercontent.com/75953873/187049282-44ca7e1f-1d06-4ecc-9d91-d01c48a7c999.png)

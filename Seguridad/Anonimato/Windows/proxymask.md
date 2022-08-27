@@ -37,3 +37,9 @@ Luego iniciaremos la conexión TOR para enrutar nuestro tráfico y cambiar la IP
 No solamente encripta el tráfico del navegador, sino que también podemos seleccionar aplicaciones y procesos del sistema:
 
 ![6](https://user-images.githubusercontent.com/75953873/187049443-47f18e8a-5507-4c87-bf20-88a8b66218d1.png)
+
+Volviendo al menú principal, en *Proxy Tools* podemos establecer un servidor proxy manual y sin necesidad de TOR por su protocolo de cifrado. La lista de servidores proxy se actualiza cada cierto tiempo.
+
+![7](https://user-images.githubusercontent.com/75953873/187049808-3669a66b-d9c2-4c0f-80f8-0ff57419768e.png)
+
+

@@ -23,3 +23,7 @@ Una vez descargado y extraído el archivo, ingresan a la carpeta generada y ejec
 En la configuración de *TOR Network* **->** *IP Country* tiene la posibilidad de escoger un país (manual) para establecer la dirección IP o dejarlo en modo automático:
 
 ![2](https://user-images.githubusercontent.com/75953873/187049102-73813bf0-f8f4-47d1-aec5-2b1c4a38d99c.png)
+
+La protección de fuga contra IP es de gran utilidad en caso de que la cofiguración del proxy sea cambiada inesperadamente:
+
+![3](https://user-images.githubusercontent.com/75953873/187049200-e272dac8-ec04-4d99-af43-dedc6026be06.png)

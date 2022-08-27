@@ -19,3 +19,7 @@ Proxy Mask es una aplicación de escritorio que ofrece una amplia variedad de ca
 Una vez descargado y extraído el archivo, ingresan a la carpeta generada y ejecutan el **.EXE**:
 
 ![1](https://user-images.githubusercontent.com/75953873/187048906-16b4b437-9c59-472a-b4cd-2be8735ee364.png)
+
+En la configuración de *TOR Network* **->** *IP Country* tiene la posibilidad de escoger un país (manual) para establecer la dirección IP o dejarlo en modo automático:
+
+![2](https://user-images.githubusercontent.com/75953873/187049102-73813bf0-f8f4-47d1-aec5-2b1c4a38d99c.png)

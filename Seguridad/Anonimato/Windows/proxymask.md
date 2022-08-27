@@ -33,3 +33,7 @@ Luego iniciaremos la conexión TOR para enrutar nuestro tráfico y cambiar la IP
 ![4](https://user-images.githubusercontent.com/75953873/187049282-44ca7e1f-1d06-4ecc-9d91-d01c48a7c999.png)
 
 ![5](https://user-images.githubusercontent.com/75953873/187049395-6d9e07f6-0c67-48cc-9bca-5d01539c2890.png)
+
+No solamente encripta el tráfico del navegador, sino que también podemos seleccionar aplicaciones y procesos del sistema:
+
+![6](https://user-images.githubusercontent.com/75953873/187049443-47f18e8a-5507-4c87-bf20-88a8b66218d1.png)

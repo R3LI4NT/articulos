@@ -31,3 +31,5 @@ La protección de fuga contra IP es de gran utilidad en caso de que la cofigurac
 Luego iniciaremos la conexión TOR para enrutar nuestro tráfico y cambiar la IP.
 
 ![4](https://user-images.githubusercontent.com/75953873/187049282-44ca7e1f-1d06-4ecc-9d91-d01c48a7c999.png)
+
+![5](https://user-images.githubusercontent.com/75953873/187049395-6d9e07f6-0c67-48cc-9bca-5d01539c2890.png)

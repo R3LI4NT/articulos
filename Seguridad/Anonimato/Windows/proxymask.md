@@ -15,3 +15,7 @@ Proxy Mask es una aplicación de escritorio que ofrece una amplia variedad de ca
 - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/proxychains_tor.md">Cómo funciona un Proxy y nodos Tor (con esquema)</a>
 
 <h1 align="center"></h1>
+
+Una vez descargado y extraído el archivo, ingresan a la carpeta generada y ejecutan el **.EXE**:
+
+![1](https://user-images.githubusercontent.com/75953873/187048906-16b4b437-9c59-472a-b4cd-2be8735ee364.png)

@@ -78,7 +78,7 @@
   - <sub>O.S: **Windows**</sub>
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/Windows/proxyUltrasurf.md" target="_blank">Proxy Ultrasurf</a>
 
-    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/Windows/proxymask.md" target="_blank">Proxy Mask</a>
+    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/Windows/proxymask.md" target="_blank">Proxy Mask - Enrutar tráfico bajo la red TOR</a>
     
   - <sub>O.S: **Android**</sub>
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/Android/prey.md" target="_blank">[AntiRRobo] aplicación Prey</a>

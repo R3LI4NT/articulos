@@ -6,7 +6,7 @@
 
 <h3 align="center"><ins>PROXY MASK</ins></h3>
 
-Proxy Mask es una aplicación de escritorio que ofrece una amplia variedad de características, entre ellos, cambio de dirección IP, cambio de dirección MAC, cambiar configuración de DNS para saltarse la restricción del ISP. Su versión gratuita es limitada ya que para desbloquear otras opciones es preciso pagar para activar la licencia, aún así, tiene un temporizador de 1 hora para utilizar el proxy y ser reiniciado.
+Proxy Mask es una aplicación de escritorio que ofrece una amplia variedad de características, entre ellos: cambio de dirección IP, cambio de dirección MAC, cambiar configuración de DNS para saltarse la restricción del ISP. Su versión gratuita es limitada ya que para desbloquear otras opciones es preciso pagar para activar la licencia, aún así, tiene un temporizador de 1 hora para utilizar el proxy y ser reiniciado.
 
 **Descargar desde el sitio oficial:** https://www.majorgeeks.com/files/details/proxy_mask_proxy_switcher.html
 

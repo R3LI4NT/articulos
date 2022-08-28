@@ -23,6 +23,8 @@
      - <sub>A nivel: **Web**</sub>
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/fileUpload.md" target="_blank">Explotar vulnerabilidad File Upload con Weevely + Burp Suite</a>
 
+          - <a href="#" target="_blank">Ataque de XSS y secuestro de cookies</a>
+
 </br>
 
 - [x] Redes / Wireless

@@ -31,6 +31,9 @@
 
 - [x] Redes / Wireless
     - <sub>O.S: **GNU/Linux**</sub>
+
+        - <a href="#" target="_blank">Cracking WPA/WPA2 con Aircrack-ng</a>
+        
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/desautenticacion.md" target="_blank">Ataque de Desautenticación Wi-Fi</a>
         
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/autenticacion.md" target="_blank">Ataque de Autenticación Wi-Fi</a>

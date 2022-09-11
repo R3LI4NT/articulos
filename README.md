@@ -48,7 +48,7 @@
 </br>
 
 - [x] Seguridad
-    - `Criptografía`
+    - `Criptografía:`
      
      - <sub>O.S: **GNU/Linux**</sub>
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Criptograf%C3%ADa/GNU-Linux/shred.md" target="_blank">Borrado de datos seguro en GNU / Linux, AntiForense</a>
@@ -62,7 +62,7 @@
      
  
 - 
-  - `Esteganografía`
+  - `Esteganografía:`
   
   - <sub>O.S: **GNU/Linux**</sub>
     - Proximamente...
@@ -73,7 +73,7 @@
 
 
 -
-  - `Anonimato y Privacidad`
+  - `Anonimato y Privacidad:`
   
   - <sub>O.S: **GNU/Linux**</sub>
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/proxychains_tor.md" target="_blank">Configuración de Proxychains & Tor</a>

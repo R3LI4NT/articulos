@@ -67,7 +67,7 @@
   - <sub>O.S: **GNU/Linux**</sub>
     - Proximamente...
 
-    - <sub>O.S: **Windows**</sub>
+  - <sub>O.S: **Windows**</sub>
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Esteganograf%C3%ADa/Windows/DeepSound.md" target="_blank">Ocultar archivos secretos en una pista de audio</a>
        
 

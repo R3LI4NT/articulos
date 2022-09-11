@@ -5,3 +5,9 @@
 <h1 align="center"></h1>
 
 <h3 align="center"><ins>CIFRADO WPA/WPA2</ins></h3>
+
+
+
+<p align="center">
+  <img src="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/img/wpa_wpa2.png">
+</p>

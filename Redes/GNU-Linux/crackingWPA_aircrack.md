@@ -25,3 +25,5 @@ El cifrado WPA2 fue diseñado en el año 2004 y es la versión certificada del 8
 <p align="center">
   <img src="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/img/wpa_wpa2.png">
 </p>
+
+### Ataque de Fuerza Bruta

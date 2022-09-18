@@ -170,5 +170,9 @@ aircrack-ng -w <DICCIONARIO> <ARCHIVO.CAP>
 
 La herramienta probo 712 contraseñas en menos de 10 segundos, obviamente metí la contraseña real en el diccionario para acelerar el proceso. Reiternando lo que se ha dicho más arriba, este ataque requiere de mucho tiempo si el diccionario es extenso y la longitud de la contraseña también, por eso mismo se recomienda recabar información sensible del objetivo y a partir de ahí crear un diccionario con palabras claves.
 
-<!-- **Continuará: El contenido se irá actualizando constantemente, gracias por su paciencia :)**
+<h1 align="center"></h1>
+
+</br>
+
+#### TIPS DE SEGURIDAD FRENTE ESTE ATAQUE
 

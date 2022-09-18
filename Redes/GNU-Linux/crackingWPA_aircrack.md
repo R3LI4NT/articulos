@@ -113,7 +113,23 @@ airodump-ng wlan0
 ```
 ![4](https://user-images.githubusercontent.com/75953873/190917513-3429151f-86ae-442a-89db-3012bcecacea.png)
 
+**BSSID:** Dirección MAC del punto de acceso.
 
+**PWR:** Rango en el que se encuentra el AP.
+
+**Beacons:** Número de paquetes envíado por el AP.
+
+**#Data:** Número de paquetes capturados.
+
+**CH:** Número de canal donde opera el AP.
+
+**MB:** Velocidad máxima soportada por el AP. MB = 11 es 802.11b, si MB = 22 es 802.11b+ y hasta 54 son 802.11g.
+
+**ENC:** Tipo de algoritmo de cifrado, generalmente las redes privadas utilizan WPA/WPA2 y WEP. En caso de ser una red pública, el algoritmo que utilizará es OPN = sin encriptación.
+
+**AUTH:** Protocolo de autenticación utilizado.
+
+**ESSID:** Nombre de la red inalámbrica.
 
 <!-- **Continuará: El contenido se irá actualizando constantemente, gracias por su paciencia :)**
 

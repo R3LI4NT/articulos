@@ -54,7 +54,15 @@ Cuando nos conectamos a una red inalámbrica ya sea pública o privada, en el ai
 
 ### AIRCRACK-NG | Cracking WPA/WPA2
 
+La suite de Aircrack-ng es una de las más destacada para realizar auditorías de redes inalámbricas Wi-Fi a routers y puntos de acceso. Soporta cracking de cifrado WEP, WPA y WPA2. Esta suite se divide en diferentes herramientas para una tarea en concreto:
 
+- **Airmon-ng:** Coloca la tarjeta en modo monitor para capturar e inyectar paquetes de nuestro alrededor.
+
+- **Airodump-ng:** Escanea puntos de acceso y captura vectores de inicio.
+
+- **Airplay-ng:* Inyecta paquetes, genera tráfico no autorizado para utilizarlo luego (Ataque de autenticación/desautenticación).
+
+- **Aircrack-ng:** Descifra la clave de los vectores de inicio.
 
 
 

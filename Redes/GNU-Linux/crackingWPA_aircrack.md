@@ -60,9 +60,31 @@ La suite de Aircrack-ng es una de las más destacada para realizar auditorías d
 
 - **Airodump-ng:** Escanea puntos de acceso y captura vectores de inicio.
 
-- **Airplay-ng:* Inyecta paquetes, genera tráfico no autorizado para utilizarlo luego (Ataque de autenticación/desautenticación).
+- **Airplay-ng:** Inyecta paquetes, genera tráfico no autorizado para utilizarlo luego (Ataque de autenticación/desautenticación).
 
 - **Aircrack-ng:** Descifra la clave de los vectores de inicio.
+
+La suite de seguridad se divide en cuatro áreas de la ciberseguridad en redes inalámbricas:
+
+- **Monitoreo:** Permite capturar todos los paquetes de una red inalámbrica, exportar los datos a archivos de texto y posteriormente analizarlos con otros programas (Ej: Wireshark).
+
+- **Vectores de ataques:** Es útil para realizar ataques de desautenticación, autenticación, crear puntos de acceso falsos, inyectar paquetes en la red inalámbrica, hacer ataques replay.
+
+- **Testing:** Comprueba si nuestra tarjeta de red Wi-Fi es compatible con el modo monitor y con los ataques anteriormente mencionados.
+
+- **Cracking:** Permite crackear el cifrado WEP, WPA y WPA2 basado en diccionario por fuerza bruta.
+
+
+**Instalar en Debian:**
+```
+sudo apt-get install aircrack-ng
+```
+
+
+
+
+
+
 
 
 

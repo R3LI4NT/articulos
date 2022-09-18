@@ -107,6 +107,12 @@ airmon-ng check kill
 ```
 ![3](https://user-images.githubusercontent.com/75953873/190917303-a59aad39-f5bb-45f3-9a85-ce5ae6eb4448.png)
 
+Lo más probable es que seamos desconectados del Wi-Fi. Con el párametro `airodump-ng` **+** `nombre-interfaz` capturamos los paquetes de las redes de nuestro alrededor:
+```
+airodump-ng wlan0
+```
+![4](https://user-images.githubusercontent.com/75953873/190917513-3429151f-86ae-442a-89db-3012bcecacea.png)
+
 
 
 <!-- **Continuará: El contenido se irá actualizando constantemente, gracias por su paciencia :)**

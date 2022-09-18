@@ -32,7 +32,7 @@ En el campo de la criptografía, la fuerza bruta es descrita como un método par
 
 <ins>**Tipos de ataques de fuerza bruta:**</ins>
 
-- Ataque por diccionario: 
+- Ataque por diccionario: Su lógica es muy sencilla, consiste en probar todas las palabras del diccionario hasta averiguar con la contraseña. Este método de cracking es poco eficaz si la contraseña es muy fuerte (combinaciones de caracteres especiales y/o muy larga). En Internet hay diccionarios públicos para utilizar, la mayoría de ellos traen contraseñas débiles y más utilizadas que han sido recolectadas por usuarios (Por ejemplo: <a href="https://github.com/praetorian-inc/Hob0Rules/blob/master/wordlists/rockyou.txt.gz">rockyou</a>).
 
 
 

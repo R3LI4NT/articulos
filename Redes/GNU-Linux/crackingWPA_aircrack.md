@@ -137,11 +137,18 @@ airodump-ng -c <N-CHANNEL> --bssid <MAC-AP> -w <ARCHIVO-CAPTURA> <INTERFAZ>
 
 Ej: airodump-ng -c 7 --bssid 00:11:22:33:44:55 -w Reliant wlan0
 ```
+
+<h4 align="center"><ins>IMPORTANTE no cerrar esta terminal</ins></h4>
+
 ![5](https://user-images.githubusercontent.com/75953873/190918202-5987590c-d12a-4c60-be28-9b577415239f.png)
 
 
-A modo de ejemplo, atacaré mi propia red (**_Unknown_**). 
+A modo de ejemplo, atacaré mi propia red (**_Unknown_**). La `STATION` son los clientes que están conectados la red (BSSID), en otra terminal proseguiremos a lanzar el ataque de desautenticación para desconectarlos con el párametro `aireplay-ng`. Algo que hay que tener en cuenta es que el ataque de desautenticación puede ser llevado contra todos los clientes que estén conectados al punto de acceso o a uno en específico, personalmente recomiendo desconectar a un solo cliente para no generar sospechas:
+```
+aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> <INTERFAZ>
 
+Ej: aireplay-ng 
+```
 
 
 

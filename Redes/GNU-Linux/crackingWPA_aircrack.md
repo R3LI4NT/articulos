@@ -48,7 +48,7 @@ Cuando nos conectamos a una red inalámbrica ya sea pública o privada, en el ai
 
 - **Activa:** Se acelerá el proceso al desautenticar un cliente de la red inalámbrica.
 
-- **Pasiva:** Se espera que un cliente se autentifique a la red.
+- **Pasiva:** Se espera que un cliente se autentifique a la red inalámbrica.
 
 <h1 align="center"></h1>
 

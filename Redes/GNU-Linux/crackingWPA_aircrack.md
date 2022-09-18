@@ -134,6 +134,8 @@ airodump-ng wlan0
 Luego de haber reconocido el BSSID y el canal, quedaría capturar los paquetes del AP objetivo:
 ```
 airodump-ng -c <N-CHANNEL> --bssid <MAC-AP> -w <ARCHIVO-CAPTURA> <INTERFAZ>
+
+Ej: airodump-ng -c 7 --bssid 00:11:22:33:44:55 -w Reliant wlan0
 ```
 ![5](https://user-images.githubusercontent.com/75953873/190918202-5987590c-d12a-4c60-be28-9b577415239f.png)
 

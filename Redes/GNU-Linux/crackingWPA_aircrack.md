@@ -58,5 +58,5 @@ Cuando nos conectamos a una red inalámbrica ya sea pública o privada, en el ai
 
 
 
-**Continuará: El contenido se irá actualizando constantemente, gracias por su paciencia :)**
+<!-- **Continuará: El contenido se irá actualizando constantemente, gracias por su paciencia :)**
 

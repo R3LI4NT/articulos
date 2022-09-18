@@ -44,7 +44,7 @@ pkill <nombre-del-proceso>
 ```
 ![3](https://user-images.githubusercontent.com/75953873/180205864-5c1debac-deed-4bb2-8146-58f864389591.png)
 
-Pero si lo preferimos, aircrack lo hace automatizado por nosotros:
+Pero si lo preferimos, airmon lo hace automatizado por nosotros:
 ```
 airmon-ng check kill
 ```

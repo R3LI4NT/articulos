@@ -70,6 +70,8 @@ La suite de Aircrack-ng es una de las más destacada para realizar auditorías d
 
 - **Aircrack-ng:** Descifra la clave de los vectores de inicio.
 
+</br>
+
 La suite de seguridad se divide en cuatro áreas de la ciberseguridad en redes inalámbricas:
 
 - **Monitoreo:** Permite capturar todos los paquetes de una red inalámbrica, exportar los datos a archivos de texto y posteriormente analizarlos con otros programas (Ej: Wireshark).

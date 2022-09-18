@@ -155,7 +155,7 @@ Ej: aireplay-ng --deauth 10 -a XX:XX:XX:XX:XX:XX -c XX:XX:XX:XX:XX:XX wlan0
 
 **-c:** Dirección MAC del cliente (STATION) conectado.
 
-En la esquina superior del lado izquierdo indica que el handshake fue capturado exitosamente, dependerá que tan lejos este el AP, esto quiere decir que se debe reintentar cuantas veces sea necesario para ser capturado.
+En la esquina superior del lado derecho indica que el handshake fue capturado exitosamente, dependerá que tan lejos este el AP, esto quiere decir que se debe reintentar cuantas veces sea necesario para ser capturado.
 
 ![6](https://user-images.githubusercontent.com/75953873/190919001-12c7abf5-dd94-452a-96b0-9780a6974de4.png)
 

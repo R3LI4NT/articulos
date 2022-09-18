@@ -159,7 +159,7 @@ En la esquina superior del lado derecho indica que el handshake fue capturado ex
 
 ![6](https://user-images.githubusercontent.com/75953873/190919001-12c7abf5-dd94-452a-96b0-9780a6974de4.png)
 
-Por último, utilizamos el párametro `aircrack-ng` para crackear la clave PSK por medio de fuerza bruta (ataque de diccionario), la longitud puede variar entre 6 y 63 caracteres. El achivo con extensión `.cap` es dónde se encuentra la contraseña cifrada.
+Por último, utilizamos el párametro `aircrack-ng` para crackear la clave PSK por medio de fuerza bruta (ataque de diccionario), la longitud puede variar entre 6 y 63 caracteres. El achivo con extensión `.cap` es donde se encuentra la contraseña cifrada.
 
 ![7](https://user-images.githubusercontent.com/75953873/190929527-c90ef4b7-55c1-4685-ab08-43c60b745bce.png)
 
@@ -168,6 +168,7 @@ aircrack-ng -w <DICCIONARIO> <ARCHIVO.CAP>
 ```
 ![8](https://user-images.githubusercontent.com/75953873/190929481-2b557995-c07d-4a92-b1a6-1218cdd507f4.png)
 
+La herramienta probo 712 contraseñas en menos de 10 segundos, obviamente metí la contraseña real en el diccionario para acelerar el proceso. Reiternando lo que se ha dicho más arriba, este ataque requiere de mucho tiempo si el diccionario es extenso y la longitud de la contraseña también, por eso mismo se recomienda recabar información sensible del objetivo y a partir de ahí crear un diccionario con palabras claves.
 
 <!-- **Continuará: El contenido se irá actualizando constantemente, gracias por su paciencia :)**
 

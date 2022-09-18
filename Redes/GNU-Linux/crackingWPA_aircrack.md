@@ -38,7 +38,7 @@ En el campo de la criptografía, la fuerza bruta es descrita como un método par
 
 - Ataque Inverso (password spraying): En este caso se empieza por el final. El atacante empieza con una contraseña conocida e irá probando con una lista de miles de usuarios hasta encontrar una coincidencia. Para ello, necesitará recolecar en Internet una base de datos pública que contenga nombre de usuarios filtrados.
 
-<p align="center">
+<h1 align="center"></h1>
   
 ### Handshake
 

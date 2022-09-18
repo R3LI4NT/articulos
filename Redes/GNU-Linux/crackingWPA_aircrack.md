@@ -50,7 +50,7 @@ Cuando nos conectamos a una red inalámbrica ya sea pública o privada, en el ai
 
 - **Pasiva:** Se espera que un cliente se autentifique a la red inalámbrica.
 
-Es necesario contar con un adaptador de red externo para capturar los paquetes que viajan en el aire, los más vendidos son los que se observa en la imagen. También es posible llevar el ataque a través de un USB booteable pero el alcance se límita.
+Es necesario contar con un adaptador de red externo para capturar los paquetes que viajan en el aire, los más vendidos son los que se observa en la imagen. También es posible llevar el ataque a través de un USB booteable pero el alcance es límitado.
 
 <p align="center">
   <img src="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/img/adaptadores_wifi.png">

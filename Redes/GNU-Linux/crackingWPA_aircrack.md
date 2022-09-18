@@ -101,7 +101,11 @@ airmon-ng start wlan0
 ```
 ![2](https://user-images.githubusercontent.com/75953873/190917100-a1f0ff1c-29ed-4946-aea7-fd0657ead3db.png)
 
-
+Lo siguiente será matar los procesos PID para no presentar ningún error al momento de auditar la red. Cada PID es único y se puede matar de forma manual o automática según su ID. Pero si lo preferimos, airmon lo hace automatizado por nosotros:
+```
+airmon-ng check kill
+```
+![3](https://user-images.githubusercontent.com/75953873/190917303-a59aad39-f5bb-45f3-9a85-ce5ae6eb4448.png)
 
 
 

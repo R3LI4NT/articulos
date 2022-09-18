@@ -82,8 +82,9 @@ La suite de seguridad se divide en cuatro áreas de la ciberseguridad en redes i
 
 - **Cracking:** Permite crackear el cifrado WEP, WPA y WPA2 basado en diccionario por fuerza bruta.
 
+</br>
 
-*Instalar en Debian:*
+**_Instalar en Debian:_**
 ```
 sudo apt-get install aircrack-ng
 ```

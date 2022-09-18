@@ -89,6 +89,7 @@ La suite de seguridad se divide en cuatro áreas de la ciberseguridad en redes i
 sudo apt-get install aircrack-ng
 ```
 
+<h1 align="center"></h1>
 
 
 

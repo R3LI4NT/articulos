@@ -131,5 +131,17 @@ airodump-ng wlan0
 
 **ESSID:** Nombre de la red inalámbrica.
 
+Luego de haber reconocido el BSSID y el canal, quedaría capturar los paquetes del AP objetivo:
+```
+airodump-ng -c <N-CHANNEL> --bssid <MAC-AP> -w <ARCHIVO-CAPTURA> <INTERFAZ>
+```
+![5](https://user-images.githubusercontent.com/75953873/190918202-5987590c-d12a-4c60-be28-9b577415239f.png)
+
+
+A modo de ejemplo, atacaré mi propia red (**_Unknown_**). 
+
+
+
+
 <!-- **Continuará: El contenido se irá actualizando constantemente, gracias por su paciencia :)**
 

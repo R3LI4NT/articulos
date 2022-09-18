@@ -91,7 +91,9 @@ sudo apt-get install aircrack-ng
 
 <h1 align="center"></h1>
 
+En primer lugar, hay identificar nuestro adaptador de red con `ifconfig`:
 
+![1](https://user-images.githubusercontent.com/75953873/190916988-410a205d-a70c-4a26-a023-3a5e16ea1fe6.png)
 
 
 

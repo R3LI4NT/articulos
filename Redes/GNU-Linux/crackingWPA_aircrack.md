@@ -135,7 +135,7 @@ Luego de haber reconocido el BSSID y el canal, quedaría capturar los paquetes d
 ```
 airodump-ng -c <N-CHANNEL> --bssid <MAC-AP> -w <ARCHIVO-CAPTURA> <INTERFAZ>
 
-Ej: airodump-ng -c 7 --bssid 00:11:22:33:44:55 -w Reliant wlan0
+Ej: airodump-ng -c 7 --bssid XX:XX:XX:XX:XX:XX -w Reliant wlan0
 ```
 
 <h4 align="center"><ins>IMPORTANTE no cerrar esta terminal</ins></h4>
@@ -145,10 +145,19 @@ Ej: airodump-ng -c 7 --bssid 00:11:22:33:44:55 -w Reliant wlan0
 
 A modo de ejemplo, atacaré mi propia red (**_Unknown_**). La `STATION` son los clientes que están conectados la red (BSSID), en otra terminal proseguiremos a lanzar el ataque de desautenticación para desconectarlos con el párametro `aireplay-ng`. Algo que hay que tener en cuenta es que el ataque de desautenticación puede ser llevado contra todos los clientes que estén conectados al punto de acceso o a uno en específico, personalmente recomiendo desconectar a un solo cliente para no generar sospechas:
 ```
-aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> <INTERFAZ>
+aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> -c <MAC> <INTERFAZ>
 
-Ej: aireplay-ng 
+Ej: aireplay-ng --deauth 10 -a XX:XX:XX:XX:XX:XX -c XX:XX:XX:XX:XX:XX wlan0
 ```
+**--deauth:** Modo desautenticación. Al agregar el valor 0, el ataque es ílimitado provocando un DoS (Denegación de Servicio) a nivel red.
+
+**-a:** Dirección MAC del punto de acceso (AP).
+
+**-c:** Dirección MAC del cliente (STATION) conectado.
+
+En la esquina superior del lado izquierdo indica que el handshake fue capturado exitosamente, dependerá que tan lejos este el AP, esto quiere decir que se debe reintentar cuantas veces sea necesario para ser capturado.
+
+![6](https://user-images.githubusercontent.com/75953873/190919001-12c7abf5-dd94-452a-96b0-9780a6974de4.png)
 
 
 

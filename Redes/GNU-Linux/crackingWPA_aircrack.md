@@ -91,10 +91,15 @@ sudo apt-get install aircrack-ng
 
 <h1 align="center"></h1>
 
-En primer lugar, hay identificar nuestro adaptador de red con `ifconfig`:
+En primer lugar, hay identificar nuestra interfaz de red con `ifconfig`:
 
 ![1](https://user-images.githubusercontent.com/75953873/190916988-410a205d-a70c-4a26-a023-3a5e16ea1fe6.png)
 
+Con el párametro `airmon-ng` **+** `nombre-interfaz` establecemos nuestro adaptador en modo monitor:
+```
+airmon-ng start wlan0
+```
+![2](https://user-images.githubusercontent.com/75953873/190917100-a1f0ff1c-29ed-4946-aea7-fd0657ead3db.png)
 
 
 

@@ -174,6 +174,6 @@ La herramienta probo 712 contraseñas en menos de 10 segundos, obviamente metí 
 
 </br>
 
-#### TIPS DE SEGURIDAD FRENTE ESTE ATAQUE
+#### TIPS DE SEGURIDAD FRENTE A ESTE ATAQUE
 
 No existe una medida que garantice una protección estable contra los ataques de desautenticación, el mecanismo de protección se basa en engañar al atacante desde un segundo router con salida a internet, el cual se configura con el mismo nombre (SSID) y cifrado para que cuando el ataque sea ejecutado, los clientes automáticamente se conectarán al segundo punto de acceso y sigan navegando sin problemas (se le conoce como Roaming AP). Ahora bien, si el atacante tiene dos antenas, entonces puede ejecutar doble ataque de desautenticación contra el segundo router y de nada serviría lo anterior. Algunos provedores de servicio (ISP) establecen la contraseña del router por defecto, misma que esta al alcance de todos, es por ello que se recomienda no solo cambiarla, sino también utilizar combinaciones de números y símbolos para que sea más difícil de descifrar, tal como una frase. Los filtrados de MAC puede ser una opción para expulsar clientes no autorizados del Wi-Fi, pero también es fácil de burlar la seguridad con un reconocimiento de paquetes (**STATION**) que permitan suplantar la dirección MAC de un usuario autorizado dentro de la lista.

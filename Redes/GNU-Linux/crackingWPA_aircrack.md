@@ -159,6 +159,14 @@ En la esquina superior del lado derecho indica que el handshake fue capturado ex
 
 ![6](https://user-images.githubusercontent.com/75953873/190919001-12c7abf5-dd94-452a-96b0-9780a6974de4.png)
 
+Por último, utilizamos el párametro `aircrack-ng` para crackear la clave PSK por medio de fuerza bruta (ataque de diccionario), la longitud puede variar entre 6 y 63 caracteres. El achivo con extensión `.cap` es dónde se encuentra la contraseña cifrada.
+
+![7](https://user-images.githubusercontent.com/75953873/190929386-777eb5f9-9147-4ca0-93c7-0cd1320cb37e.png)
+
+```
+aircrack-ng -w <DICCIONARIO> <ARCHIVO.CAP> 
+```
+![8](https://user-images.githubusercontent.com/75953873/190929481-2b557995-c07d-4a92-b1a6-1218cdd507f4.png)
 
 
 <!-- **Continuará: El contenido se irá actualizando constantemente, gracias por su paciencia :)**

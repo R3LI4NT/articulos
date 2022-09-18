@@ -117,7 +117,7 @@ airodump-ng wlan0
 
 **PWR:** Rango en el que se encuentra el AP.
 
-**Beacons:** Número de paquetes envíado por el AP.
+**Beacons:** Número de paquetes enviados por el AP.
 
 **#Data:** Número de paquetes capturados.
 

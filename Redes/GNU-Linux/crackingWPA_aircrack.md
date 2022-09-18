@@ -36,7 +36,7 @@ En el campo de la criptografía, la fuerza bruta es descrita como un método par
 
 - Ataque de Tabla Arcoíris: Las rainbow tables (tablas arcoíris) son las más potentes para cracking de hash. Suele utilizarse para romper contraseñas que han sido cifradas en un hash, parten desde un conjunto enorme de hashes precalculados que se combinan entre sí en todos los caracteres especiales, letras y símbolos. En una tabla arcoíris puede caber más de 100.000 palabras en una sola fila, el valor del hash de un servidor web se compara con la lista de valores hash de la tabla Rainbow, el texto se compara con la contraseña a descifrar. El hash se reduce para obtener el siguiente texto original en la cadena, se recorre toda la cadena hasta llegar a un valor hash que coincida con la contraseña. Las Rainbow Tables son específicas con los caracteres empleados en la contraseña, es decir, si una contraseña es demasiada larga o utiliza caracteres que no están en la tabla, entonces no puede ser descifrada; normalmente pueden contener miles de millones de hashes. 
 
-
+- Ataque Inverso (password spraying): En este caso se empieza por el final. El atacante empieza con una contraseña conocida e irá probando con una lista de miles de usuarios hasta encontrar una coincidencia. Para ello, necesitará recolecar en Internet una base de datos pública que contenga nombre de usuarios filtrados.
 
 
 

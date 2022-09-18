@@ -161,7 +161,7 @@ En la esquina superior del lado derecho indica que el handshake fue capturado ex
 
 Por último, utilizamos el párametro `aircrack-ng` para crackear la clave PSK por medio de fuerza bruta (ataque de diccionario), la longitud puede variar entre 6 y 63 caracteres. El achivo con extensión `.cap` es dónde se encuentra la contraseña cifrada.
 
-![7](https://user-images.githubusercontent.com/75953873/190929386-777eb5f9-9147-4ca0-93c7-0cd1320cb37e.png)
+![7](https://user-images.githubusercontent.com/75953873/190929527-c90ef4b7-55c1-4685-ab08-43c60b745bce.png)
 
 ```
 aircrack-ng -w <DICCIONARIO> <ARCHIVO.CAP> 

@@ -18,7 +18,7 @@ WPA tiene un método de encriptación menos seguro y requiere de una contraseña
 
 El cifrado WPA2 fue diseñado en el año 2004 y es la versión certificada del 802.11i. Tiene mayor seguridad y es más simple de configurar, utiliza el estándar de cifrado avanzado (AES) en lugar de TKIP. AES es utilizado por la NSA para proteger información gubernamental de alto secreto, lo que fue útil para proteger dispositivos que estén conectados al Wi-Fi. Este sistema ofrece una serie de variantes:
 
-- **WPA2-Personal:** Otogra seguridad a través de contraseña compleja, ideal para uso doméstico o pequeñas empresas.
+- **WPA2-Personal:** Otorga seguridad a través de contraseña compleja, ideal para uso doméstico o pequeñas empresas.
 
 - **WPA2-Enterprise:** Utiliza un servidor para autenticar a los usuarios, ideal para grandes empresas.
 

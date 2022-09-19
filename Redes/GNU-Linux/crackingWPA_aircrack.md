@@ -164,7 +164,7 @@ Por último, utilizamos el parámetro `aircrack-ng` para crackear la clave PSK p
 ![7](https://user-images.githubusercontent.com/75953873/190929527-c90ef4b7-55c1-4685-ab08-43c60b745bce.png)
 
 ```
-aircrack-ng -w <DICCIONARIO> <ARCHIVO.CAP> 
+aircrack-ng -w <DICCIONARIO> <ARCHIVO.cap> 
 ```
 ![8](https://user-images.githubusercontent.com/75953873/190929481-2b557995-c07d-4a92-b1a6-1218cdd507f4.png)
 

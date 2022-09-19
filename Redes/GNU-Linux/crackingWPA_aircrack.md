@@ -95,7 +95,7 @@ En primer lugar, hay identificar nuestra interfaz de red con `ifconfig`:
 
 ![1](https://user-images.githubusercontent.com/75953873/190929261-0ca89880-d238-460d-9ace-a1c60110e173.png)
 
-Con el párametro `airmon-ng` **+** `nombre-interfaz` establecemos nuestro adaptador en modo monitor:
+Con el parámetro `airmon-ng` **+** `nombre-interfaz` establecemos nuestro adaptador en modo monitor:
 ```
 airmon-ng start wlan0
 ```
@@ -107,7 +107,7 @@ airmon-ng check kill
 ```
 ![3](https://user-images.githubusercontent.com/75953873/190917303-a59aad39-f5bb-45f3-9a85-ce5ae6eb4448.png)
 
-Lo más probable es que seamos desconectados del Wi-Fi. Con el párametro `airodump-ng` **+** `nombre-interfaz` capturamos los paquetes de las redes de nuestro alrededor:
+Lo más probable es que seamos desconectados del Wi-Fi. Con el parámetro `airodump-ng` **+** `nombre-interfaz` capturamos los paquetes de las redes de nuestro alrededor:
 ```
 airodump-ng wlan0
 ```
@@ -143,7 +143,7 @@ Ej: airodump-ng -c 7 --bssid XX:XX:XX:XX:XX:XX -w Reliant wlan0
 ![5](https://user-images.githubusercontent.com/75953873/190918202-5987590c-d12a-4c60-be28-9b577415239f.png)
 
 
-A modo de ejemplo, atacaré mi propia red (**_Unknown_**). La `STATION` son los clientes que están conectados la red (BSSID), en otra terminal proseguiremos a lanzar el ataque de desautenticación para desconectarlos con el párametro `aireplay-ng`. Algo que hay que tener en cuenta es que el ataque de desautenticación puede ser llevado contra todos los clientes que estén conectados al punto de acceso o a uno en específico, personalmente recomiendo desconectar a un solo cliente para no generar sospechas:
+A modo de ejemplo, atacaré mi propia red (**_Unknown_**). La `STATION` son los clientes que están conectados la red (BSSID), en otra terminal proseguiremos a lanzar el ataque de desautenticación para desconectarlos con el parámetro `aireplay-ng`. Algo que hay que tener en cuenta es que el ataque de desautenticación puede ser llevado contra todos los clientes que estén conectados al punto de acceso o a uno en específico, personalmente recomiendo desconectar a un solo cliente para no generar sospechas:
 ```
 aireplay-ng --deauth <SEGUNDOS> -a <MAC-AP> -c <MAC> <INTERFAZ>
 

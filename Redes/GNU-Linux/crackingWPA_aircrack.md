@@ -46,11 +46,11 @@ En el campo de la criptografía, la fuerza bruta es descrita como un método par
 
 Cuando nos conectamos a una red inalámbrica ya sea pública o privada, en el aire están viajando miles de datos que se transmiten desde el punto de acceso (AP) hacia los dispositivos, uno de esos datos es la contraseña cifrada; que obviamente solo es posible capturarla con una herramienta específica. El protocolo de enlace de autenticación de WPA/WPA2 entre el punto de acceso (AP) y el cliente se utiliza para generar claves de cifrado, mismas que luego son utilizadas para cifrar los datos que son envíados a través de un medio inalámbrico. El handshake es capturado cuando el usuario es autenticado de forma automática a la red, por ejemplo, cuando salimos de casa el Wi-Fi del router es desconectado ya que su alcance es de algunos metros, pero al volver nuestro celular reconoce el AP y se conecta solo. Para entenderlo mejor, para capturar el handhsake (contraseña cirada) es preciso desconectar al cliente de la red y que se vuelva a conectar, para ello se realiza un <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/desautenticacion.md">ataque de desautenticación</a> o en el caso de no haber clientes conectados, un <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/autenticacion.md">ataque de autenticación</a>.
 
-- **Activa:** Se acelerá el proceso al desautenticar un cliente de la red inalámbrica.
+- **Activa:** Se acelera el proceso al desautenticar un cliente de la red inalámbrica.
 
 - **Pasiva:** Se espera que un cliente se autentifique a la red inalámbrica.
 
-Es necesario contar con un adaptador de red externo para capturar los paquetes que viajan en el aire, los más vendidos son los que se observa en la imagen. También es posible llevar el ataque a través de un USB booteable pero el alcance es límitado.
+Es necesario contar con un adaptador de red externo para capturar los paquetes que viajan en el aire, los más vendidos son los que se observa en la imagen. También es posible llevar el ataque a través de un USB booteable pero el alcance es limitado.
 
 <p align="center">
   <img src="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/img/adaptadores_wifi.png">

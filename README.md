@@ -34,7 +34,7 @@
 
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/crackingWPA_aircrack.md" target="_blank">Cracking WPA/WPA2 con Aircrack-ng</a>
 
-        - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/crackingPIN_WPS.md" target="_blank">Cracking WPS PIN</a>
+        - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/crackingWPS.md" target="_blank">Cracking WPS PIN</a>
         
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/desautenticacion.md" target="_blank">Ataque de Desautenticación Wi-Fi</a>
         

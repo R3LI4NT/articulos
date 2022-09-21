@@ -5,3 +5,9 @@
 <h1 align="center"></h1>
 
 <h3 align="center"><ins>SISTEMA WPS PIN</ins></h3>
+
+<p align="center">
+  <img src="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/img/WPS_PIN.png">
+</p>
+
+<h1 align="center"></h1>

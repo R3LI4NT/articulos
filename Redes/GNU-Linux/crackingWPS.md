@@ -37,3 +37,5 @@ En primer lugar, al presionar el botón WPS se esta inhabilitando todas las medi
 Estas solicitudes son repetidas continuamente antes de que se llegue a enviar las credenciales, durante el proceso se captura la clave pública de Diffie Hellman del miembro y del registrador, y dos hashes del PIN WPS (PSK1, PSK2). Luego se realiza la fuerza bruta contra los dos hashes y como resultado se agrupan los 4 dígitos de cada clave.
 
 <h1 align="center"></h1>
+
+### ONESHOT | Cracking WPS PIN - Pixie Dust

@@ -10,6 +10,16 @@ WPS (_Wifi Protected Setup_) es un estándar de red lanzado en el año 2007 cuyo
 
 La conexión de WPS es muy sencilla, una de las más comunes es pulsar el botón detrás del router y el emparejamiento con los dispositivos se hará automático. Algunos dispositivos como impresoras, adaptadores Wi-Fi poseen su propio botón WPS, por lo que primero se debe pulsar el del router y luego el del aparato para establecer la conexión. Algunos routers con botón WPS ofrecen un PIN de ocho cifras para simplificar la conexión con dispositivos que no tengan dicho botón, está se debe copiar e introducir manualmente como si fuera la contraseña de la red, que por lo general es más compleja. En caso de no contar con dicho PIN se debe acceder al panel de control del router desde el navegador (http://192.168.1.1) **>** Seguridad WPS y copiar el PIN (también se puede generar uno uno).
 
+WPS contempla cuatro tipo de configuraciones diferentes para el intercambio de credenciales:
+
+- **PIN** (Número de identificación personal): Al usuario se le ofrece un PIN de 8 dígitos para que ingrese manualmente en sus dispositivos y establezca conexión sin otorgar la contraseña real del Wi-Fi.
+
+- **PBC** (Configuración del botón pulsador): El usuario presionar el botón WPS del punto de acceso (AP) y seguidamente el botón WPS del dispositivo para establecer la autenticación. Cualquier otra estación cercana no autorizada puede ganar acceso.
+
+- **NFC** (Comunicaciones de campo cercano): Es una tecnología inalámbrica que permite la comunicación e intercambio de datos entre dos dispositivos sin interrupciones a corta distancia. El dispositivo debe ser colocado cerca del router para intercambiar información
+
+- **USB** (Bus Universal en Serie): Es un método de forma física, las credenciales se guardan en una memoria flash USB que luego es introducido en el dispositivo que se desee autenticar a la red.
+
 <p align="center">
   <img src="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/img/WPS_PIN.png">
 </p>

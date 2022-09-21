@@ -34,4 +34,6 @@ En primer lugar, al presionar el botón WPS se esta inhabilitando todas las medi
 
 - _Envíos del enrutador: solicitud EAP_ / _Envíos por computadora: respuesta EAP_: Los marcos de solicitud EAP y los marcos de respuesta EAP se transmiten de un lado a otro hasta que el servidor de autenticación envía un mensaje EAP-Success al switch. El autenticador envía solicitudes al sistema en busca de acceso y las respuestas otorgan o niegan el acceso.
 
+Estas solicitudes son repetidas continuamente antes de que se llegue a enviar las credenciales, durante el proceso se captura la clave pública de Diffie Hellman del miembro y del registrador, y dos hashes del PIN WPS (PSK1, PSK2). Luego se realiza la fuerza bruta contra los dos hashes y como resultado se agrupan los 4 dígitos de cada clave.
+
 <h1 align="center"></h1>

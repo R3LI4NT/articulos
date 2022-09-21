@@ -28,6 +28,10 @@ WPS contempla cuatro tipo de configuraciones diferentes para el intercambio de c
 
 En primer lugar, al presionar el botón WPS se esta inhabilitando todas las medidas de seguridad configuradas en la conexión, incluyendo el cifrado WPA/WPA2 será de poca utilidad. El PIN consta de 8 dígitos, lo que quiere decir que un ataque de fuerza bruta es más que suficiente para adivinarlo y acceder a la red. Mientras que eataque <a href="https://www.wifi-libre.com/topic-57-pixie-dust-ataque-de-fuerza-bruta-offline-para-generar-el-pin-valido.html">**WPS Pixie Dust**</a> se centra en capturar el intercambio de paquetes entre el router víctima y el atacante, para posteriormente intentar crackear el PIN sin necesidad de conexión (offline) en tan solo un par de segundos. El PIN es dividido por dos claves precompartidas por cada PSK (mitad y mitad), las solicitudes del **AP** funcionan de la siguiente manera:
 
-- _Envíos informáticos - EAPOL Start:_
+- _Envíos informáticos - EAPOL Start_: El cliente y el dispositivo de acceso utilizan paquetes EAP para transportar información de autenticación. El cliente envía un mensaje EAPOL-Start para iniciar la autenticación 802.1X en el dispositivo de acceso.
+
+- _Envíos del enrutador: solicitud EAP para la identidad_: El autenticador envía una solicitud EAP para la identidad del solicitante de conexión (dispositivo cliente). El solicitante responde al autenticador con una Respuesta de identidad EAP que contiene la identidad (nombre de usuario) utilizada para la autenticación.
+
+- _Envíos del enrutador: solicitud EAP_ / _Envíos por computadora: respuesta EAP_: Los marcos de solicitud EAP y los marcos de respuesta EAP se transmiten de un lado a otro hasta que el servidor de autenticación envía un mensaje EAP-Success al switch. El autenticador envía solicitudes al sistema en busca de acceso y las respuestas otorgan o niegan el acceso.
 
 <h1 align="center"></h1>

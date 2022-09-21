@@ -26,6 +26,6 @@ WPS contempla cuatro tipo de configuraciones diferentes para el intercambio de c
 
 #### Vulnerabilidad
 
-En primer lugar, al presionar el botón de habilitar WPS, estas inhabilitando todas las medidas de seguridad configuradas en la conexión, incluyendo el cifrado WPA/WPA2 será de poca utilidad. El PIN consta de 8 dígitos, lo que quiere decir que un ataque de fuerza bruta es más que suficiente para adivinarlo y acceder a la red. El ataque **WPS Pixie Dust** se centra en capturar el intercambio de paquetes entre el router víctima y el atacante, para posteriormente intentar crackear el PIN sin necesidad de conexión (offline) aplicando un diccionario de por medio.
+En primer lugar, al presionar el botón de habilitar WPS, estas inhabilitando todas las medidas de seguridad configuradas en la conexión, incluyendo el cifrado WPA/WPA2 será de poca utilidad. El PIN consta de 8 dígitos, lo que quiere decir que un ataque de fuerza bruta es más que suficiente para adivinarlo y acceder a la red. El ataque <a href="https://www.wifi-libre.com/topic-57-pixie-dust-ataque-de-fuerza-bruta-offline-para-generar-el-pin-valido.html">**WPS Pixie Dust**</a> se centra en capturar el intercambio de paquetes entre el router víctima y el atacante, para posteriormente intentar crackear el PIN sin necesidad de conexión (offline) aplicando un diccionario de por medio.
 
 <h1 align="center"></h1>

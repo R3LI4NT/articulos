@@ -42,7 +42,7 @@ Estas solicitudes son repetidas continuamente antes de que se llegue a enviar la
 
 #### Identificar puntos de accesos habilitados para WPS
 
-Con el comando `wash` **+** `-i` **interfaz** podemos identificar aquellos puntos de acceso de nuestro alrededor que tienen habilitado el sistema WPS.
+Con el comando `wash` **+** `-i` **+** `interfaz` podemos identificar aquellos puntos de acceso de nuestro alrededor que tienen habilitado el sistema WPS.
 
 ![0](https://user-images.githubusercontent.com/75953873/191641965-ea94c4ba-630e-4a06-8220-c763a8497888.png)
 

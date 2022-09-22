@@ -79,4 +79,20 @@ PIN crackeado = **49011838**
 
 Duración = **244 milisegundos**
 
+<h1 align="center"></h1>
 
+### WIFITE | Cracking WPS PIN 
+
+Wifite es un script automatizado que ejecuta herramientas de auditoria inalámbrica para probar la seguridad de una red Wi-Fi. Esta hecho en Python y su uso sencillo hace que cualquiera sea capaz de auditar su propia red. Contiene las siguientes funciones y aplicaciones:
+
+- **Reaver | Bully:** se activa de manera predeterminada, pero se puede específicar de igual manera con los parámetros `--reaver` y/o `--bully`.
+
+- Captura el handshake, lo válida, lo extrae y lo guarda de forma automática.
+
+- Soporta tecnología 5Ghz
+
+- Utiliza la suite de aircrack-ng y sus derivados comandos para habilitar el modo monitor, descifrar archivos `.cap`, capturar paquetes, falsificar archivos de captura  y demás.
+
+- **Tshark:** Detecta redes WPS e inspecciona el handshake.
+
+- **Pyrit | Cowpatty:** Detectan las captura del hanshake.

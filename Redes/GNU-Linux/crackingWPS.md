@@ -53,3 +53,15 @@ OneShot es un script hecho en Python para realizar ataque de Pixie Dust sin nece
 > git clone --depth 1 https://github.com/drygdryg/OneShot && cd OneShot
 ```
 
+**-i:** Nombre de la interfaz a utilizar (Ej: wlan0).
+
+**-b:** Dirección MAC del punto de acceso (AP).
+
+**-K:** Modo de ataque Pixie Dust**
+
+Ejecutamos el script y esperamos que capture las claves y realice el crackeo automático:
+```
+python3 oneshot.py -i wlan0 -b XX:XX:XX:XX:XX:XX -K
+```
+![1](https://user-images.githubusercontent.com/75953873/191641118-616f58c7-b60c-4f2a-9d7a-68009df2172d.png)
+

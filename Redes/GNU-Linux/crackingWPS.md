@@ -114,7 +114,7 @@ El script automáticamente colocará nuestra interfaz en modo monitor y seguidam
 
 El script comenzará atacando WPS primero, porque es más rápido de crackear y no requiere capturar el handshake, lo que también indica que no es preciso contar con clientes conectados. Utiliza el ataque Pixie Dust para descifrar el PIN y en caso de tener éxito, obtendrá una pantalla como está: 
 
-![4](https://user-images.githubusercontent.com/75953873/191851193-1cbd0e89-ee72-48ee-a5ea-f8d2a24d6448.png)
+![4](https://user-images.githubusercontent.com/75953873/191851398-86668e86-4b20-4a28-b2f0-326459fc8d74.png)
 
 Cabe recalcar que, wifite también descifra la contraseña del punto de acceso (WPA/PSK) solo que en mi caso lo pause cuando obtuvo el PIN de WPS para acelerar el proceso. Los datos son almacenados y estructurados en sintaxis **JSON** en el archivo `cracked.json`.
 

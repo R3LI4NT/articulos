@@ -116,4 +116,7 @@ El script comenzará atacando WPS primero, porque es más rápido de crackear y 
 
 ![4](https://user-images.githubusercontent.com/75953873/191850228-acffe0b3-5b29-4e42-b6e5-f2b07fceb173.png)
 
-Cabe recalcar que, wifite también descifra la contraseña del punto de acceso (WPA/PSK) solo que en mi caso lo pause cuando obtuvo el PIN de WPS para acelerar el proceso.
+Cabe recalcar que, wifite también descifra la contraseña del punto de acceso (WPA/PSK) solo que en mi caso lo pause cuando obtuvo el PIN de WPS para acelerar el proceso. Los datos son almacenados y estructurados en sintaxis **JSON** en el archivo `cracked.json`.
+
+![5](https://user-images.githubusercontent.com/75953873/191850750-57da6e51-cfd0-4129-a82f-757a263a3f7f.png)
+

@@ -40,6 +40,14 @@ Estas solicitudes son repetidas continuamente antes de que se llegue a enviar la
 
 <h1 align="center"></h1>
 
+#### Identificar puntos de accesos habilitados con WPS
+
+Con el comando `wash` **+** `-i` **interfaz** podemos identificar aquellos puntos de acceso de nuestro alrededor que tienen habilitado el sistema WPS.
+
+![0](https://user-images.githubusercontent.com/75953873/191641965-ea94c4ba-630e-4a06-8220-c763a8497888.png)
+
+</br>
+
 ### ONESHOT | Cracking WPS PIN - Pixie Dust
 
 OneShot es un script hecho en Python para realizar ataque de Pixie Dust sin necesidad de cambiar el adaptador de red a modo monitor. Se utiliza **wpa_supplicant** para obtener los datos requeridos.

@@ -97,7 +97,7 @@ Wifite es un script automatizado que ejecuta herramientas de auditoria inalámbr
 
 - **Tshark:** Detecta redes WPS e inspecciona el handshake.
 
-- **Pyrit | Cowpatty:** Detectan las captura del hanshake.
+- **Pyrit | Cowpatty:** Detectan las captura del handshake.
 
 **_Instalar en Debian:_**
 ```

@@ -73,9 +73,8 @@ python3 oneshot.py -i wlan0 -b XX:XX:XX:XX:XX:XX -K
 ```
 ![1](https://user-images.githubusercontent.com/75953873/191641118-616f58c7-b60c-4f2a-9d7a-68009df2172d.png)
 
+![2](https://user-images.githubusercontent.com/75953873/191642529-e21dbec8-434c-472d-b8d2-f28c5e6c40be.png)
+
 PIN crackeado con éxito = **49011838**
 
 Duración = **244 milisegundos**
-
-![2](https://user-images.githubusercontent.com/75953873/191642529-e21dbec8-434c-472d-b8d2-f28c5e6c40be.png)
-

@@ -41,3 +41,15 @@ Estas solicitudes son repetidas continuamente antes de que se llegue a enviar la
 <h1 align="center"></h1>
 
 ### ONESHOT | Cracking WPS PIN - Pixie Dust
+
+OneShot es un script hecho en Python para realizar ataque de Pixie Dust sin necesidad de cambiar el adaptador de red a modo monitor. Se utiliza **wpa_supplicant** para obtener los datos requeridos.
+
+**_Instalar en Debian:_**
+```
+> sudo apt install -y python3 wpasupplicant iw wget
+
+> sudo apt install -y pixiewps
+
+> git clone --depth 1 https://github.com/drygdryg/OneShot && cd OneShot
+```
+

@@ -81,6 +81,8 @@ Duración = **244 milisegundos**
 
 <h1 align="center"></h1>
 
+</br>
+
 ### WIFITE | Cracking WPS PIN 
 
 Wifite es un script automatizado que ejecuta herramientas de auditoria inalámbrica para probar la seguridad de una red Wi-Fi. Esta hecho en Python y su uso sencillo hace que cualquiera sea capaz de auditar su propia red. Contiene las siguientes funciones y aplicaciones:
@@ -96,3 +98,12 @@ Wifite es un script automatizado que ejecuta herramientas de auditoria inalámbr
 - **Tshark:** Detecta redes WPS e inspecciona el handshake.
 
 - **Pyrit | Cowpatty:** Detectan las captura del hanshake.
+
+**_Instalar en Debian:_**
+```
+> git clone https://github.com/derv82/wifite2.git && cd wifite2
+
+> sudo python setup.py install
+
+> sudo ./Wifite.py
+```

@@ -87,7 +87,7 @@ Duración = **244 milisegundos**
 
 Wifite es un script automatizado que ejecuta herramientas de auditoria inalámbrica para probar la seguridad de una red Wi-Fi. Esta hecho en Python y su uso sencillo hace que cualquiera sea capaz de auditar su propia red. Contiene las siguientes funciones y aplicaciones:
 
-- **Reaver | Bully:** se activa de manera predeterminada, pero se puede específicar de igual manera con los parámetros `--reaver` y/o `--bully`.
+- **Reaver | Bully:** se activa de manera predeterminada, pero se puede especificar de igual manera con los parámetros `--reaver` y/o `--bully`.
 
 - Captura el handshake, lo válida, lo extrae y lo guarda de forma automática.
 

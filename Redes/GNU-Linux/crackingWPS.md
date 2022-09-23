@@ -120,4 +120,13 @@ Cabe recalcar que, wifite también descifra la contraseña del punto de acceso (
 
 ![5](https://user-images.githubusercontent.com/75953873/191851285-dae9a00a-5d3a-41d2-8a13-e33ed7be65b7.png)
 
+<h1 align="center"></h1>
+
+</br>
+
+Al ingresar el PIN como contraseña se le otorgará acceso a la red y podrá navegar en Internet libremente. El router cuyo ESSID es `TP-Link_4C74`, es propiedad de mi vecino y por lo visto no le ha cambiado el nombre, supongo que tampoco lo hizo con el panel de control. Los routers TP-Link tienen usuario y contraseña por defecto que establece el proveedor de servicio, mismo que se puede obtener con un par de búsquedas en Google.
+
+![6](https://user-images.githubusercontent.com/75953873/191876101-a6b34bf5-8937-4dcd-9efc-da316ac85c3c.png)
+
+![7](https://user-images.githubusercontent.com/75953873/191876120-311fc414-e8ff-42b5-976f-a46118111814.png)
 

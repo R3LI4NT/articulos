@@ -108,7 +108,7 @@ Wifite es un script automatizado que ejecuta herramientas de auditoria inalámbr
 > sudo ./Wifite.py
 ```
 
-El script automáticamente colocará nuestra interfaz en modo monitor y seguidamente empezará a reconocer las redes de nuestro alrededor. Aquellas redes que tengan habilitado WPS (**yes**) son las que podemos atacar. Una vez identificada, pulsamos `CTRL` **+** `C` y seleccionamos el punto de acceso:
+El script automáticamente colocará nuestra interfaz en modo monitor y seguidamente empezará a reconocer las redes de nuestro alrededor. Aquellas redes que tengan habilitado WPS (**yes**) son las que podemos atacar, mientras mayor sea el alcance, mejor es su probabilidad de crackearlo. Una vez identificada, pulsamos `CTRL` **+** `C` y seleccionamos el punto de acceso:
 
 ![3](https://user-images.githubusercontent.com/75953873/191849447-702681a3-da50-4107-b670-4554788fa145.png)
 

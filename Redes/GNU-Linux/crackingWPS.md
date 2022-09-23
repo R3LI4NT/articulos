@@ -130,3 +130,6 @@ Al ingresar el PIN como contraseña se le otorgará acceso a la red y podrá nav
 
 ![7](https://user-images.githubusercontent.com/75953873/191876120-311fc414-e8ff-42b5-976f-a46118111814.png)
 
+Efectivamente, ahora tengo el control total del router y no solo puedo habilitar o deshabilitar el WPS, sino también cambiar la clave del cifrado WPA/WPA2 y realizar una lista de filtrado MAC para expulsar a los dueños y ser el único cliente de la red.
+
+![8](https://user-images.githubusercontent.com/75953873/191877419-ed5763ed-9605-4151-82c9-1393426456dd.png)

@@ -29,9 +29,11 @@ Al específicar el tiempo en `0` la autenticación del cliente falso será ilimi
 
 </br>
 
+<h1 align="center"></h1>
+
 ### MDK4
 
-En el caso de MDK4, también contiene parámetros para dicho ataque:
+La herramienta MDK4 también contiene parámetros para dicho ataque:
 
 **a:** Modo de ataque Autenticaicón.
 

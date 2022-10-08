@@ -52,7 +52,7 @@
 </br>
 
 - [x] Programación
-   - <sub>O.S: **Python**</sub>
+   - <sub>Lenguaje: **Python**</sub>
       - <a href="#" target="_blank">Crear Rubber Ducky con Python</a>
 
 </br>

@@ -53,6 +53,7 @@
 
 - [x] Programación
    - <sub>Lenguaje: **Python**</sub>
+   
       - <a href="#" target="_blank">Crear Rubber Ducky con Python</a>
 
 </br>
@@ -61,6 +62,7 @@
     - `Criptografía:`
      
      - <sub>O.S: **GNU/Linux**</sub>
+     
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Criptograf%C3%ADa/GNU-Linux/shred.md" target="_blank">Borrado de datos seguro en GNU / Linux, AntiForense</a>
     
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Criptograf%C3%ADa/GNU-Linux/ccrypt.md" target="_blank">Cifrar archivos con CCRYPT</a>

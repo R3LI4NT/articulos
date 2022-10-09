@@ -71,9 +71,15 @@ Luego de haber visto los componentes de hardware que incorpora el Rubber Ducky, 
 ## Uso:
 | SINTAXIS | DESCRIPCIÓN |
 | ------------- | ------------- |
-| REM | Comentarios, código que no será ejecutado  |
+| REM | Comentarios, código que no será ejecutado.  |
 | DELAY  | crea una pausa momentánea en el guión de Ducky. El tiempo DELAY se especifica en milisegundos de 1 a 10000. Se pueden usar varios comandos DELAY para crear retrasos más largos.  |
-
-
+| DEFAULT_DELAY / DEFAULTDELAY | Se debe definir un valor entre 0 y 10000 (milisegundos), el cual establecerá un delay a todas las secuencias de comandos.  |
+| STRING | Permite inyectar cadenas de caracteres: a-z A-Z 0-9 !-) `~+=_-"';:<,>.?[{]}/|!@#$%^&*()`.  |
+| WINDOWS / GUI | Equivale a la tecla windows o la tecla cmd en macos.  |
+| SHIFT | Simula la tecla SHIFT, y esta se puede combinar con: DELETE, HOME, INSERT, PAGEUP, PAGEDOWN, WINDOWS, GUI, UPARROW, DOWNARROW, LEFTARROW, RIGHTARROW, TAB.  |
+| DELETE | Simula la tecla suprimir. |
+| RIGHTARROW / RIGHT | Simulan las teclas de dirección.  |
+| UPARROW / UP | Simulan las teclas de dirección.  |
+| DELETE | Simula la tecla suprimir.  |
 
 Quién está detrás de este proyecto es el grupo de hackers <a href="https://shop.hak5.org/products/usb-rubber-ducky">Hak5</a>, se desempeñan en crear kits de herramientas de pentesting para todo público; enfocados especialmente en la recopilación de información, reconocimiento avanzado, la recopilación de inteligencia de código abierto y más. 

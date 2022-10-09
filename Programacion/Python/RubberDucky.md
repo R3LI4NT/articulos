@@ -68,7 +68,6 @@ En seguida que se conecta este USB, es reconocido como un driver Atmel de Window
 
 Luego de haber visto los componentes de hardware que incorpora el Rubber Ducky, es preciso saber cómo funciona por dentro. Utiliza un lenguaje de programación llamado <a href="https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript">"**_Ducky Script_**"</a>, compuesto por una sintaxis sencilla de escribir y soportada por cualquier edit de código (Notepad, vi, emacs, nano, gedit, kedit, TextEdit, etc). Cada comando reside en una nueva línea y puede tener opciones a continuación. Los comandos están escritos todo en mayúsculas, algunas instrucciones:
 
-## Uso:
 | SINTAXIS | DESCRIPCIÓN |
 | ------------- | ------------- |
 | REM | Comentarios, código que no será ejecutado.  |
@@ -80,6 +79,16 @@ Luego de haber visto los componentes de hardware que incorpora el Rubber Ducky, 
 | DELETE | Simula la tecla suprimir. |
 | RIGHTARROW / RIGHT | Simulan las teclas de dirección.  |
 | UPARROW / UP | Simulan las teclas de dirección.  |
-| DELETE | Simula la tecla suprimir.  |
+| HOME | Equivale a la tecla inicio.  |
+| SPACE | Equivale a la tecla espacio.  |
+| TAB | Equivale a la tecla tabulación.  |
+| INSERT | Equivale a la tecla  insertar.  |
+| BREAK / PAUSE | Equivale a la combinación CTRL BREAK.  |
+| SCROLLLOCK | Simula la tecla Scroll Lock.  |
+| END | 	Tecla que permite ir al final de algo (página web, documento, etc).  |
+| CAPSLOCK | 	Tecla que permite escribir en mayúsculas o minúsculas.  |
+| ALT | Simula la tecla ALT, y esta se puede combinar con: END, ESC, ESCAPE, F1-F12, caracteres simples (ejemplo: f, s), SPACE, TAB.  |
+| SHIFT | Simula la tecla SHIFT, y esta se puede combinar con: DELETE, HOME, INSERT, PAGEUP, PAGEDOWN, WINDOWS, GUI, UPARROW, DOWNARROW, LEFTARROW, RIGHTARROW, TAB.  |
+| REPEAT | 	Repite la cantidad de veces que le indiquemos lo ya ejecutado.  |
 
 Quién está detrás de este proyecto es el grupo de hackers <a href="https://shop.hak5.org/products/usb-rubber-ducky">Hak5</a>, se desempeñan en crear kits de herramientas de pentesting para todo público; enfocados especialmente en la recopilación de información, reconocimiento avanzado, la recopilación de inteligencia de código abierto y más. 

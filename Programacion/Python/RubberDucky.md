@@ -5,3 +5,7 @@
 <h1 align="center"></h1>
 
 <h3 align="center"><ins>¿Qué es un USB Rubber Ducky?</ins></h3>
+
+<p align="center">
+  <img src="https://github.com/R3LI4NT/articulos/blob/main/Programacion/Python/img/rubberDucky.png">
+</p>

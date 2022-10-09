@@ -54,7 +54,7 @@
 - [x] Programación
    - <sub>Lenguaje: **Python**</sub>
    
-      - <a href="https://github.com/R3LI4NT/articulos/blob/main/Programacion/Python/RubberDucky.md" target="_blank">Crear Rubber Ducky con Python</a>
+      - <a href="https://github.com/R3LI4NT/articulos/blob/main/Programacion/Python/RubberDucky.md" target="_blank">Crear Rubber Ducky casero con Python</a>
 
 </br>
 

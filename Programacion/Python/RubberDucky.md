@@ -6,7 +6,7 @@
 
 <h3 align="center"><ins>¿Qué es un USB Rubber Ducky?</ins></h3>
 
-Existen una variedad de métodos por los cuales pueden atacar nuestro ordenador. Estamos acostumbrados toparnos con malware a través de descargas, con enlaces maliciosos (phishing), programas maliciosos, entre otros. Pero también a través de dispositivos físicos, como lo es Rubber Ducky.
+Existen una variedad de métodos por los cuales pueden atacar nuestro ordenador. Estamos acostumbrados toparnos con malware a través de descargas, con enlaces maliciosos (phishing), software malintencionados, entre otros. Pero también a través de dispositivos físicos, como lo es Rubber Ducky.
 
 Un Rubber Ducky es un pendrive (USB) programado que funciona como un teclado conectado, nada más conectarse comienza a escribir en el equipo de forma automatizada con los payloads ya configurados para lanzar programas y herramientas cargados en el equipo de la víctima o en el propia memoria Micro SD que lleva incluida. Lo que lo hace peligroso es que es indetectable, los sistemas operativos permiten la comunicación con el usuario a través de los teclados USB lo que implica que un Rubebr Ducky sea acepatado como uno más y tenga la posibilidad de desactivar antivirus, entre otros programas de seguridad de suma importancia.
 
@@ -26,7 +26,7 @@ Este ataque se aprovecha de la confianza del usuario para ser llevado a cabo (in
 
 - Modificar el DNS para engañar a la víctima (Pharming de DNS).
 
-- Bloquear programas del sistema (antivirus, firewalls).
+- Bloquear programas del sistema (antivirus, firewall).
 
 - Borrar usuarios y agregar permisos administrativos.
 
@@ -36,6 +36,30 @@ Este ataque se aprovecha de la confianza del usuario para ser llevado a cabo (in
 
 <p align="center">
   <img src="https://github.com/R3LI4NT/articulos/blob/main/Programacion/Python/img/rubberDucky.png">
+</p>
+
+</br>
+
+Las especificaciones técnicas que incorporá el Rubber Ducky son:
+
+- Ranura para tarjeta Micro SD.
+
+- Luz LED que indica el estado del dispositivo.
+
+- Botón qeu permite re-ejecutar el código.
+
+- Conector USB Tipo A.
+
+- Procesador de 60 MHz de 32 bits.
+
+- Lector USB de memorias micro SD.
+
+- Case USB.
+
+En seguida que se conecta este USB, es reconocido como un driver Atmel de Windows, engañando al sistema haciéndose pasar por un teclado (para no levantar sospechas y evitar ser bloqueado por antivirus y/o firewall) y ejecutar las tecladas indicadas en el código programado (payload).
+
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhKkGfB_D2uI1vyV5SgBe-6aIN3G6gCksHVXCw_qFgnlGKcbw3ZeLhx2NmPh8jgtV84Yt4xpQZ9_S7PKKD_gIUNMmppio90PfTyyLQW08-bllBLOdJcuSmOvw8VIs2vTTwZ06zVUTRMhTT9hP4D4sfXAe9EG0nLNkFop3aJhn11XF8GcSJ96Mx_VAll=w640-h269">
 </p>
 
 Quién está detrás de este proyecto es el grupo de hackers <a href="https://shop.hak5.org/products/usb-rubber-ducky">Hak5</a>, se desempeñan en crear kits de herramientas de pentesting para todo público; enfocados especialmente en la recopilación de información, reconocimiento avanzado, la recopilación de inteligencia de código abierto y más. 

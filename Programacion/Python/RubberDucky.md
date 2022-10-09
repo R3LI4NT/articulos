@@ -88,7 +88,6 @@ Luego de haber visto los componentes de hardware que incorpora el Rubber Ducky, 
 | END | 	Tecla que permite ir al final de algo (página web, documento, etc).  |
 | CAPSLOCK | 	Tecla que permite escribir en mayúsculas o minúsculas.  |
 | ALT | Simula la tecla ALT, y esta se puede combinar con: END, ESC, ESCAPE, F1-F12, caracteres simples (ejemplo: f, s), SPACE, TAB.  |
-| SHIFT | Simula la tecla SHIFT, y esta se puede combinar con: DELETE, HOME, INSERT, PAGEUP, PAGEDOWN, WINDOWS, GUI, UPARROW, DOWNARROW, LEFTARROW, RIGHTARROW, TAB.  |
 | REPEAT | 	Repite la cantidad de veces que le indiquemos lo ya ejecutado.  |
 
 Quién está detrás de este proyecto es el grupo de hackers <a href="https://shop.hak5.org/products/usb-rubber-ducky">Hak5</a>, se desempeñan en crear kits de herramientas de pentesting para todo público; enfocados especialmente en la recopilación de información, reconocimiento avanzado, la recopilación de inteligencia de código abierto y más. 

@@ -91,3 +91,9 @@ Luego de haber visto los componentes de hardware que incorpora el Rubber Ducky, 
 | REPEAT | 	Repite la cantidad de veces que le indiquemos lo ya ejecutado.  |
 
 Quién está detrás de este proyecto es el grupo de hackers <a href="https://shop.hak5.org/products/usb-rubber-ducky">Hak5</a>, se desempeñan en crear kits de herramientas de pentesting para todo público. Enfocados especialmente en la recopilación de información, reconocimiento avanzado, la recopilación de inteligencia de código abierto y más. 
+
+<h1 align="center"></h1>
+
+</br>
+
+### CREAR RUBBER DUCKY | Python

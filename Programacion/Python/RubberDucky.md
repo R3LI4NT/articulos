@@ -97,3 +97,14 @@ Quién está detrás de este proyecto es el grupo de hackers <a href="https://sh
 </br>
 
 ### CREAR RUBBER DUCKY | Python
+
+Crearemos nuestro primer payload utilizando el lenguaje Python. Para esto, existen librerías como PyAutoGUI o KeyBoard que permiten controlar el mouse y el teclado para interactuar de forma automatizada con otras aplicaciones. En mi caso utilizaré la primera, para instalar la librería hay que tener `pip` (en Python 3.4 incluye pip3 de forma predeterminada) instalado para posteriormente descargar la librería.
+```
+python -m pip3 install --upgrade pip
+```
+
+Instalar librería:
+```
+pip3 install pyautogui
+```
+![1](https://user-images.githubusercontent.com/75953873/194966351-d797389d-5097-415e-9e24-c37cdbfb2809.png)

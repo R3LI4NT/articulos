@@ -128,3 +128,12 @@ pyautogui.write("echo I'm R3LI4NT")
 pyautogui.press('enter')
 ```
 ![2](https://user-images.githubusercontent.com/75953873/195735791-a8833ac6-73d1-4839-891d-4a91355b0575.png)
+
+La función `keyDown()` y `keyUp` simulan presionar una tecla y luego soltarla, mientras `write()` escribirá los caracteres en la cadena que se pasa. La función `press()` es un envoltorio de las dos primeras, también simula presionar y soltar una tecla. Por ejemplo, podemos pasar una lista de cadenas para ser presionadas:
+```python
+pyautogui.press(['enter', 'enter', 'enter'])
+```
+O simplemente establecer cuántas pulsasiones debe realizar:
+```python
+pyautogui.press('enter', presses=3)
+```

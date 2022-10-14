@@ -143,7 +143,7 @@ pyautogui.press('enter', presses=3)
 
 Es muy importante establecer un intervalo de tiempo entre las pulsasiones de teclas, de lo contrario, no funcionaría correctamente. Esto porque al momento de abrir un programa no podemos decirle que comience a ejecutar la tarea sin que éste aún se haya iniciado. La librería incoporá la función de `time.sleep()` para establecer el tiempo, se específica en segundos.
 
-![2](https://user-images.githubusercontent.com/75953873/195738438-0a9ee6b4-4ee4-4c22-b973-7d6251bec0f3.png)
+![2](https://user-images.githubusercontent.com/75953873/195887605-f81266a9-c303-490f-a1cb-275d6e740903.png)
 
 Una vez el código sea puesto en marcha, el sistema lo reconocerá como si fuera un teclado y ejecutará cada instrucción dada:
 

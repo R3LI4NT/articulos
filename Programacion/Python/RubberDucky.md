@@ -108,3 +108,22 @@ Instalar librería:
 pip3 install pyautogui
 ```
 ![1](https://user-images.githubusercontent.com/75953873/194966351-d797389d-5097-415e-9e24-c37cdbfb2809.png)
+
+Creamos un nuevo archivo y lo guardamos con la extensión `.py`. Importamos la librería en el código:
+```python
+import pyautogui
+```
+El siguiente fragmento de código lo que hará será abrir el símbolo del sistema de windows (CMD) e imprimir los textos indicados en pantalla:
+```python
+pyautogui.keyDown('win')
+pyautogui.keyDown('r')
+pyautogui.keyUp('win')
+pyautogui.keyUp('r')
+pyautogui.write('cmd')
+pyautogui.press('enter')
+pyautogui.time.sleep(1)
+pyautogui.write('echo Hello!')
+pyautogui.press('enter')
+pyautogui.write("echo I'm R3LI4NT")
+pyautogui.press('enter')
+```

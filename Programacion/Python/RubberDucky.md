@@ -150,3 +150,4 @@ Una vez el código sea puesto en marcha, el sistema lo reconocerá como si fuera
 ![video-1](https://user-images.githubusercontent.com/75953873/195739862-8aa6c9d7-0d26-48c4-a7e8-2a0aeb561df2.gif)
 
 
+**Continuará...**

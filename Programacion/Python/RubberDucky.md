@@ -196,3 +196,8 @@ Recalcando lo anterior, es importante que dentro del `if USB_etiqueta` específi
 
 ![5](https://user-images.githubusercontent.com/75953873/197084706-ab1a46f6-7e3a-4d98-8620-c72506096643.png)
 
+Si todo funciona correctamente, agregaremos una última línea al checker para que una vez sea detectado ejecute el Rubber Ducky.
+```python
+os.system(f"python {USB_nombre}rubber_ducky.py")
+```
+![6](https://user-images.githubusercontent.com/75953873/197295519-d07c8b0a-41dc-4378-a928-22fe3b3ab701.png)

@@ -150,4 +150,45 @@ Una vez el código sea puesto en marcha, el sistema lo reconocerá como si fuera
 ![video-1](https://user-images.githubusercontent.com/75953873/195739862-8aa6c9d7-0d26-48c4-a7e8-2a0aeb561df2.gif)
 
 
-**Continuará...**
+El siguiente paso es programar un checker para detectar el USB una vez se introduja a la máquina:
+```python
+import subprocess,sys,os,time
+from time import sleep
+import psutil,win32api
+
+
+def get_drives():
+    unidades = subprocess.getoutput("fsutil fsinfo drives").split(" ")[1:]
+    last_drive = unidades[-1]
+    len_drives = unidades.index(last_drive)
+
+    return len_drives + 1
+
+while True:
+    for controlador in range(0, get_drives()):
+        try:
+            removable = psutil.disk_partitions()[controlador][3].split(",")[1]
+
+            if "removable" in removable:
+                USB_nombre = psutil.disk_partitions()[controlador][1]
+                USB_etiqueta = win32api.GetVolumeInformation(f"{USB_nombre}\\")[0]
+
+                if USB_etiqueta == "KINGSTON":
+                    print("Dispositivo detectado -> :" +str(USB_etiqueta))
+                   # os.system(f"{USB_nombre}rubber_ducky.exe")
+                    sys.exit()
+
+        except:
+            print("Not found")
+            pass 
+  
+    sleep(1) 
+```
+
+Con el módulo `subprocess` le estamos indicando que devuelva la salida del comando `fsutil fsinfo drives`, cuyo parámetro sirve para enumerar todas las unidades e información del volumen.
+
+![3](https://user-images.githubusercontent.com/75953873/197083046-018a5781-f874-43fb-b747-3bd1da4e7b7c.png)
+
+El módulo `psutil` devuelve todas las particiones de disco montadas como una lista de tuplas con nombre, mientras que con `win32api` devuelve la información de la tupla especificada (USB_nombre). Si dentro de la variable **USB_etiqueta** se encuentra la partición indicada (nombre del volumen [KINGSTON]), entonces ejecuta la acción dada, que en este caso es detectarlo e imprimir el nombre del volumen.
+
+![4](https://user-images.githubusercontent.com/75953873/197084063-17872dd0-a0df-4a68-b6e7-116726c805a6.png)

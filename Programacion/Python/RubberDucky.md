@@ -185,10 +185,14 @@ while True:
     sleep(1) 
 ```
 
-Con el módulo `subprocess` le estamos indicando que devuelva la salida del comando `fsutil fsinfo drives`, cuyo parámetro sirve para enumerar todas las unidades e información del volumen.
+Con el módulo `subprocess` le estamos indicando que devuelva la salida del comando `fsutil fsinfo drives`, cuyo parámetro sirve para enumerar todas las unidades:
 
 ![3](https://user-images.githubusercontent.com/75953873/197083046-018a5781-f874-43fb-b747-3bd1da4e7b7c.png)
 
 El módulo `psutil` devuelve todas las particiones de disco montadas como una lista de tuplas con nombre, mientras que con `win32api` devuelve la información de la tupla especificada (USB_nombre). Si dentro de la variable **USB_etiqueta** se encuentra la partición indicada (nombre del volumen [KINGSTON]), entonces ejecuta la acción dada, que en este caso es detectarlo e imprimir el nombre del volumen.
 
 ![4](https://user-images.githubusercontent.com/75953873/197084063-17872dd0-a0df-4a68-b6e7-116726c805a6.png)
+
+Recalcando lo anterior, es importante que dentro del `if USB_etiqueta` específiquen el nombre del USB que vayan a utilizar para el Rubber Ducky. Solo quedaría ejecutar el checker e introducir el USB para comprobar su detección.
+
+![5](https://user-images.githubusercontent.com/75953873/197084627-ae0302ca-7b83-40ab-922d-ea07fee6403f.png)

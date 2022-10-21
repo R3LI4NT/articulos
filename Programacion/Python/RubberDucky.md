@@ -175,7 +175,6 @@ while True:
 
                 if USB_etiqueta == "KINGSTON":
                     print("Dispositivo detectado -> :" +str(USB_etiqueta))
-                   # os.system(f"{USB_nombre}rubber_ducky.exe")
                     sys.exit()
 
         except:
@@ -195,4 +194,5 @@ El módulo `psutil` devuelve todas las particiones de disco montadas como una li
 
 Recalcando lo anterior, es importante que dentro del `if USB_etiqueta` específiquen el nombre del USB que vayan a utilizar para el Rubber Ducky. Solo quedaría ejecutar el checker e introducir el USB para comprobar su detección.
 
-![5](https://user-images.githubusercontent.com/75953873/197084627-ae0302ca-7b83-40ab-922d-ea07fee6403f.png)
+![5](https://user-images.githubusercontent.com/75953873/197084706-ab1a46f6-7e3a-4d98-8620-c72506096643.png)
+

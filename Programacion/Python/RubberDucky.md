@@ -201,3 +201,6 @@ os.system(f"python {USB_nombre}rubber_ducky.py")
 ```
 ![6](https://user-images.githubusercontent.com/75953873/197295519-d07c8b0a-41dc-4378-a928-22fe3b3ab701.png)
 
+Ejecutamos el checker y de forma automática se pondrá a escucha de dispositivos conectados, cuando uno de ellos coincide con el nombre especificado en `USB_etiqueta` realiza la acción programada del payload.
+
+![video-2](https://user-images.githubusercontent.com/75953873/197299389-9bc3efd6-1a8b-4259-8083-d578b53caa1d.gif)

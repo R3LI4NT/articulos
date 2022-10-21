@@ -177,9 +177,8 @@ while True:
                     print("Dispositivo detectado -> :" +str(USB_etiqueta))
                     sys.exit()
 
-        except:
-            print("Not found")
-            pass 
+        except IndexError:
+            pass
   
     sleep(1) 
 ```
@@ -190,7 +189,7 @@ Con el módulo `subprocess` le estamos indicando que devuelva la salida del coma
 
 El módulo `psutil` devuelve todas las particiones de disco montadas como una lista de tuplas con nombre, mientras que con `win32api` devuelve la información de la tupla especificada (USB_nombre). Si dentro de la variable **USB_etiqueta** se encuentra la partición indicada (nombre del volumen [KINGSTON]), entonces ejecuta la acción dada, que en este caso es detectarlo e imprimir el nombre del volumen.
 
-![4](https://user-images.githubusercontent.com/75953873/197084063-17872dd0-a0df-4a68-b6e7-116726c805a6.png)
+![4](https://user-images.githubusercontent.com/75953873/197296388-c17f6f24-08f1-406c-9c37-2aedd10445aa.png)
 
 Recalcando lo anterior, es importante que dentro del `if USB_etiqueta` específiquen el nombre del USB que vayan a utilizar para el Rubber Ducky. Solo quedaría ejecutar el checker e introducir el USB para comprobar su detección.
 
@@ -201,3 +200,4 @@ Si todo funciona correctamente, agregaremos una última línea al checker para q
 os.system(f"python {USB_nombre}rubber_ducky.py")
 ```
 ![6](https://user-images.githubusercontent.com/75953873/197295519-d07c8b0a-41dc-4378-a928-22fe3b3ab701.png)
+

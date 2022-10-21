@@ -204,3 +204,12 @@ os.system(f"python {USB_nombre}rubber_ducky.py")
 Por último, movemos el checker y el Rubber Ducky al pendrive, de forma automática se pondrá a escucha de dispositivos conectados. Cuando uno de ellos coincide con el nombre especificado en `USB_etiqueta` realiza la acción programada del payload.
 
 ![video-2](https://user-images.githubusercontent.com/75953873/197299389-9bc3efd6-1a8b-4259-8083-d578b53caa1d.gif)
+
+Todo funciona perfectamente, el único inconveniente es que solo funciona si la víctima tiene Python instalado para poder ejecutar el Rubber Ducky. Para ello, deberíamos convertir nuestros scripts `.py` a un archivo ejecutable `.exe` con el módulo <a href="https://pyinstaller.org/en/stable/">PyInstaller</a>.
+
+Instalar módulo:
+```
+pip3 install pyinstaller
+```
+![7](https://user-images.githubusercontent.com/75953873/197304823-47a40abf-517a-4b9a-acb1-165aee4cdc70.png)
+

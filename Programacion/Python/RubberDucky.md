@@ -225,7 +225,7 @@ pyinstaller --clean --onefile --windowed <FILE>.py
 **--windowed**: Evitar que se abra una terminal luego de ejecutar el fichero.
 
 
-##### EJEMPLO
+#### EJEMPLO
 ```
 pyinstaller --clean --onefile --windowed rubber_ducky.py
 pyinstaller --clean --onefile --windowed main.py

@@ -205,7 +205,7 @@ Por último, movemos el checker y el Rubber Ducky al pendrive, de forma automát
 
 ![video-2](https://user-images.githubusercontent.com/75953873/197299389-9bc3efd6-1a8b-4259-8083-d578b53caa1d.gif)
 
-Todo funciona perfectamente, el único inconveniente es que solo funciona si la víctima tiene Python instalado para poder ejecutar el Rubber Ducky. Para ello, deberíamos convertir nuestros scripts `.py` a un archivo ejecutable `.exe` con el módulo <a href="https://pyinstaller.org/en/stable/">PyInstaller</a>.
+Todo funciona perfectamente, el único inconveniente es que solo funciona si la víctima tiene Python instalado en su sistema. Para poder ejecutar el Rubber Ducky deberíamos convertir nuestros scripts `.py` a un archivo ejecutable `.exe` con el módulo <a href="https://pyinstaller.org/en/stable/">PyInstaller</a>.
 
 Instalar módulo:
 ```
@@ -213,3 +213,35 @@ pip3 install pyinstaller
 ```
 ![7](https://user-images.githubusercontent.com/75953873/197304823-47a40abf-517a-4b9a-acb1-165aee4cdc70.png)
 
+Con el siguiente comando convertirmos nuestro archivo python en un ejecutable:
+```
+pyinstaller --clean --onefile --windowed <FILE>.py
+```
+
+**--clean**: Borra todos los archivos de compilación.
+
+**--onefile**: Para que se compile en un solo fichero.
+
+**--windowed**: Evitar que se abra una terminal luego de ejecutar el fichero.
+
+
+##### EJEMPLO
+```
+pyinstaller --clean --onefile --windowed rubber_ducky.py
+pyinstaller --clean --onefile --windowed main.py
+```
+
+Pero antes de convertir los scripts hay que editar el código del checker y sustituir la extensión `.py` al ejecutable `.exe`.
+```python
+os.system(f"{USB_nombre}RubberDucky.exe")
+```
+
+![8](https://user-images.githubusercontent.com/75953873/197307836-9eae22b2-95a9-488c-9831-1fb000dea662.png)
+
+![9](https://user-images.githubusercontent.com/75953873/197307874-82cb3b38-05a2-47b7-b8d7-bd37d028d86c.png)
+
+Se creará una carpeta llamada `dist` donde se almacenan los archivos ejecutables, debemos moverlos al pendrive y ejecutar solo el checker.
+
+![video-3](https://user-images.githubusercontent.com/75953873/197309154-aecd6778-da08-497d-9597-65db83208011.gif)
+
+Y de esta forma es posible ejecutar el Rubber Ducky en sistemas Windows. No fue necesario esconder el ejecutable ni pasarlo por ningun crypter, primero porque el payload configurado fue a modo de ejemplo (inofensivo) pero puede probablemente tratarse de un payload que robe datos, administre usuarios y demás, todo dependerá de la imaginación y necesidades del atacante.

@@ -56,7 +56,7 @@ Las especificaciones técnicas que incorpora el Rubber Ducky son:
 
 - Case USB.
 
-En seguida que se conecta este USB, es reconocido como un driver Atmel de Windows, engañando al sistema haciéndose pasar por un teclado (para no levantar sospechas y evitar ser bloqueado por antivirus y/o firewall) y ejecutar las tecladas indicadas en el código programado (payload).
+En seguida que se conecta este USB, es reconocido como un driver Atmel de Windows, engañando al sistema haciéndose pasar por un teclado (para no levantar sospechas y evitar ser bloqueado por antivirus y/o firewall) y ejecutar las teclas indicadas en el código programado (payload).
 
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhKkGfB_D2uI1vyV5SgBe-6aIN3G6gCksHVXCw_qFgnlGKcbw3ZeLhx2NmPh8jgtV84Yt4xpQZ9_S7PKKD_gIUNMmppio90PfTyyLQW08-bllBLOdJcuSmOvw8VIs2vTTwZ06zVUTRMhTT9hP4D4sfXAe9EG0nLNkFop3aJhn11XF8GcSJ96Mx_VAll=w640-h269">

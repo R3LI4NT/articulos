@@ -191,7 +191,7 @@ El módulo `psutil` devuelve todas las particiones de disco montadas como una li
 
 ![4](https://user-images.githubusercontent.com/75953873/197296388-c17f6f24-08f1-406c-9c37-2aedd10445aa.png)
 
-Recalcando lo anterior, es importante que dentro del `if USB_etiqueta` específiquen el nombre del USB que vayan a utilizar para el Rubber Ducky. Solo quedaría ejecutar el checker e introducir el USB para comprobar su detección.
+Recalcando lo anterior, es importante que dentro del `if USB_etiqueta` específiquén el nombre del USB que vayan a utilizar para el Rubber Ducky. Solo quedaría ejecutar el checker e introducir el USB para comprobar su detección.
 
 ![5](https://user-images.githubusercontent.com/75953873/197084706-ab1a46f6-7e3a-4d98-8620-c72506096643.png)
 

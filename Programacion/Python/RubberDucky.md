@@ -40,7 +40,7 @@ Este ataque se aprovecha de la confianza del usuario para ser llevado a cabo (in
 
 </br>
 
-Las especificaciones técnicas que incorporá el Rubber Ducky son:
+Las especificaciones técnicas que incorpora el Rubber Ducky son:
 
 - Ranura para tarjeta Micro SD.
 

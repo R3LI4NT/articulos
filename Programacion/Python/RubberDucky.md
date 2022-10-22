@@ -213,7 +213,7 @@ pip3 install pyinstaller
 ```
 ![7](https://user-images.githubusercontent.com/75953873/197304823-47a40abf-517a-4b9a-acb1-165aee4cdc70.png)
 
-Con el siguiente comando convertirmos nuestro archivo python en un ejecutable:
+Con el siguiente comando convertimos nuestro archivo python en un ejecutable:
 ```
 pyinstaller --clean --onefile --windowed <FILE>.py
 ```

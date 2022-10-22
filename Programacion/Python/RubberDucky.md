@@ -141,7 +141,7 @@ O simplemente establecer cuántas pulsaciones debe realizar:
 pyautogui.press('enter', presses=3)
 ```
 
-Es muy importante establecer un intervalo de tiempo entre las pulsasiones de teclas, de lo contrario, no funcionaría correctamente. Esto porque al momento de abrir un programa no podemos decirle que comience a ejecutar la tarea sin que éste aún se haya iniciado. La librería incoporá la función de `time.sleep()` para establecer el tiempo, se específica en segundos.
+Es muy importante establecer un intervalo de tiempo entre las pulsasiones de teclas, de lo contrario, no funcionaría correctamente. Esto porque al momento de abrir un programa no podemos decirle que comience a ejecutar la tarea sin que éste aún se haya iniciado. La librería incorpora la función de `time.sleep()` para establecer el tiempo, se específica en segundos.
 
 ![2](https://user-images.githubusercontent.com/75953873/195887605-f81266a9-c303-490f-a1cb-275d6e740903.png)
 

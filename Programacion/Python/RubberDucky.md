@@ -238,7 +238,7 @@ os.system(f"{USB_nombre}RubberDucky.exe")
 
 ![8](https://user-images.githubusercontent.com/75953873/197307836-9eae22b2-95a9-488c-9831-1fb000dea662.png)
 
-![9](https://user-images.githubusercontent.com/75953873/197307874-82cb3b38-05a2-47b7-b8d7-bd37d028d86c.png)
+![9](https://user-images.githubusercontent.com/75953873/197310767-5602e3fb-f9bf-43fa-aca7-c3bc3ffbdfef.png)
 
 Se creará una carpeta llamada `dist` donde se almacenan los archivos ejecutables, debemos moverlos al pendrive y ejecutar solo el checker.
 

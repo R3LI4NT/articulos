@@ -136,7 +136,7 @@ La función `keyDown()` y `keyUp()` simulan presionar una tecla y luego soltarla
 ```python
 pyautogui.press(['enter', 'enter', 'enter'])
 ```
-O simplemente establecer cuántas pulsasiones debe realizar:
+O simplemente establecer cuántas pulsaciones debe realizar:
 ```python
 pyautogui.press('enter', presses=3)
 ```

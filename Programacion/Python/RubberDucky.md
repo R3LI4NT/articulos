@@ -245,3 +245,23 @@ Se creará una carpeta llamada `dist` donde se almacenan los archivos ejecutable
 ![video-3](https://user-images.githubusercontent.com/75953873/197309154-aecd6778-da08-497d-9597-65db83208011.gif)
 
 Y de esta forma es posible ejecutar el Rubber Ducky en sistemas Windows. No fue necesario esconder el ejecutable ni pasarlo por ningun crypter, primero porque el payload configurado fue a modo de ejemplo (inofensivo) pero puede probablemente tratarse de un payload que robe datos, administre usuarios y demás, todo dependerá de la imaginación y necesidades del atacante.
+
+<h1 align="center"></h1>
+
+</br>
+
+### PROTEGERSE CONTRA UN USB RUBBER DUCKY
+
+Los posibles efectos de este ataque son devastadores para cualquier empresa que no invierte en ciberseguridad. Los ataques de Rubber Ducky se aprovechan de la confianza del usuario (capa 8) para llevar a cabo el ataque, precisamente por eso se debe ser cuidadoso con conectar cualquier dispositivo desconocido en nuestro ordenador, o hacerlo en una máquina virtual de prueba. Por otra parte, existen herramientas como <a href="https://github.com/teamghsoftware/Beamgun">Beamgun</a> especializadas en monitorear dispositivos insertados. Cuando detecta uno, bloquea las pulsaciones de teclas de teclados falsos hasta su reinicio.
+
+<h1 align="center"></h1>
+
+</br>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
+
+
+#### ~R3LI4NT~

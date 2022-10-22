@@ -150,7 +150,7 @@ Una vez el código sea puesto en marcha, el sistema lo reconocerá como si fuera
 ![video-1](https://user-images.githubusercontent.com/75953873/195739862-8aa6c9d7-0d26-48c4-a7e8-2a0aeb561df2.gif)
 
 
-El siguiente paso es programar un checker para detectar el USB una vez se introduja a la máquina:
+El siguiente paso es programar un checker para detectar el USB una vez se introdujo a la máquina:
 ```python
 import subprocess,sys,os,time
 from time import sleep

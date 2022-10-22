@@ -46,7 +46,7 @@ Las especificaciones técnicas que incorpora el Rubber Ducky son:
 
 - Luz LED que indica el estado del dispositivo.
 
-- Botón qeu permite re-ejecutar el código.
+- Botón que permite re-ejecutar el código.
 
 - Conector USB Tipo A.
 

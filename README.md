@@ -77,7 +77,7 @@
   - `Esteganografía:`
   
   - <sub>O.S: **GNU/Linux**</sub>
-    - Proximamente...
+       - <a href="#" target="_blank">Ocultar archivos secretos en una pista de audio o imagen</a>
 
   - <sub>O.S: **Windows**</sub>
    

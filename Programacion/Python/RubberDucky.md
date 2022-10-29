@@ -266,6 +266,11 @@ pyautogui.press('enter')
 
 Lo primero que hace es enumerar todas las redes de nuestro alrededor (incluyendo SSID antiguos) y guardarlas en el fichero `List-Wifi.txt`, posteriormente ejecuta la siguiente frecuencia de comando para que brinde toda la información de las redes enumeradas, incluído contraseña de la misma que se almacenarán en el fichero `Pass-Wifi.txt`
 
+![10](https://user-images.githubusercontent.com/75953873/198854198-20ffaea3-2df0-4a3c-8a8d-75846247357b.png)
+
+![11](https://user-images.githubusercontent.com/75953873/198854270-7ca4ee99-b166-4bd9-a83d-a284ea7f2c76.png)
+
+
 <h1 align="center"></h1>
 
 </br>

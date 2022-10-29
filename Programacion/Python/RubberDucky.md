@@ -246,7 +246,7 @@ Se creará una carpeta llamada `dist` donde se almacenan los archivos ejecutable
 
 Y de esta forma es posible ejecutar el Rubber Ducky en sistemas Windows. No fue necesario esconder el ejecutable ni pasarlo por ningún crypter, primero porque el payload configurado fue a modo de ejemplo (inofensivo) pero puede probablemente tratarse de un payload que robe datos, administre usuarios y demás, todo dependerá de la imaginación y necesidad del atacante.
 
-Este es otro ejemplo de payload para robar las credenciales de Wi-Fi de la víctima:
+Este es otro ejemplo de payload para robar las credenciales Wi-Fi de la víctima:
 ```python
 import pyautogui
 
@@ -264,7 +264,7 @@ pyautogui.write('netsh wlan show profile name=* key=clear > Pass-Wifi.txt')
 pyautogui.press('enter')
 ```
 
-Lo primero que hace es enumerar todas las redes de nuestro alrededor (incluyendo SSID antiguos) y guardarlas en el fichero `List-Wifi.txt`, posteriormente ejecuta la siguiente frecuencia de comando para que brinde toda la información de las redes enumeradas, incluído contraseña de la misma que se almacenarán en el fichero `Pass-Wifi.txt`
+Lo primero que hace es enumerar todas las redes de nuestro alrededor (incluyendo SSID antiguos) y guardarlas en el fichero `List-Wifi.txt`, posteriormente ejecuta la siguiente frecuencia de comando para que brinde toda la información de las redes enumeradas, incluida la contraseña de la misma que se almacenarán en el fichero `Pass-Wifi.txt`
 
 ![10](https://user-images.githubusercontent.com/75953873/198854198-20ffaea3-2df0-4a3c-8a8d-75846247357b.png)
 

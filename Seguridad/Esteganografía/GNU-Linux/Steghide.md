@@ -45,3 +45,18 @@ steghide extract -sf <IMAGEN>
 **sf =** secret file - archivo secreto.
 
 ![2](https://user-images.githubusercontent.com/75953873/200152447-fb81f6ff-e6fb-4f6c-9598-8e46514eab64.png)
+
+
+#### ➤ Recuperar información del archivo incrustado
+
+En caso de que sospechemos de que una imagen tiene datos ocultos y, de ser así, entonces utilizamos el siguiente comando:
+```
+steghide info <IMAGEN>
+```
+![3](https://user-images.githubusercontent.com/75953873/200152653-081126fb-ae17-452e-9279-043ec2d2e469.png)
+
+
+**Archivo:** test.txt
+
+**Tipo de encriptación:** Rijndael (AES)
+

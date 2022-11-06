@@ -129,7 +129,7 @@ steghide embed  -ef <ARCHIVO> -cf <AUDIO.wav>
 
 #### ➤ Extraer datos de la pista de AUDIO
 
-Por último, extramos los datos:
+Por último, extraemos los datos:
 ```
 steghide extract -sf <AUDIO.wav>
 ```

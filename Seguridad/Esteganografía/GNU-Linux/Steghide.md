@@ -116,3 +116,31 @@ A su vez, también podemos ocultar el archivo sin necesidad de nombrarlo. Si  se
 steghide embed  -ef <ARCHIVO> -cf <IMAGEN> -N
 ```
 ![8](https://user-images.githubusercontent.com/75953873/200153377-de0eca83-3263-4051-ba9d-641dda4c6c93.png)
+
+<h1 align="center"></h1>
+
+#### ➤ Incrustar datos en una pista de AUDIO
+
+Ahora, en vez de ocultar los datos en una imagen, lo haremos en un audio de formato WAV:
+```
+steghide embed  -ef <ARCHIVO> -cf <AUDIO.wav>
+```
+![10](https://user-images.githubusercontent.com/75953873/200153755-8b1d8af1-bbaa-4498-aff0-04a57f1468c3.png)
+
+#### ➤ Extraer datos de la pista de AUDIO
+
+Por último, extramos los datos:
+```
+steghide extract -sf <AUDIO.wav>
+```
+![11](https://user-images.githubusercontent.com/75953873/200153786-9ef33702-4fb1-44f2-a37b-86c1b9985c81.png)
+
+Tanto la imagen como el audio pueden ser ejecutados sin generar sospecha alguna.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75953873/179873909-5a15b8fc-16d5-4539-b379-8518b1af692e.gif">
+</p>
+
+
+
+#### ~R3LI4NT~

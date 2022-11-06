@@ -13,3 +13,12 @@ La esteganografía es la ténica de ocultamiento de información, archivos multi
 <h1 align="center"></h1>
 
 ### STEGHIDE
+
+Existen una variedad de herramientas de esteganografía disponibles, tanto para <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Esteganograf%C3%ADa/Windows/DeepSound.md">Windows como para GNU/Linux, pero su diferencia reside en los algoritmos que utiliza cada una para cifrar los datos. Steghide permite ocultar los datos en cualquier formato de imagen (jpg, png, gif, bmp) y también en audio (mp3, wav). Por defecto, utiliza el algoritmo Rijndael (AES), nombrado en otras oportunidades por su popularidad y su nivel fuerte de cifrado que hasta incluso la NSA lo aplica en documentos clasificados.
+  
+La principal ventaja de esta herramienta es que utiliza un proceso de cálculo propulsado para envolver el documento en cualquier registro de imagen o sonido sin cambiar la apariencia del documento, lo que implica que sin utilizar steghide es casi imposible extraer los documentos ocultos de la imagen.
+  
+**Instalar herramienta en Debian:**
+```
+sudo apt-get install steghide
+```

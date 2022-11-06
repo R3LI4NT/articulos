@@ -137,9 +137,9 @@ steghide extract -sf <AUDIO.wav>
 
 Tanto la imagen como el audio pueden ser ejecutados sin generar sospecha alguna.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/75953873/179873909-5a15b8fc-16d5-4539-b379-8518b1af692e.gif">
-</p>
+<h1 align="center"></h1>
+
+</br>
 
 
 

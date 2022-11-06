@@ -61,7 +61,7 @@ steghide info <IMAGEN>
 **Tipo de encriptación:** Rijndael (AES) con longitud de bloque de 128 bits.
 
 
-#### ➤ Algoritmo de cifrado
+#### ➤ Algoritmo de Cifrado
 
 Podemos escoger el tipo de algoritmo de cifrado para ocultar nuestros datos. Steghide contiene una lista de los algoritmo que soporta.
 ```
@@ -98,6 +98,15 @@ Ahora, si no queremos comprimir un archivo antes de ocultarlo, utilizamos el sig
 ```
 steghide embed  -ef <ARCHIVO> -cf <IMAGEN> -Z
 ```
+
+#### ➤ Modo Detallado
+
+Mostrar información muy detallada sobre  el  estado del proceso de adjuntado o del de extracción.
+```
+steghide embed  -ef <ARCHIVO> -cf <IMAGEN> -N
+```
+![9](https://user-images.githubusercontent.com/75953873/200153436-8edcd9e4-388a-48dc-ade8-779181c35ad5.png)
+
 
 #### ➤ Incrustar archivo sin nombre
 

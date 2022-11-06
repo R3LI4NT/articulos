@@ -23,7 +23,7 @@ La principal ventaja de esta herramienta es que utiliza un proceso de cálculo p
 sudo apt-get install steghide
 ```
 
-#### Incrustar datos en una IMAGEN
+#### ➤ Incrustar datos en una IMAGEN
 
 Ocultaremos datos en una imagen con Steghide para que solo la persona pueda leerlo. Entonces, creamos el archivo o documento en el que escribiremos nuestro mensaje confidencial, y seleccionamos una imagen (puede ser cualquiera de internet, siempre y cuando la extensión sea compatible). Para lograr esto, ejecutamos el siguiente comando:
 ```
@@ -36,3 +36,12 @@ steghide embed -ef <archivoSECRETO> -cf <IMAGEN>
 ![1](https://user-images.githubusercontent.com/75953873/200152264-92b3bb28-a0b9-4f30-b5e9-bf9b2640b299.png)
 
 
+#### ➤ Extraer datos de la IMAGEN
+
+En el ejemplo anterior, Steghide agrega una capa de seguridad adicional al permitirnos usar contraseña para ello. Ahora bien, para extraer los datos ocultos, ejecutamos lo siguiente:
+```
+steghide extract -sf <IMAGEN>
+```
+**sf =** secret file - archivo secreto.
+
+![2](https://user-images.githubusercontent.com/75953873/200152447-fb81f6ff-e6fb-4f6c-9598-8e46514eab64.png)

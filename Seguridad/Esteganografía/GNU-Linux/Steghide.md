@@ -58,5 +58,5 @@ steghide info <IMAGEN>
 
 **Archivo:** test.txt
 
-**Tipo de encriptación:** Rijndael (AES)
+**Tipo de encriptación:** Rijndael (AES) con clave de 128 bits
 

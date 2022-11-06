@@ -74,3 +74,36 @@ Para escogerlo, se puede lograr fácilmente con solo usar el siguiente comando:
 steghide embed -ef <ARCHIVO> -cf <IMAGEN> -e <ALGORITMO>
 ```
 ![5](https://user-images.githubusercontent.com/75953873/200152934-59d7919f-6489-4c4b-8db8-b96a531c002d.png)
+
+#### ➤ Sobrescribir los archivos existentes
+
+Al extraer el archivo, aún nos queda el mismo archivo en el directorio con el mismo nombre. Entonces lo mejor sería utilizar el siguiente comando para sobrescribir el archivo existente:
+```
+steghide extract -sf <IMAGEN> -f 
+```
+![6](https://user-images.githubusercontent.com/75953873/200153075-957e5503-1fff-4285-a0ee-ba3fc8eb074c.png)
+
+#### ➤ Modo de Comprensión
+
+Si lo deseas, puedes comprimir el archivo antes de ocultarlo. El nivel de compresión varia `1` y `9`, el primer nivel brinda velocidad de comprensión mientras que, en el noveno nivel, te proporciona mejores técnicas de comprensión.
+```
+steghide embed  -ef <ARCHIVO> -cf <IMAGEN> -z 5
+```
+![7](https://user-images.githubusercontent.com/75953873/200153226-d3c1fb7e-15d6-4d35-9ea2-acc0327ddde4.png)
+
+
+#### ➤ Modo de Anti-Comprensión
+
+Ahora, si no queremos comprimir un archivo antes de ocultarlo, utilizamos el siguiente comando:
+```
+steghide embed  -ef <ARCHIVO> -cf <IMAGEN> -Z
+```
+
+#### ➤ Incrustar archivo sin nombre
+
+A su vez, también podemos ocultar el archivo sin necesidad de nombrarlo. Si  se usa  esta opinión, el extractor necesitará declarar un nombre de archivo para  decirle  a  steghide  en donde escribiremos los datos adjuntos.
+
+```
+steghide embed  -ef <ARCHIVO> -cf <IMAGEN> -N
+```
+![8](https://user-images.githubusercontent.com/75953873/200153377-de0eca83-3263-4051-ba9d-641dda4c6c93.png)

@@ -9,3 +9,7 @@ La esteganografía es la ténica de ocultamiento de información, archivos multi
 <p align="center">
   <img src="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Esteganograf%C3%ADa/GNU-Linux/img/esteganografia.png">
 </p>
+
+<h1 align="center"></h1>
+
+### STEGHIDE

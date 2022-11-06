@@ -103,7 +103,7 @@ steghide embed  -ef <ARCHIVO> -cf <IMAGEN> -Z
 
 Mostrar información muy detallada sobre  el  estado del proceso de adjuntado o del de extracción.
 ```
-steghide embed  -ef <ARCHIVO> -cf <IMAGEN> -N
+steghide embed -v -ef <ARCHIVO> -cf <IMAGEN>
 ```
 ![9](https://user-images.githubusercontent.com/75953873/200153436-8edcd9e4-388a-48dc-ade8-779181c35ad5.png)
 

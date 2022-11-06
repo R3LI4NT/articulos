@@ -60,3 +60,17 @@ steghide info <IMAGEN>
 
 **Tipo de encriptación:** Rijndael (AES) con longitud de bloque de 128 bits.
 
+
+#### ➤ Algoritmo de cifrado
+
+Podemos escoger el tipo de algoritmo de cifrado para ocultar nuestros datos. Steghide contiene una lista de los algoritmo que soporta.
+```
+steghide --encinfo
+```
+![4](https://user-images.githubusercontent.com/75953873/200152838-6b03e0c5-018c-44f6-8e1a-dc4ce56ac91a.png)
+
+Para escogerlo, se puede lograr fácilmente con solo usar el siguiente comando:
+```
+steghide embed -ef <ARCHIVO> -cf <IMAGEN> -e <ALGORITMO>
+```
+![5](https://user-images.githubusercontent.com/75953873/200152934-59d7919f-6489-4c4b-8db8-b96a531c002d.png)

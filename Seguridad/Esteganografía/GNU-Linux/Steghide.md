@@ -117,6 +117,8 @@ steghide embed  -ef <ARCHIVO> -cf <IMAGEN> -N
 ```
 ![8](https://user-images.githubusercontent.com/75953873/200153377-de0eca83-3263-4051-ba9d-641dda4c6c93.png)
 
+**xf =** Esta opción sobreescribe  el nombre del archivo adjuntado en el archivo stego.
+
 <h1 align="center"></h1>
 
 #### ➤ Incrustar datos en una pista de AUDIO

@@ -55,6 +55,8 @@
    - <sub>Lenguaje: **Python**</sub>
    
       - <a href="https://github.com/R3LI4NT/articulos/blob/main/Programacion/Python/RubberDucky.md" target="_blank">Crear Rubber Ducky casero con Python</a>
+      
+      - <a href="#" target="_blank">Rastrear ubicación usando la IP con Python</a>
 
 </br>
 

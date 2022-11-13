@@ -5,3 +5,8 @@
 <h1 align="center"></h1>
 
 <h3 align="center"><ins>¿Qué es una dirección IP?</ins></h3>
+
+
+<p align="center">
+  <img src="https://github.com/R3LI4NT/articulos/blob/main/Programacion/Python/img/direccionIP.png">
+</p>

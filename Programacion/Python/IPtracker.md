@@ -40,4 +40,23 @@ Los sitios web también suelen utilizar el seguimiento de IP para analizar los p
 
 ### RASTREADOR DE IP | Python
 
-Para este método, utilizaremos el módulo <a href="https://geocoder.readthedocs.io/">**geocoder**</a> para rastrear la ubicación IP y que nos la muestre en el mapa.
+Para este método, utilizaremos el módulo <a href="https://geocoder.readthedocs.io/">**geocoder**</a> para rastrear la ubicación IP y que nos la muestre en el mapa. Instalamos el módulo con el siguiente comando:
+```
+pip3 install geocoder
+pip3 install folium
+```
+
+Creamos un nuevo archivo y lo guardamos con la extensión `.py`. Importamos la librería en el código:
+```python
+import geocoder
+```
+También será necesario el módulo <a href="">**OS**</a> para interactuar con el sistema, ya que es preciso indicarle una ruta de salida al archivo **.html**.
+```python
+import os
+```
+
+Y como último módulo, <a href="https://python-visualization.github.io/folium/">**Folium**</a> permite manipular los marcadores del mapa para una mejor visualización.
+```python
+import folium
+```
+

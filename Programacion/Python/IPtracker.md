@@ -50,7 +50,7 @@ Creamos un nuevo archivo y lo guardamos con la extensión `.py`. Importamos la l
 ```python
 import geocoder
 ```
-También será necesario el módulo <a href="">**OS**</a> para interactuar con el sistema, ya que es preciso indicarle una ruta de salida al archivo **.html**.
+También será necesario el módulo <a href="https://docs.python.org/3/library/os.html">**OS**</a> para interactuar con el sistema, ya que es preciso indicarle una ruta de salida al archivo **.html**.
 ```python
 import os
 ```

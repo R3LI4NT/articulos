@@ -33,3 +33,11 @@ Los sitios web también suelen utilizar el seguimiento de IP para analizar los p
 <p align="center">
   <img src="https://github.com/R3LI4NT/articulos/blob/main/Programacion/Python/img/direccionIP.png">
 </p>
+
+<h1 align="center"></h1>
+
+</br>
+
+### RASTREADOR DE IP | Python
+
+Para este método, utilizaremos el módulo <a href="https://geocoder.readthedocs.io/">**geocoder**</a> para rastrear la ubicación IP y que nos la muestre en el mapa.

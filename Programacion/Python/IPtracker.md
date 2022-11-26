@@ -71,3 +71,11 @@ Posteriormente, le pasaremos la dirección IP objetivo a la función **_geocoder
 Por último, con Folium le indicamos que tenga un zoom de inicio de mapa de 12, un radio de 50% de color rojo para ser distinguido, y la localización con la variable especificada anteriormente. Es importante guardar estos datos en un archivo **.html** e imprimir la ruta de salida.
 
 ![4](https://user-images.githubusercontent.com/75953873/204065305-bfe1808a-08f9-4ae8-bc5c-f799f0121bf6.png)
+
+Si todo sale correctamente, el script hará su trabajo.
+
+![5](https://user-images.githubusercontent.com/75953873/204065425-d994c682-b3d7-4760-b3a5-875121fb7232.png)
+
+Y efectivamente, la dirección IP que le especifiqué se ubica en Las Cruces, Estados Unidos. Con el mouse podemos hacerle un zoom más cercano y obtener más detalles al respecto, recuerda que no es la ubicación exacta ya que el ISP establece una localización aproximada.
+
+![6](https://user-images.githubusercontent.com/75953873/204065601-57a3ec35-39aa-4294-9f2e-fdb16f30fb4a.png)

@@ -81,3 +81,11 @@ Y efectivamente, la dirección IP que le especifiqué se ubica en Las Cruces, Es
 ![6](https://user-images.githubusercontent.com/75953873/204065601-57a3ec35-39aa-4294-9f2e-fdb16f30fb4a.png)
 
 ![7](https://user-images.githubusercontent.com/75953873/204065778-d66b76a0-bc26-4a81-9ddb-a245a8a41d45.png)
+
+<h1 align="center"></h1>
+
+</br>
+
+
+
+#### ~R3LI4NT~

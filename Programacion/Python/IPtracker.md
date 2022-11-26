@@ -82,6 +82,24 @@ Y efectivamente, la dirección IP que le especifiqué se ubica en Las Cruces, Es
 
 ![7](https://user-images.githubusercontent.com/75953873/204065778-d66b76a0-bc26-4a81-9ddb-a245a8a41d45.png)
 
+#### Código completo:
+```python
+import geocoder
+import os
+import folium
+
+IP = input("Enter target IP -> ")
+saveMap = input("Map name -> ")
+savedFile = os.path.dirname(os.path.realpath(__file__))
+
+g = geocoder.ip(f"{IP}")
+address = g.latlng
+
+map = folium.Map(location=address,zoom_start=12)
+folium.CircleMarker(location=address,radius=50,popup="fersitiline",color="red").add_to(map)
+map.save(f"{saveMap}.html")
+```
+
 <h1 align="center"></h1>
 
 </br>

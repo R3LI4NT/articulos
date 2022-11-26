@@ -79,3 +79,5 @@ Si todo sale correctamente, el script hará su trabajo.
 Y efectivamente, la dirección IP que le especifiqué se ubica en Las Cruces, Estados Unidos. Con el mouse podemos hacerle un zoom más cercano y obtener más detalles al respecto, recuerda que no es la ubicación exacta ya que el ISP establece una localización aproximada.
 
 ![6](https://user-images.githubusercontent.com/75953873/204065601-57a3ec35-39aa-4294-9f2e-fdb16f30fb4a.png)
+
+![7](https://user-images.githubusercontent.com/75953873/204065778-d66b76a0-bc26-4a81-9ddb-a245a8a41d45.png)

@@ -67,3 +67,7 @@ En el primer fragmento de código será crear dos variables con entrada input, l
 Posteriormente, le pasaremos la dirección IP objetivo a la función **_geocoder.ip_** que, junto con **_g.latlng_**, obtendrá la latitud y longitud de la misma para ser localizada.
 
 ![3](https://user-images.githubusercontent.com/75953873/204065147-29dd6d79-fb09-413b-9674-894fc0e071e5.png)
+
+Por último, con Folium le indicamos que tenga un zoom de inicio de mapa de 12, un radio de 50% de color rojo para ser distinguido, y la localización con la variable especificada anteriormente. Es importante guardar estos datos en un archivo **.html** e imprimir la ruta de salida.
+
+![4](https://user-images.githubusercontent.com/75953873/204065305-bfe1808a-08f9-4ae8-bc5c-f799f0121bf6.png)

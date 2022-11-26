@@ -55,8 +55,13 @@ También será necesario el módulo <a href="https://docs.python.org/3/library/o
 import os
 ```
 
-Y como último módulo, <a href="https://python-visualization.github.io/folium/">**Folium**</a> permite manipular los marcadores del mapa para una mejor visualización.
+Y como último módulo, <a href="https://python-visualization.github.io/folium/">**Folium**</a> permite manipular los marcadores del mapa para una mejor visualización (color, zoom, localización, etc).
 ```python
 import folium
 ```
+
+En el primer fragmento de código será crear dos variables con entrada input, la primera para especificar la dirección IP objetivo, y la segunda, el nombre de nuestro archivo .html (mapa). El método **_os.path.dirname()_** representa el nombre del directorio.
+
+![2](https://user-images.githubusercontent.com/75953873/204064317-a9c38f09-2528-43d7-963d-1523924ea282.png)
+
 

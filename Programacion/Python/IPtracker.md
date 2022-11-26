@@ -64,4 +64,6 @@ En el primer fragmento de código será crear dos variables con entrada input, l
 
 ![2](https://user-images.githubusercontent.com/75953873/204064317-a9c38f09-2528-43d7-963d-1523924ea282.png)
 
+Posteriormente, le pasaremos la dirección IP objetivo a la función **_geocoder.ip_** que, junto con **_g.latlng_**, obtendrá la latitud y longitud de la misma para ser localizada.
 
+![3](https://user-images.githubusercontent.com/75953873/204065147-29dd6d79-fb09-413b-9674-894fc0e071e5.png)

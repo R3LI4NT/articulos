@@ -7,7 +7,11 @@
 </br>
 
 :mag_right: **CIBERSEGURIDAD** :lock:
-- Proximamente...
+
+- [x] Firewalls & Antivirus
+
+    - <sub>O.S: **GNU/Linux**</sub>
+          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/fileUpload.md" target="_blank">EA</a>    
 
 </br>
 

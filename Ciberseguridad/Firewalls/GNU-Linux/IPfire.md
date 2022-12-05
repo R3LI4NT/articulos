@@ -5,3 +5,8 @@
 <h1 align="center"></h1>
 
 <h3 align="center"><ins>¿QUÉ ES UN FIREWALL Y CÓMO FUNCIONA?</ins></h3>
+
+
+<p align="center">
+   <img src="https://github.com/R3LI4NT/articulos/blob/main/Ciberseguridad/Firewalls/GNU-Linux/img/Firewall.png">
+</p>

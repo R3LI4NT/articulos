@@ -8,7 +8,7 @@
 
 :mag_right: **CIBERSEGURIDAD** :lock:
 
-- [x] Firewalls & Antivirus
+- [x] Firewalls
 
     - <sub>O.S: **GNU/Linux**</sub>
     

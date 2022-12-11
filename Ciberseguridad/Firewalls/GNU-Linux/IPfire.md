@@ -66,3 +66,15 @@ Luego de crear la máquina e importar la ISO en VMware, hay que añadirle dos ad
 
 ![2](https://user-images.githubusercontent.com/75953873/206936073-7f7e3bfd-b711-4272-bba6-fb230dcb3b11.png)
 
+Iniciamos la máquina y procedemos con la instalación.
+
+![3](https://user-images.githubusercontent.com/75953873/206936368-f499e096-0ce0-4fe1-88f2-654f7af6f19a.png)
+
+Seleccionar el idioma de preferencia.
+
+![4](https://user-images.githubusercontent.com/75953873/206936416-5652ce91-67e4-4192-97ad-fb79c1b97b43.png)
+
+Aceptamos la licencia de GNU (tecla espacio) y damos enter. Luego borraremos los datos del disco SDA, en caso de que contenga información útil, realizar un respaldo.
+
+![5](https://user-images.githubusercontent.com/75953873/206936640-30f59528-9e1e-47f8-bc6d-f6ed001e6421.png)
+

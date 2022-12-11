@@ -36,4 +36,26 @@ Un firewall actúa bloqueando el tráfico no autorizado y cada diseño de implen
 
 ### CONFIGURAR FIREWALL IPFIRE | VMware
 
-IPFire es una distribución de Linux basado en Debian, cuya función principal es actuar como un firewall (cortafuegos) y también de router dentro de una red local, hace uso de IPtables para permitir o denegar el tráfico. IPFire se gestiona muy fácilmente con su interfaz web intuitiva sin necesidad entrar vía SSH , sino que desde el propio nevageador web. No requiere de altos requisitos y prácticamente se puede instalar en cualqueir ordenador actual, el rendimiento dependerá del hardware utilizado y las reglas del firewall dependiendo de las necesidades.
+IPFire es una distribución de Linux basada en Debian cuya función principal es actuar como un firewall (cortafuegos) y también de router dentro de una red local, hace uso de IPtables para permitir o denegar el tráfico. IPFire se gestiona muy fácilmente con su interfaz web intuitiva sin necesidad entrar vía SSH , sino que desde el propio nevageador web. No requiere de altos requisitos y prácticamente se puede instalar en cualqueir ordenador actual, el rendimiento dependerá del hardware utilizado y de las reglas del firewall dependiendo de las necesidades.
+
+Proporciona seguridad en entornos domésticos y pequeñas emrpesas, su facilidad de configurar previene de posibles intrusos en la red gracias a sus sistema de IDS (Sistema de detección de intrusos). IPFire emplea un cortafuegos SPI (Stateful Packet Inspection) basado en IPtables, proporciona anchos de banda superiores a los 10Gbps. Con IPFire podemos configurar el firewall para mitigar y bloquear posibles ataques de denegación de servicio gracias a su interfaz gráfica de usuario, podremos crear host y redes para aplicarle reglas ordenadas. El firewall incorpora redes privadas virtuales para interconectar ubicaciones remotas a través de Internet de forma segura, entre las que se incluyen IPsec y OpenVPN; permitiendo que los usuarios puedan conectarse a ella de forma remota y segura gracias a que las comunicaciones permanecen cifradas de extremo a extremo. Además, otra de las características adicionales es la posibilidad de configurar un servidor Proxy e instalar extensiones populares. Esta basada en web, algunos de sus complementos y funciones adicionales son:
+
+- _DNS Dinámico_
+
+- _Sistemas de detección de intrusiones (IDS)_
+
+- _Redes virtuales privadas con IPsec y OpenVPN_
+
+- _Funciones de portal cautivo_
+
+- _Protocolo de configuración dinámica de host (DHCP)_
+
+- _Monitorización de sistemas y registro de análisis_
+
+- _Filtrado GeoIP_
+
+##### Descargar imagen ISO
+
+La descarga y uso de IPfire es completamente gratuita, es tan sencillo como entrar a su web oficial e irnos a la pestaña de **Download**. En este apartado tendremos que elegir la arquitectura de nuestro equipo, luego procedemos en descargar la imagen ISO para cargarla desde un CD o pendrive.
+
+![1](https://user-images.githubusercontent.com/75953873/206926972-49bfa642-9348-4faa-84ba-30e230f740c3.png)

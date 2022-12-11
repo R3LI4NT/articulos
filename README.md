@@ -12,7 +12,7 @@
 
     - <sub>O.S: **GNU/Linux**</sub>
     
-         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Ciberseguridad/Firewalls/GNU-Linux/IPfire.md" target="_blank">Instalar y Configurar firewall IPFIRE</a>    
+         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Ciberseguridad/Firewalls/GNU-Linux/IPfire.md" target="_blank">Instalar y Configurar firewall IPFIRE - VMware/Virtualbox</a>    
 
 </br>
 

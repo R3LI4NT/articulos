@@ -64,4 +64,5 @@ La descarga y uso de IPfire es completamente gratuita, es tan sencillo como entr
 
 Luego de crear la máquina e importar la ISO en VMware, hay que añadirle dos adaptadores de red como se observa en la imagen. El primero sirve para la conexión hacia el Internet y el segundo hacia la conexión de la red local.
 
-![2](https://user-images.githubusercontent.com/75953873/206935994-86f0abda-f94d-45c7-8266-1e8009a9bb2a.png)
+![2](https://user-images.githubusercontent.com/75953873/206936073-7f7e3bfd-b711-4272-bba6-fb230dcb3b11.png)
+

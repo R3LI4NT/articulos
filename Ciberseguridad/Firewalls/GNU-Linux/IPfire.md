@@ -29,3 +29,9 @@ Un firewall actúa bloqueando el tráfico no autorizado y cada diseño de implen
 <p align="center">
    <img src="https://github.com/R3LI4NT/articulos/blob/main/Ciberseguridad/Firewalls/GNU-Linux/img/Firewall.png">
 </p>
+
+<h1 align="center"></h1>
+
+</br>
+
+### CONFIGURAR FIREWALL IPFIRE | VMware

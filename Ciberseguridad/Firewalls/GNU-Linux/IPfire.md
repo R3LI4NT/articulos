@@ -35,3 +35,5 @@ Un firewall actúa bloqueando el tráfico no autorizado y cada diseño de implen
 </br>
 
 ### CONFIGURAR FIREWALL IPFIRE | VMware
+
+IPFire es una distribución de Linux basado en Debian, cuya función principal es actuar como un firewall (cortafuegos) y también de router dentro de una red local, hace uso de IPtables para permitir o denegar el tráfico. IPFire se gestiona muy fácilmente con su interfaz web intuitiva sin necesidad entrar vía SSH , sino que desde el propio nevageador web. No requiere de altos requisitos y prácticamente se puede instalar en cualqueir ordenador actual, el rendimiento dependerá del hardware utilizado y las reglas del firewall dependiendo de las necesidades.

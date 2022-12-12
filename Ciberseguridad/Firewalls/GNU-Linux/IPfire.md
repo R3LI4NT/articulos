@@ -150,3 +150,7 @@ Para la interfaz verde nos pedirá que asignemos una dirección IP local. Yo uti
 Habilitamos el DHCP y configuramos el rango de inicio (**192.25.130.50**) y final (**192.25.130.200**), para el DNS secundario podemos utilizar uno de google (8.8.8.8 o 1.1.1.1), el tiempo de liberación por defecto son 60 minutos pero yo lo voy a cambiar a 5000 minutosy el tiempo máximo de liberación lo voy a cambiar a 10000 minutos. Finalizamos la instalación.
 
 ![22](https://user-images.githubusercontent.com/75953873/206943449-1b127e15-a5f7-42a2-929c-90042a9a09bd.png)
+
+Se comenzará a incializar todos los servicios.
+
+![23](https://user-images.githubusercontent.com/75953873/206943905-512a514a-0c03-4ba5-80b5-9367b69f3dd2.png)

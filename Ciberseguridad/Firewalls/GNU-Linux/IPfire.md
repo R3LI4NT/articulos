@@ -173,3 +173,8 @@ Nos saldrá la página inicial de IPFire. Cabe recalcar que este firewall esta h
 
 ![28](https://user-images.githubusercontent.com/75953873/207099632-549d4563-9225-4ffd-97fc-f4823d486ac1.png)
 
+<h1 align="center"></h1>
+
+#### Configurar FILTRO DE CONTENIDO
+
+

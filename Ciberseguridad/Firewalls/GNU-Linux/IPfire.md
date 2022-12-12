@@ -175,6 +175,6 @@ Nos saldrá la página inicial de IPFire. Cabe recalcar que este firewall esta h
 
 <h1 align="center"></h1>
 
-#### Configurar FILTRO DE CONTENIDO
+#### ➤ Configurar FILTRO DE CONTENIDO
 
 

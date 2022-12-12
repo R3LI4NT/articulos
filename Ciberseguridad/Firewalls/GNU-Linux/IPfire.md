@@ -72,7 +72,7 @@ Iniciamos la máquina y procedemos con la instalación.
 
 Seleccionar el idioma de preferencia.
 
-![4](https://user-images.githubusercontent.com/75953873/206936416-5652ce91-67e4-4192-97ad-fb79c1b97b43.png)
+![4](https://user-images.githubusercontent.com/75953873/206943644-ed83d0c3-6a22-4e48-bc22-156a9035df25.png)
 
 Aceptamos la licencia de GNU (tecla espacio) y damos enter. Luego borraremos los datos del disco SDA, en caso de que contenga información útil, realizar un respaldo.
 

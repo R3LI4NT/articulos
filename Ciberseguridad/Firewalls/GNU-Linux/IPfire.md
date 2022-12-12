@@ -143,7 +143,10 @@ Por último, configuramos la dirreción IP para cada interfaz. En la interfaz ro
 
 ![20](https://user-images.githubusercontent.com/75953873/206942415-7bbee8ba-9873-4264-bbf4-cee38cbd7d31.png)
 
-Para la interfaz verde nos pedirá que asignemos una dirección IP local. Yo utilizaré la IP _**192.25.130.254_** con una máscara de red de 24 bits (255.255.255.0) para que disponga un tamaño de 254 ordenadores (una IP para cada equipo), en este caso va hacer para el gateway y el DNS (va a disponer de 253 direcciones IP) para el modo de DHCP. Le damos a finalizar para guardar los cambios.
+Para la interfaz verde nos pedirá que asignemos una dirección IP local. Yo utilizaré la IP _**192.25.130.254**_ con una máscara de red de 24 bits (255.255.255.0) para que disponga un tamaño de 254 ordenadores (una IP para cada equipo), en este caso va hacer para el gateway y el DNS (va a disponer de 253 direcciones IP) para el modo de DHCP. Le damos a finalizar para guardar los cambios.
 
 ![21](https://user-images.githubusercontent.com/75953873/206942975-f3f71467-f561-4d17-a2d7-ad865e8a3a41.png)
 
+Habilitamos el DHCP y configuramos el rango de inicio (**192.25.130.50**) y final (**192.25.130.200**), para el DNS secundario podemos utilizar uno de google (8.8.8.8 o 1.1.1.1), el tiempo de liberación por defecto son 60 minutos pero yo lo voy a cambiar a 5000 minutosy el tiempo máximo de liberación lo voy a cambiar a 10000 minutos. Finalizamos la instalación.
+
+![22](https://user-images.githubusercontent.com/75953873/206943449-1b127e15-a5f7-42a2-929c-90042a9a09bd.png)

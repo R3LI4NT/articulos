@@ -116,10 +116,33 @@ A continuación debemos de configurar las tarjetas de red. IPfire utiliza colore
 
 | COLOR | RED | DESCRIPCIÓN |
 | ------------- | ------------- | ------------- |
-| RED | WAN | Conexión hacia el provedor de Internet (ISP) |
-| GREEN | LAN | Conexión hacia la red local |
+| RED | WAN | Conexión hacia el proveedor de Internet (ISP). |
+| GREEN | LAN | Conexión hacia la red local. |
 | ORANGE | DMZ | Zona desmilitarizada que permite que sus servidores respondan a direcciones IP públicas. |
-| BLUE | WLAN | Red inalámbrica, una red separada para clientes inalámbricos |
+| BLUE | WLAN | Red inalámbrica, una red separada para clientes inalámbricos. |
 
 ![15](https://user-images.githubusercontent.com/75953873/206940643-da96005d-731b-4bce-ae52-64dd3863bb22.png)
 
+En mi caso voy a seleccionar verde y rojo. Luego tenemos que asignar a cada adaptador de red (virtuales en este caso) las dos interfaces.
+
+![16](https://user-images.githubusercontent.com/75953873/206941296-c4f1104f-e7f7-408f-ba55-c823b227a640.png)
+
+A continuación configuramos el adaptador RED, que recordemos que es la conexión hacia el Internet.
+
+![17](https://user-images.githubusercontent.com/75953873/206941433-d23e7d81-708e-480d-8049-5df81ba19a71.png)
+
+Y el adaptador GREEN, que corresponde a la red interna, actuando así como puerta de enlace de nuestro entorno.
+
+![18](https://user-images.githubusercontent.com/75953873/206941591-c2df2dd2-87b5-4e2d-98df-4d0ad2a5a067.png)
+
+Ya al haber identificado la dirección MAC de cada adaptador, podemos darle en finalizar.
+
+![19](https://user-images.githubusercontent.com/75953873/206941659-9a65cfcd-ffdd-4b73-869e-2dee2b87a47d.png)
+
+Por último, configuramos la dirreción IP para cada interfaz. En la interfaz roja observarán que tenemos tres opciones a elegir, el modo estático es el más recomendado pero para ello nuestro proveedor de Internet nos tiene que entregar los parámetros de la red (dirección IP pública, máscara de red, enlace de salida y los DNS), el modo DHCP asigna de manera automática direcciones de protocolo de Internet (IP) a los equipo de la red, por último tenemos el modo PPP Dial-UP para una conexión a un modem o a una línea ADSL. Como hemos configurado el adaptador VMWare (ya sea por NAT también), será está la opción a escoger.
+
+![20](https://user-images.githubusercontent.com/75953873/206942415-7bbee8ba-9873-4264-bbf4-cee38cbd7d31.png)
+
+Para la interfaz verde nos pedirá que asignemos una dirección IP local. Yo utilizaré la IP _**192.25.130.254_** con una máscara de red de 24 bits (255.255.255.0) para que disponga un tamaño de 254 ordenadores (una IP para cada equipo), en este caso va hacer para el gateway y el DNS (va a disponer de 253 direcciones IP) para el modo de DHCP. Le damos a finalizar para guardar los cambios.
+
+![20](https://user-images.githubusercontent.com/75953873/206942924-25fdc765-7cad-44c8-83af-199ea6c3cab3.png)

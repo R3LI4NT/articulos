@@ -78,6 +78,6 @@ Aceptamos la licencia de GNU (tecla espacio) y damos enter. Luego borraremos los
 
 ![5](https://user-images.githubusercontent.com/75953873/206936640-30f59528-9e1e-47f8-bc6d-f6ed001e6421.png)
 
-El formato del sistema de archivo por defecto es ext4 pero podemso elegir otros, personalmente voy a seleccionar XFS ya que es uno de los mejores para trabajar en el cortafuego en el servidor proxy para ofrecer un mejor rendimiento al disco de almacenamiento de caché.
+El formato del sistema de archivo por defecto es ext4 pero podemos elegir otros, personalmente voy a seleccionar XFS ya que es uno de los mejores para trabajar en el cortafuego en el servidor proxy para ofrecer un mejor rendimiento al disco de almacenamiento de caché.
 
 ![6](https://user-images.githubusercontent.com/75953873/206937477-14c99685-eeed-497c-9b21-a64f8847ffda.png)

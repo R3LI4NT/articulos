@@ -115,7 +115,7 @@ Por defecto tendremos dos usuarios: **root** es el usuario para iniciar sesión 
 A continuación debemos de configurar las tarjetas de red. IPfire utiliza colores para identificar diferentes interfaces de red:
 
 | COLOR | RED | DESCRIPCIÓN |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | RED | WAN | Conexión hacia el provedor de Internet (ISP) |
 | GREEN | LAN | Conexión hacia la red local |
 | ORANGE | DMZ | Zona desmilitarizada que permite que sus servidores respondan a direcciones IP públicas. |

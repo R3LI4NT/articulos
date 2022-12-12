@@ -145,4 +145,5 @@ Por último, configuramos la dirreción IP para cada interfaz. En la interfaz ro
 
 Para la interfaz verde nos pedirá que asignemos una dirección IP local. Yo utilizaré la IP _**192.25.130.254_** con una máscara de red de 24 bits (255.255.255.0) para que disponga un tamaño de 254 ordenadores (una IP para cada equipo), en este caso va hacer para el gateway y el DNS (va a disponer de 253 direcciones IP) para el modo de DHCP. Le damos a finalizar para guardar los cambios.
 
-![20](https://user-images.githubusercontent.com/75953873/206942924-25fdc765-7cad-44c8-83af-199ea6c3cab3.png)
+![21](https://user-images.githubusercontent.com/75953873/206942975-f3f71467-f561-4d17-a2d7-ad865e8a3a41.png)
+

@@ -158,3 +158,9 @@ Se comenzará a incializar todos los servicios.
 Se requiere de otro equipo que se encuentre interconectado en la red local para administrar el firewall vía web, para ello voy a levantar una máquina virtual con Kali Linux que ya había creado, de igual manera funciona con Windows. Hay que asegurarse que el adaptador de la segunda máquina sea el mismo que hemos establecido en el firewall (VMnet6 en este caso). 
 
 ![24](https://user-images.githubusercontent.com/75953873/207092281-4c65aa69-4d27-40f9-ad84-814bf9a6bd89.png)
+
+Abrimos una terminal y chequeamos la dirección IP que nos entregó para comprobar diagnósticos de conectividad.
+
+![25](https://user-images.githubusercontent.com/75953873/207094606-3fb25c91-8579-4c79-a539-e3f76553e029.png)
+
+![26](https://user-images.githubusercontent.com/75953873/207094627-a643803b-56e7-4a85-8f59-4865bd11832a.png)

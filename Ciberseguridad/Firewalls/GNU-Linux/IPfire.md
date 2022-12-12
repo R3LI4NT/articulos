@@ -177,4 +177,12 @@ Nos saldrá la página inicial de IPFire. Cabe recalcar que este firewall esta h
 
 #### ➤ Configurar FILTRO DE CONTENIDO
 
+El filtrado de contenido es un sistema empleado para bloquear contenido no deseado de páginas web, en redes públicas (escuelas, universidades) es muy útil para restringir el acceso a contenido explícito, violento, entre otros. Esta acción se lleva a cabo gracias al cumplimiento de dos listas y/o categorías:
+
+- **Lista Blanca**: Hace referencia a todos quellos dominios o URLs que son `permitidos` para los usuarios dentro de la misma red local.
+
+- **Lista Negra**: Hace referencia a todos aquellos dominios o URLs que han sido `bloqueados` para los usuarios dentro de la misma red local.
+
+- **Categorías**: Se basa en los filtros que proporciona dichas páginas para bloquear el contenido, es decir, palabras claves que le indiquemos.
+
 

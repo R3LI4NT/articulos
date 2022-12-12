@@ -86,6 +86,28 @@ El sistema comenzará a instalarse.
 
 ![7](https://user-images.githubusercontent.com/75953873/206938711-b7e0787e-f5be-45bf-8d1a-f8607e691721.png)
 
-Nos devuelve un mensaje de que la instalación ha sido finalizada de manera exitosa, también nos muestra el enlace (junto con el puerto **444**) para acceder a la configuración pero que podremos cambiarlo más adelante. 
+Nos devuelve un mensaje de que la instalación ha sido finalizada de manera exitosa, también nos muestra el enlace (junto con el puerto **444**) para acceder a la configuración pero que podremos cambiarlo más adelante. Reiniciamos el sistema.
 
 ![8](https://user-images.githubusercontent.com/75953873/206938883-f4242e59-b5b7-4e48-9ee4-2c44d2433383.png)
+
+Al reiniciar el sistema, entramos a la segunda fase de instalación. Seleccionamos el lenguaje de nuestro teclado.
+
+![9](https://user-images.githubusercontent.com/75953873/206939209-b2da480e-09ae-48fc-9f98-2b779f56f9a9.png)
+
+Especificar el tiempo de zona para el servidor, esto depende de donde este ubicado geográficamente.
+
+![10](https://user-images.githubusercontent.com/75953873/206939314-47cb1ce8-1b47-4f32-bca3-8da9c8e280a5.png)
+
+Luego le asignamos el nombre de la máquina (hostname), por defecto es **ipfire** y lo dejaré tal cual está.
+
+![11](https://user-images.githubusercontent.com/75953873/206939501-9acd85e4-e973-4256-bdff-e3a5fb251f4e.png)
+
+Después tenemos que indicarle el nombre del dominio (por defecto es **localdomain**). El nombre del dominio es para el resto de la red local, es decir, va hacer el sufijo DNS de búsqueda.
+
+![12](https://user-images.githubusercontent.com/75953873/206939708-a0440622-78eb-4ddf-834e-9f3572e44e12.png)
+
+Por defecto tendremos dos usuarios: **root** es el usuario para iniciar sesión en la máquina, y **admin** es el usuario para administrar el sistema vía web. El siguiente paso será asignar una contraseña para cada uno de ellos.
+
+![13](https://user-images.githubusercontent.com/75953873/206940019-15a714fd-919b-4f50-ad74-6bb2ffdc54f4.png)
+
+![14](https://user-images.githubusercontent.com/75953873/206940025-7651461d-276a-4937-839f-2c115cbc9ab5.png)

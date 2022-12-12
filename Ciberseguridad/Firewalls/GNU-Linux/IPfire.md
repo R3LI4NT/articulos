@@ -139,7 +139,7 @@ Ya al haber identificado la dirección MAC de cada adaptador, podemos darle en f
 
 ![19](https://user-images.githubusercontent.com/75953873/206941659-9a65cfcd-ffdd-4b73-869e-2dee2b87a47d.png)
 
-Por último, configuramos la dirreción IP para cada interfaz. En la interfaz roja observarán que tenemos tres opciones a elegir, el modo estático es el más recomendado pero para ello nuestro proveedor de Internet nos tiene que entregar los parámetros de la red (dirección IP pública, máscara de red, enlace de salida y los DNS), el modo DHCP asigna de manera automática direcciones de protocolo de Internet (IP) a los equipo de la red, por último tenemos el modo PPP Dial-UP para una conexión a un modem o a una línea ADSL. Como hemos configurado el adaptador VMWare (ya sea por NAT también), será está la opción a escoger.
+Por último, configuramos la dirreción IP para cada interfaz. En la interfaz roja observarán que tenemos tres opciones a elegir, el modo estático es el más recomendado pero para ello nuestro proveedor de Internet nos tiene que entregar los parámetros de la red (dirección IP pública, máscara de red, enlace de salida y los DNS), el modo DHCP asigna de manera automática direcciones de protocolo de Internet (IP) a los equipo de la red, el modo PPP Dial-UP para una conexión a un modem o a una línea ADSL. Como hemos configurado el adaptador VMWare (ya sea por NAT también), será está la opción a escoger.
 
 ![20](https://user-images.githubusercontent.com/75953873/206942415-7bbee8ba-9873-4264-bbf4-cee38cbd7d31.png)
 
@@ -154,3 +154,7 @@ Habilitamos el DHCP y configuramos el rango de inicio (**192.25.130.50**) y fina
 Se comenzará a incializar todos los servicios.
 
 ![23](https://user-images.githubusercontent.com/75953873/206943905-512a514a-0c03-4ba5-80b5-9367b69f3dd2.png)
+
+Se requiere de otro equipo que se encuentre interconectado en la red local para administrar el firewall vía web, para ello voy a levantar una máquina virtual con Kali Linux que ya había creado, de igual manera funciona con Windows. Hay que asegurarse que el adaptador de la segunda máquina sea el mismo que hemos establecido en el firewall (VMnet6 en este caso). 
+
+![24](https://user-images.githubusercontent.com/75953873/207092281-4c65aa69-4d27-40f9-ad84-814bf9a6bd89.png)

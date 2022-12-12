@@ -164,3 +164,12 @@ Abrimos una terminal y chequeamos la dirección IP que nos entregó para comprob
 ![25](https://user-images.githubusercontent.com/75953873/207094606-3fb25c91-8579-4c79-a539-e3f76553e029.png)
 
 ![26](https://user-images.githubusercontent.com/75953873/207094960-20d3445e-953a-41ad-88ce-4909c050788b.png)
+
+Para ingresar al panel de administración debemos abrir el navegador y escribir la dirección IP del gateway **+** el puerto por defecto (444), todo esto utilizando el protocolo seguro HTTPS. En mi caso quedaría `https://192.25.130.254:444`. Las credenciales son las que habíamos establecido al inicio.
+
+![27](https://user-images.githubusercontent.com/75953873/207098693-bf61b13a-8d6e-459f-ae65-21862d661ebe.png)
+
+Nos saldrá la página inicial de IPFire. Cabe recalcar que este firewall esta hecho para soportar entre 100-150 ordenadores, debido a que está orientado en administrar redes pequeñas (domésticas, negocios pequeños).
+
+![28](https://user-images.githubusercontent.com/75953873/207099632-549d4563-9225-4ffd-97fc-f4823d486ac1.png)
+

@@ -163,4 +163,4 @@ Abrimos una terminal y chequeamos la dirección IP que nos entregó para comprob
 
 ![25](https://user-images.githubusercontent.com/75953873/207094606-3fb25c91-8579-4c79-a539-e3f76553e029.png)
 
-![26](https://user-images.githubusercontent.com/75953873/207094627-a643803b-56e7-4a85-8f59-4865bd11832a.png)
+![26](https://user-images.githubusercontent.com/75953873/207094960-20d3445e-953a-41ad-88ce-4909c050788b.png)

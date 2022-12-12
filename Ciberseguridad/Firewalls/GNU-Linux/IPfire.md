@@ -81,3 +81,11 @@ Aceptamos la licencia de GNU (tecla espacio) y damos enter. Luego borraremos los
 El formato del sistema de archivo por defecto es ext4 pero podemos elegir otros, personalmente voy a seleccionar XFS ya que es uno de los mejores para trabajar en el cortafuego en el servidor proxy para ofrecer un mejor rendimiento al disco de almacenamiento de caché.
 
 ![6](https://user-images.githubusercontent.com/75953873/206937477-14c99685-eeed-497c-9b21-a64f8847ffda.png)
+
+El sistema comenzará a instalarse.
+
+![7](https://user-images.githubusercontent.com/75953873/206938711-b7e0787e-f5be-45bf-8d1a-f8607e691721.png)
+
+Nos devuelve un mensaje de que la instalación ha sido finalizada de manera exitosa, también nos muestra el enlace (junto con el puerto **444**) para acceder a la configuración pero que podremos cambiarlo más adelante. 
+
+![8](https://user-images.githubusercontent.com/75953873/206938883-f4242e59-b5b7-4e48-9ee4-2c44d2433383.png)

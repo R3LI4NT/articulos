@@ -185,4 +185,8 @@ El filtrado de contenido es un sistema empleado para bloquear contenido no desea
 
 - **Categorías**: Se basa en los filtros que proporciona dichas páginas para bloquear el contenido, es decir, palabras claves que le indiquemos.
 
+Antes de habilitar la función, es preciso instalar la extensión `SquidClamav`, cuya funcionalidad es proteger el tráfico web de la red. Para ello, accedemos a la pestaña de `IPFire` **>** `Pakfire` y buscaremos dicho elemento.
 
+![29](https://user-images.githubusercontent.com/75953873/207182758-d7e4a322-08b1-4677-9fd6-612e35cf0537.png)
+
+![30](https://user-images.githubusercontent.com/75953873/207182808-61c400ab-1861-4ba3-93a7-87d2e6f00c5b.png)

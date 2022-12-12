@@ -106,8 +106,20 @@ Después tenemos que indicarle el nombre del dominio (por defecto es **localdoma
 
 ![12](https://user-images.githubusercontent.com/75953873/206939708-a0440622-78eb-4ddf-834e-9f3572e44e12.png)
 
-Por defecto tendremos dos usuarios: **root** es el usuario para iniciar sesión en la máquina, y **admin** es el usuario para administrar el sistema vía web. El siguiente paso será asignar una contraseña para cada uno de ellos.
+Por defecto tendremos dos usuarios: **root** es el usuario para iniciar sesión en la máquina, y **admin** es el usuario para administrar el sistema vía web. El siguiente paso será asignar una contraseña para cada uno de ellos, se recomienda siempre utilizar una contraseña compleja.
 
 ![13](https://user-images.githubusercontent.com/75953873/206940019-15a714fd-919b-4f50-ad74-6bb2ffdc54f4.png)
 
 ![14](https://user-images.githubusercontent.com/75953873/206940025-7651461d-276a-4937-839f-2c115cbc9ab5.png)
+
+A continuación debemos de configurar las tarjetas de red. IPfire utiliza colores para identificar diferentes interfaces de red:
+
+| COLOR | RED | DESCRIPCIÓN |
+| ------------- | ------------- |
+| RED | WAN | Conexión hacia el provedor de Internet (ISP) |
+| GREEN | LAN | Conexión hacia la red local |
+| ORANGE | DMZ | Zona desmilitarizada que permite que sus servidores respondan a direcciones IP públicas. |
+| BLUE | WLAN | Red inalámbrica, una red separada para clientes inalámbricos |
+
+![15](https://user-images.githubusercontent.com/75953873/206940643-da96005d-731b-4bce-ae52-64dd3863bb22.png)
+

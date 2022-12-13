@@ -208,3 +208,7 @@ Accedemos a la pestaña `Red` **>** `Web Proxy` y activamos las siguientes casil
 A continuación, accedemos nuevamente a la pestaña `Red` **>** `Filtro de contenido` y activamos la casilla de Lista Negra. Dentro de la lista deben escribir todos los dominios o URLs que desean bloquear para aquellos clientes que estén contectados en el área local.
 
 ![32](https://user-images.githubusercontent.com/75953873/207196759-4b8fb22b-73a3-4838-99a8-92b07f3cf55f.png)
+
+Luego de guardar los cambios, automáticamente se deniega el acceso al dominio y/o URL especificada a los clientes conectados a la misma red local. Para este ejemplo se utilizó otra máquina virtual en donde se le configuró el adaptador de red para que el firewall le entregué una dirección IP dentro del rango establecido, esto quiere decir que otro dispositivo externo aún así tiene acceso a dicha página.
+
+![33](https://user-images.githubusercontent.com/75953873/207198545-2635d243-bc7b-47f0-b1d2-0188449b35a7.png)

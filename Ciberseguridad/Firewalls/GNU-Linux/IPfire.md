@@ -191,7 +191,7 @@ Antes de habilitar la función, es preciso instalar la extensión `SquidClamav`,
 
 ![30](https://user-images.githubusercontent.com/75953873/207182808-61c400ab-1861-4ba3-93a7-87d2e6f00c5b.png)
 
-Accedemos a la pestaña `Red` **>** `Web Proxy` y activamos las siguientes casillas que se muestran.
+Accedemos a la pestaña `Red` **>** `Web Proxy` y activamos las siguientes casillas que se muestran, guardan los cambios y reinician.
 
 - [x] Activado en Green.
 
@@ -204,3 +204,7 @@ Accedemos a la pestaña `Red` **>** `Web Proxy` y activamos las siguientes casil
 - [x] Acelerador de actualizaciones.
 
 ![31](https://user-images.githubusercontent.com/75953873/207195835-67343d76-33ea-4aa8-9a5b-f4d3ee148677.png)
+
+A continuación, accedemos nuevamente a la pestaña `Red` **>** `Filtro de contenido` y activamos la casilla de Lista Negra. Dentro de la lista deben escribir todos los dominios o URLs que desean bloquear para aquellos clientes que estén contectados en el área local.
+
+![32](https://user-images.githubusercontent.com/75953873/207196759-4b8fb22b-73a3-4838-99a8-92b07f3cf55f.png)

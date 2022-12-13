@@ -193,4 +193,14 @@ Antes de habilitar la función, es preciso instalar la extensión `SquidClamav`,
 
 Accedemos a la pestaña `Red` **>** `Web Proxy` y activamos las siguientes casillas que se muestran.
 
-[x] A
+- [x] Activado en Green.
+
+- [x] Transparente en Green.
+
+- [x] SquidClamav Activado.
+
+- [x] URL filter.
+
+- [x] Acelerador de actualizaciones.
+
+![31](https://user-images.githubusercontent.com/75953873/207195835-67343d76-33ea-4aa8-9a5b-f4d3ee148677.png)

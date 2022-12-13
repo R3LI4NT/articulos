@@ -193,4 +193,4 @@ Antes de habilitar la función, es preciso instalar la extensión `SquidClamav`,
 
 Accedemos a la pestaña `Red` **>** `Web Proxy` y activamos las siguientes casillas que se muestran.
 
-[X] A
+[x] A

@@ -223,4 +223,4 @@ Luego de guardar los cambios y reiniciar, ingresan a `Logs` **->** `Registros de
 
 <h1 align="center"></h1>
 
-#### ➤ 
+#### ➤ Configurar IP Address Blocklists

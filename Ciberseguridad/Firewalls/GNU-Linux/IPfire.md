@@ -263,3 +263,6 @@ El motor de firewall permtie la fácil activación de varias listas de bloqueo p
 
 ![36](https://user-images.githubusercontent.com/75953873/208311949-31ebcfe7-8c1f-4bed-87b1-95b211f84d56.png)
 
+Todas las listas que se observan se actualizan automáticamente y protegen de diversas amenazas. Las redes y direcciones IP que tienen mala reputación se encuentran en estas listas, sobre todo las que han sido involucradas con el alojamiento de delitos cibernéticos o simplemente no están asignadas. Algunas de las listas no es necesario que sean habilitadas ya que se están incluidas en otras, tampoco se recomienda utilizar las listas de Tor si se está usando Tor. Cualquier tipo de amaenaza detectada a tiempo será registrada e informada en la pestaña `Firewall` **->** `IP Address Blocklists Logs`.
+
+![37](https://user-images.githubusercontent.com/75953873/208312333-6aa063c2-5b48-41b8-af6b-bfd27ebbccbf.png)

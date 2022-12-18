@@ -147,7 +147,7 @@ Para la interfaz verde nos pedirá que asignemos una dirección IP local. Yo uti
 
 ![21](https://user-images.githubusercontent.com/75953873/206942975-f3f71467-f561-4d17-a2d7-ad865e8a3a41.png)
 
-Habilitamos el DHCP y configuramos el rango de inicio (**192.25.130.50**) y final (**192.25.130.200**), para el DNS secundario podemos utilizar uno de google (8.8.8.8 o 1.1.1.1), el tiempo de liberación por defecto son 60 minutos pero yo lo voy a cambiar a 5000 minutosy el tiempo máximo de liberación lo voy a cambiar a 10000 minutos. Finalizamos la instalación.
+Habilitamos el DHCP y configuramos el rango de inicio (**192.25.130.50**) y final (**192.25.130.200**), para el DNS secundario podemos utilizar uno de google (8.8.8.8 o 1.1.1.1), el tiempo de liberación por defecto son 60 minutos pero yo lo voy a cambiar a 5000 minutos y el tiempo máximo de liberación lo voy a cambiar a 10000 minutos. Finalizamos la instalación.
 
 ![22](https://user-images.githubusercontent.com/75953873/206943449-1b127e15-a5f7-42a2-929c-90042a9a09bd.png)
 
@@ -169,7 +169,7 @@ Para ingresar al panel de administración debemos abrir el navegador y escribir 
 
 ![27](https://user-images.githubusercontent.com/75953873/207098693-bf61b13a-8d6e-459f-ae65-21862d661ebe.png)
 
-Nos saldrá la página inicial de IPFire. Cabe recalcar que este firewall esta hecho para soportar entre 100-150 ordenadores, debido a que está orientado en administrar redes pequeñas (domésticas, negocios pequeños).
+Nos saldrá la página inicial de IPFire. Cabe recalcar que este firewall esta hecho para soportar entre 100-150 ordenadores, debido a que esta orientado en administrar redes pequeñas (domésticas, negocios pequeños).
 
 ![28](https://user-images.githubusercontent.com/75953873/207099632-549d4563-9225-4ffd-97fc-f4823d486ac1.png)
 
@@ -185,13 +185,13 @@ El filtrado de contenido es un sistema empleado para bloquear contenido no desea
 
 - **Categorías**: Se basa en los filtros que proporciona dichas páginas para bloquear el contenido, es decir, palabras claves que le indiquemos.
 
-Antes de habilitar la función, es preciso instalar la extensión `SquidClamav`, cuya funcionalidad es proteger el tráfico web de la red. Para ello, accedemos a la pestaña `IPFire` **>** `Pakfire` y buscaremos dicho elemento, guardan los cambios.
+Antes de habilitar la función, es preciso instalar la extensión `SquidClamav`, cuya funcionalidad es proteger el tráfico web de la red. Para ello, accedemos a la pestaña `IPFire` **>** `Pakfire` y buscaremos dicho elemento. Guardan los cambios.
 
 ![29](https://user-images.githubusercontent.com/75953873/207182758-d7e4a322-08b1-4677-9fd6-612e35cf0537.png)
 
 ![30](https://user-images.githubusercontent.com/75953873/207182808-61c400ab-1861-4ba3-93a7-87d2e6f00c5b.png)
 
-Accedemos a la pestaña `Red` **>** `Web Proxy` y activamos las siguientes casillas que se muestran, guardan los cambios y reinician.
+Accedemos a la pestaña `Red` **>** `Web Proxy` y activamos las siguientes casillas que se muestra. Guardan los cambios y reinician.
 
 - [x] Activado en Green.
 

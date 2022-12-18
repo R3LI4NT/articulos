@@ -213,6 +213,14 @@ Luego de guardar los cambios, automáticamente se deniega el acceso al dominio y
 
 ![33](https://user-images.githubusercontent.com/75953873/208271419-55ab9462-bb28-4108-a4e4-c54869d4e0e2.png)
 
+Dentro de las configuraciones de URL filter se encuentra la opción de activar registros, éste permite tener un control de las peticiones que se han hecho a determinado DNS por parte del destinatario. Para ello, se dirigen nuevamente a `Red` **>** `Filtro de contenido`.
+
+![35](https://user-images.githubusercontent.com/75953873/208271639-db7f588d-d1af-4309-842e-227c4e14e143.png)
+
+Luego de guardar los cambios y reiniciar, ingresan a `Logs` **>** `Registros de URL Filter` y podrán revisar todas las peticiones que se han hecho de una determinada IP hacia un DNS.
+
+![34](https://user-images.githubusercontent.com/75953873/208271702-e4077b78-147d-4093-a157-0c82dcaf631b.png)
+
 <h1 align="center"></h1>
 
 #### ➤ 

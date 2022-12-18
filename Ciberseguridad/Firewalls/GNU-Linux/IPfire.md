@@ -237,7 +237,7 @@ Por lo general, una dirección IP es bloqueada por su comportamiento ílicito, p
 
 - **Control local**: el administrador incluye una lista con aquellas direcciones IP's que tienen permitido acceder a la red, aumentado así la seguridad de la misma y no estar expuestos a ataques cibernéticos (Ej. DoS/DDoS).
 
-###### Tipos de listas de bloqueo de IP:
+##### Tipos de listas de bloqueo de IP:
 
 - **Listas de bloqueo basadas en correo electrónico**: Una lista de bloqueo de correo electrónico funciona como un filtro de correo no deseado, lo que garantiza que los correos electrónicos que son potencialmente peligrosos o no deseados no lleguen al destinatario previsto.
 

@@ -331,7 +331,7 @@ Los servidores proxy se utilizan como un mecanismo de protección adicional o pa
 
 ![47](https://user-images.githubusercontent.com/75953873/208321662-c5cf70f1-6fe1-42e3-9911-aca97aabf40e.png)
 
-Squid se ha optimizado para ser muy seguro, por lo que se ha eliminado el soporte SSL, manejando así conexiones HTTPS entre el cliente y el servidor sin intentar descifrar los bits que se envíen. Para habilitarlo se deben dirigir a la pestaña de `Red` **->** `Web Proxy` y marcar las casillas que se ven a continuación:
+Squid se ha optimizado para ser muy seguro, por lo que se ha eliminado el soporte SSL, manejando así conexiones HTTPS entre el cliente y el servidor sin intentar descifrar los bits que se envían. Para habilitarlo se deben dirigir a la pestaña de `Red` **->** `Web Proxy` y marcar las casillas que se ven a continuación:
 
 ![48](https://user-images.githubusercontent.com/75953873/208321823-f50961b2-0059-46dd-a912-cea3bb806e0e.png)
 

@@ -338,3 +338,7 @@ Squid se ha optimizado para ser muy seguro, por lo que se ha eliminado el soport
 Desde el navegador web accedemos a las configuraciones de red, seguidamente introduciones la configuración manual del proxy (utiliza el puerto `800` por defecto).
 
 ![49](https://user-images.githubusercontent.com/75953873/208321885-1a4cb1cb-83f8-473b-992f-86fdd87a95e4.png)
+
+Al acceder al panel de adminstración del proxy quedaría de la siguiente manera: `https://192.25.130.254:800/`.
+
+![50](https://user-images.githubusercontent.com/75953873/208322087-2049adf5-711e-4d4f-a493-a22a1975576a.png)

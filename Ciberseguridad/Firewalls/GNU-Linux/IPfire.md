@@ -209,9 +209,9 @@ A continuación, accedemos nuevamente a la pestaña `Red` **->** `Filtro de cont
 
 ![32](https://user-images.githubusercontent.com/75953873/207196759-4b8fb22b-73a3-4838-99a8-92b07f3cf55f.png)
 
-Luego de guardar los cambios, automáticamente se deniega el acceso al dominio y/o URL especificada a los clientes conectados a la misma red local. Para este ejemplo se utilizó otra máquina virtual en donde se configuró el adaptador de red para que el firewall le entregué una dirección IP dentro del rango establecido, esto quiere decir que otro dispositivo externo aún así tiene acceso a dicha página.
+Luego de guardar los cambios, automáticamente se deniega el acceso al dominio y/o URL especificada a los clientes conectados a la misma red local. Para este ejemplo se utilizó otra máquina virtual en donde se configuró el adaptador de red para que el firewall le entregué una dirección IP dentro del rango establecido, esto quiere decir que otro dispositivo externo aún tiene acceso a dicha página.
 
-![33](https://user-images.githubusercontent.com/75953873/208271419-55ab9462-bb28-4108-a4e4-c54869d4e0e2.png)
+![33](https://user-images.githubusercontent.com/75953873/208271987-928872ab-852a-4009-aeb9-463baa165dcd.png)
 
 Dentro de las configuraciones de URL filter se encuentra la opción de activar registros, éste permite tener un control de las peticiones que se han hecho a determinado DNS por parte del destinatario. Para ello, se dirigen nuevamente a `Red` **->** `Filtro de contenido`.
 

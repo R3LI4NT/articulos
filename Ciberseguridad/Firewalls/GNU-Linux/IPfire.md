@@ -261,4 +261,5 @@ Aunque la lista de bloqueo es una estrategia efectiva para restringir el acceso 
 
 El motor de firewall permtie la fácil activación de varias listas de bloqueo públicas basadas en IP. Ingresan a la pestaña de `Logs` **->** `IP Address Blocklists`.
 
+![36](https://user-images.githubusercontent.com/75953873/208311949-31ebcfe7-8c1f-4bed-87b1-95b211f84d56.png)
 

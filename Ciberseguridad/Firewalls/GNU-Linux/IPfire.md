@@ -257,4 +257,8 @@ Aunque la lista de bloqueo es una estrategia efectiva para restringir el acceso 
 
 - **Botnets**: Muchos atacantes utilizan miles o millones de dispositivos de usuario final o dispositivos de Internet de las cosas (IoT) en enormes botnets. Los atacantes hackean los dispositivos y obtienen el control de ellos, o alquilan una botnet. Esto le permtie al atacante asociarse de un ejército zombie de dispositivos dispuestos a atacar mediante ordenes.
 
+</br> 
+
+El motor de firewall permtie la fácil activación de varias listas de bloqueo públicas basadas en IP. Ingresan a la pestaña de `Logs` **->** `IP Address Blocklists`.
+
 

@@ -185,13 +185,13 @@ El filtrado de contenido es un sistema empleado para bloquear contenido no desea
 
 - **Categorías**: Se basa en los filtros que proporciona dichas páginas para bloquear el contenido, es decir, palabras claves que le indiquemos.
 
-Antes de habilitar la función, es preciso instalar la extensión `SquidClamav`, cuya funcionalidad es proteger el tráfico web de la red. Para ello, accedemos a la pestaña `IPFire` **>** `Pakfire` y buscaremos dicho elemento. Guardan los cambios.
+Antes de habilitar la función, es preciso instalar la extensión `SquidClamav`, cuya funcionalidad es proteger el tráfico web de la red. Para ello, accedemos a la pestaña `IPFire` **->** `Pakfire` y buscaremos dicho elemento. Guardan los cambios.
 
 ![29](https://user-images.githubusercontent.com/75953873/207182758-d7e4a322-08b1-4677-9fd6-612e35cf0537.png)
 
 ![30](https://user-images.githubusercontent.com/75953873/207182808-61c400ab-1861-4ba3-93a7-87d2e6f00c5b.png)
 
-Accedemos a la pestaña `Red` **>** `Web Proxy` y activamos las siguientes casillas que se muestra. Guardan los cambios y reinician.
+Accedemos a la pestaña `Red` **->** `Web Proxy` y activamos las siguientes casillas que se muestra. Guardan los cambios y reinician.
 
 - [x] Activado en Green.
 
@@ -205,7 +205,7 @@ Accedemos a la pestaña `Red` **>** `Web Proxy` y activamos las siguientes casil
 
 ![31](https://user-images.githubusercontent.com/75953873/207195835-67343d76-33ea-4aa8-9a5b-f4d3ee148677.png)
 
-A continuación, accedemos nuevamente a la pestaña `Red` **>** `Filtro de contenido` y activamos la casilla de Lista Negra. Dentro de la lista deben escribir todos los dominios o URLs que desean bloquear para aquellos clientes que estén contectados en el área local.
+A continuación, accedemos nuevamente a la pestaña `Red` **->** `Filtro de contenido` y activamos la casilla de Lista Negra. Dentro de la lista deben escribir todos los dominios o URLs que desean bloquear para aquellos clientes que estén contectados en el área local.
 
 ![32](https://user-images.githubusercontent.com/75953873/207196759-4b8fb22b-73a3-4838-99a8-92b07f3cf55f.png)
 
@@ -213,11 +213,11 @@ Luego de guardar los cambios, automáticamente se deniega el acceso al dominio y
 
 ![33](https://user-images.githubusercontent.com/75953873/208271419-55ab9462-bb28-4108-a4e4-c54869d4e0e2.png)
 
-Dentro de las configuraciones de URL filter se encuentra la opción de activar registros, éste permite tener un control de las peticiones que se han hecho a determinado DNS por parte del destinatario. Para ello, se dirigen nuevamente a `Red` **>** `Filtro de contenido`.
+Dentro de las configuraciones de URL filter se encuentra la opción de activar registros, éste permite tener un control de las peticiones que se han hecho a determinado DNS por parte del destinatario. Para ello, se dirigen nuevamente a `Red` **->** `Filtro de contenido`.
 
 ![35](https://user-images.githubusercontent.com/75953873/208271639-db7f588d-d1af-4309-842e-227c4e14e143.png)
 
-Luego de guardar los cambios y reiniciar, ingresan a `Logs` **>** `Registros de URL Filter` y podrán revisar todas las peticiones que se han hecho de una determinada IP hacia un DNS.
+Luego de guardar los cambios y reiniciar, ingresan a `Logs` **->** `Registros de URL Filter` y podrán revisar todas las peticiones que se han hecho de una determinada IP hacia un DNS.
 
 ![34](https://user-images.githubusercontent.com/75953873/208271702-e4077b78-147d-4093-a157-0c82dcaf631b.png)
 

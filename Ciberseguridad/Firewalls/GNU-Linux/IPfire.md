@@ -289,7 +289,7 @@ ssh root@ipfire.localdomain
 ```
 ![40](https://user-images.githubusercontent.com/75953873/208319196-f2d41402-b5c2-447b-92bb-2232b081db4d.png)
 
-Según su <a href="https://wiki.ipfire.org/configuration/system/ssh">wiki</a>, por motivos de seguridad se recomienda conectarse por el puerto `222`. Para esto, deshabilite la casilla de "**El puerto SSH se ha establecido en 22 (por defecto es 222)**".
+Por motivos de seguridad se recomienda conectarse por el puerto `222`. Para esto, deshabilite la casilla de "**El puerto SSH se ha establecido en 22 (por defecto es 222)**".
 
 ![42](https://user-images.githubusercontent.com/75953873/208319553-8018e038-646b-4187-9568-22d4ea2b5833.png)
 
@@ -297,4 +297,29 @@ Según su <a href="https://wiki.ipfire.org/configuration/system/ssh">wiki</a>, p
 ssh -p 222 root@ipfire.localdomain
 ```
 ![41](https://user-images.githubusercontent.com/75953873/208319559-c28cf4b1-5cdd-44af-9403-3564d5c11c0b.png)
+
+Acceder mediante clave pública SSH, activar la casilla de "**Permitir autenticación basada en llave pública**".
+
+![44](https://user-images.githubusercontent.com/75953873/208320117-e1ccded2-78a1-42aa-bdcc-082ad0327fc8.png)
+
+Generar clave para SSH sin contraseña, en el nombre del directorio .ssh.
+```
+ssh-keygen -f ~/.ssh/id_rsa -P ''
+```
+
+![43](https://user-images.githubusercontent.com/75953873/208320166-01b0a8da-b0e7-46aa-9501-588bb2e2598a.png)
+
+Luego copie la clave pública de la computadora cliente al IPFire:
+```
+ssh-keygen -f ~/.ssh/id_rsa -P ''
+```
+
+![45](https://user-images.githubusercontent.com/75953873/208320209-9ebe88e5-cb7d-476c-adb8-23f54d4d14b2.png)
+
+La nueva clave de cliente se agrego a las claves autorizadas existentes. Para acceder a IPFire, habilite SSH temporalmente haciendo clic en Detener el demonio SSH en 15 minutos e ingresando:
+```
+ssh -p '222' 'root@ipfire'   
+```
+
+![46](https://user-images.githubusercontent.com/75953873/208320322-459b9044-b82e-4769-83ec-5cc15b144807.png)
 

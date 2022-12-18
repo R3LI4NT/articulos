@@ -253,4 +253,6 @@ Aunque la lista de bloqueo es una estrategia efectiva para restringir el acceso 
 
 - **Falsificación de IP:** Los atacantes pueden emplear la suplantación de IP para que parezca que están conectados a través de una dirección IP diferente en ataques de capa de red (por ejemplo, ataques DDoS). Esto les permite evitar ser incluidos en la lista negra mientras ocultan sus identidades.
 
-- **Botnets**: Muchos atacantes utilizan miles o millones de dispositivos de usuario final o dispositivos de Internet de las cosas (IoT) en enormes botnets. Los atacantes hackean dispositivos y obtienen el control de ellos, o alquilan una botnet 
+- **Botnets**: Muchos atacantes utilizan miles o millones de dispositivos de usuario final o dispositivos de Internet de las cosas (IoT) en enormes botnets. Los atacantes hackean los dispositivos y obtienen el control de ellos, o alquilan una botnet. Esto le permtie al atacante asociarse de un ejército zombie de dispositivos dispuestos a atacar mediante ordenes.
+
+

@@ -217,7 +217,7 @@ Dentro de las configuraciones de URL filter se encuentra la opción de activar r
 
 ![35](https://user-images.githubusercontent.com/75953873/208271639-db7f588d-d1af-4309-842e-227c4e14e143.png)
 
-Luego de guardar los cambios y reiniciar, ingresan a `Logs` **->** `Registros de URL Filter` y podrán revisar todas las peticiones que se han hecho de una determinada IP hacia un DNS.
+Luego de guardar los cambios y reiniciar, ingresan a `Logs` **->** `Registros de URL Filter` y podrán revisar todas las peticiones que se han hecho de una determinada IP.
 
 ![34](https://user-images.githubusercontent.com/75953873/208271702-e4077b78-147d-4093-a157-0c82dcaf631b.png)
 

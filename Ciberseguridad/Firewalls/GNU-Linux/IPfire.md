@@ -231,7 +231,7 @@ Por lo general, una dirección IP es bloqueada por su comportamiento ílicito, p
 
 - **Spam**: abuso de límites de envío diarios.
 
-- **DNS hijacked*:** el dominio es secuestrado por cibercriminales para acciones ílicitas.
+- **DNS hijacked**: el dominio es secuestrado por cibercriminales para acciones ílicitas.
 
 - **Malware**: un dispositivo en la red ha sido infectado con un software/código malicioso.
 

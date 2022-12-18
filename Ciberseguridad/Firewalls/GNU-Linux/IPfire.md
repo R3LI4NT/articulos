@@ -280,3 +280,21 @@ Todas las listas que se observan se actualizan automáticamente y protegen de di
 El protocolo SSH permite al usuario el acceso remoto con el servidor para realizar modificaciones o cambios en él. Para habilitar esta opción es preciso activar la casilla de verificación en la pestaña de  `Sistema` **->** `Acceso SSH`.
 
 ![39](https://user-images.githubusercontent.com/75953873/208318715-68c688d0-d51d-418b-b726-8b626407bc8b.png)
+
+Habilitar el reenvío del agente SSH permite el uso de una clave SSH local privada de forma remota sin dejar datos confidenciales en el servidor. El reenvío de puertos TCP permite que otras aplicaciones TCP reenvíen sus datos de red a través de una conexión SSH segura. La autenticación basada en contraseña permite inciar sesión con con ID y contraseña para acceder a SSH. La autenticación basada en clave pública se útil para autenticar al servidor (hosts) y el cliente (usuario), el cifrado de clave pública utiliza llaves públicas y privadas para cifrar y descifrar datos; una de estas claves es pública y se puede distribuir libremente, mientras que la clave privada debe almacenarse en un lugar seguro. Los datos de está solo se puede descrifar con la clave pública y los datos cifrados con la clave pública sólo pueden descifrarse con la clave privada.
+
+Acceder al servidor mediante SSH (puerto **22**):
+```
+ssh root@ipfire.localdomain
+```
+![40](https://user-images.githubusercontent.com/75953873/208319196-f2d41402-b5c2-447b-92bb-2232b081db4d.png)
+
+Según su <a href="https://wiki.ipfire.org/configuration/system/ssh">wiki</a>, por motivos de seguridad se recomienda conectarse por el puerto `222`. Para esto, deshabilite la casilla de "**El puerto SSH se ha establecido en 22 (por defecto es 222)**".
+
+![42](https://user-images.githubusercontent.com/75953873/208319553-8018e038-646b-4187-9568-22d4ea2b5833.png)
+
+```
+ssh -p 222 root@ipfire.localdomain
+```
+![41](https://user-images.githubusercontent.com/75953873/208319559-c28cf4b1-5cdd-44af-9403-3564d5c11c0b.png)
+

@@ -224,3 +224,33 @@ Luego de guardar los cambios y reiniciar, ingresan a `Logs` **->** `Registros de
 <h1 align="center"></h1>
 
 #### ➤ Configurar IP Address Blocklists
+
+Una lista de bloqueos de IP es un sistema de filtrado implementado por el firewall para gestionar aquellas IP's maliciosas, es útil para identificar spammers y/o ciberdelincuentes que estén haciendo mal uso del recurso. Si una dirección IP termina en una lista de bloqueo, ya no puede acceder a la red. Por ejemplo, todos aquellos correos electrónicos que fueron enviados desde esa dirección IP bloqueada, rebotan y no llegan al destinatario.
+
+Por lo general, una dirección IP es bloqueada por su comportamiento ílicito, pero muchas veces se debe a que un atacante esté explotando maliciosamente la IP, o el cliente heredo una IP que ya estaba incluida en alguna lista de bloqueo de IP. Existen diversas razones por la que se agrega una IP a una lista de bloqueo, algunas de ellas son:
+
+- **Spam**: abuso de límites de envío diarios.
+
+- **DNS hijacked*:** el dominio es secuestrado por cibercriminales para acciones ílicitas.
+
+- **Malware**: un dispositivo en la red ha sido infectado con un software/código malicioso.
+
+- **Control local**: el administrador incluye una lista con aquellas direcciones IP's que tienen permitido acceder a la red, aumentado así la seguridad de la misma y no estar expuestos a ataques cibernéticos (Ej. DoS/DDoS).
+
+###### Tipos de listas de bloqueo de IP:
+
+- **Listas de bloqueo basadas en correo electrónico**: Una lista de bloqueo de correo electrónico funciona como un filtro de correo no deseado, lo que garantiza que los correos electrónicos que son potencialmente peligrosos o no deseados no lleguen al destinatario previsto.
+
+- **Sistema de nombres de dominio/listas de bloqueo basadas en DNS**: Una lista de bloqueo basada en DNS funciona haciendo coincidir los nombres de dominio con las direcciones IP que pueden estar involucradas con spam o correos electrónicos posiblemente peligrosos.
+
+- **Listas de bloqueo basadas en phishing**: Se crearon listas de bloqueo como las proporcionadas por Google Safe Browsing, PhishTank y OpenPhish para detectar actividades relacionadas con el phishing y el malware en los sitios web.
+
+- **Listas de bloqueo basadas en malware**: Cuando un sitio web se bloquea como resultado de un comportamiento dañino, las bases de datos alertan a los webmasters de los sitios marcados sobre la inminente lista de bloqueo de IP.
+
+Aunque la lista de bloqueo es una estrategia efectiva para restringir el acceso de direcciones IP específicas a su red, no está exenta de fallas. Esto se debe al hecho de que los atacantes han ideado una variedad de métodos para eludir las listas de bloqueo. Algunos ejemplos de estas estrategias son los siguientes: 
+
+- **Cambio de direcciones IP**: Para evitar ser incluidos en la lista de bloqueo, muchos atacantes siguen cambiando sus direcciones IP a través de un VPN o Proxy.
+
+- **Falsificación de IP:** Los atacantes pueden emplear la suplantación de IP para que parezca que están conectados a través de una dirección IP diferente en ataques de capa de red (por ejemplo, ataques DDoS). Esto les permite evitar ser incluidos en la lista negra mientras ocultan sus identidades.
+
+- **Botnets**: Muchos atacantes utilizan miles o millones de dispositivos de usuario final o dispositivos de Internet de las cosas (IoT) en enormes botnets. Los atacantes hackean dispositivos y obtienen el control de ellos, o alquilan una botnet 

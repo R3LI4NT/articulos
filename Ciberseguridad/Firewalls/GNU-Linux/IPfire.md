@@ -342,3 +342,17 @@ Desde el navegador web accedemos a las configuraciones de red, seguidamente intr
 Al acceder al panel de adminstración del proxy quedaría de la siguiente manera: `https://192.25.130.254:800/`.
 
 ![50](https://user-images.githubusercontent.com/75953873/208322087-2049adf5-711e-4d4f-a493-a22a1975576a.png)
+
+<h1 align="center"></h1>
+
+</br>
+
+##### Información adicional
+ 
+- Wiki oficial de IPFire: https://wiki.ipfire.org/
+
+- Foro (comunidad) de IPFire: https://community.ipfire.org/
+
+
+
+#### ~R3LI4NT~

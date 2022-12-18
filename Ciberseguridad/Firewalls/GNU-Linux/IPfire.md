@@ -273,3 +273,10 @@ Todas las listas que se observan se actualizan automáticamente y protegen de di
   <img src="https://wiki.ipfire.org/configuration/firewall/ipblocklist/firewall_log_blocklist_v3.png?s=920">
 </p>
 
+<h1 align="center"></h1>
+
+#### ➤ Configurar IPFire vía SSH
+
+El protocolo SSH permite al usuario el acceso remoto con el servidor para realizar modificaciones o cambios en él. Para habilitar esta opción es preciso activar la casilla de verificación en la pestaña de  `Sistema` **->** `Acceso SSH`.
+
+![39](https://user-images.githubusercontent.com/75953873/208318715-68c688d0-d51d-418b-b726-8b626407bc8b.png)

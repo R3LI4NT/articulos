@@ -311,7 +311,7 @@ ssh-keygen -f ~/.ssh/id_rsa -P ''
 
 Luego copie la clave pública de la computadora cliente al IPFire:
 ```
-ssh-keygen -f ~/.ssh/id_rsa -P ''
+ssh-copy-id -p 222 root@ipfire.localdomain
 ```
 
 ![45](https://user-images.githubusercontent.com/75953873/208320209-9ebe88e5-cb7d-476c-adb8-23f54d4d14b2.png)
@@ -335,13 +335,21 @@ Squid se ha optimizado para ser muy seguro, por lo que se ha eliminado el soport
 
 ![48](https://user-images.githubusercontent.com/75953873/208321823-f50961b2-0059-46dd-a912-cea3bb806e0e.png)
 
-Desde el navegador web accedemos a las configuraciones de red, seguidamente introduciones la configuración manual del proxy (utiliza el puerto `800` por defecto).
+Desde el navegador web accedemos a las configuraciones de red, seguidamente introducimos la configuración manual del proxy (utiliza el puerto `800` por defecto).
 
 ![49](https://user-images.githubusercontent.com/75953873/208321885-1a4cb1cb-83f8-473b-992f-86fdd87a95e4.png)
 
-Al acceder al panel de adminstración del proxy quedaría de la siguiente manera: `https://192.25.130.254:800/`.
+Al acceder al panel de administración del proxy quedaría de la siguiente manera: `https://192.25.130.254:800/`.
 
 ![50](https://user-images.githubusercontent.com/75953873/208322087-2049adf5-711e-4d4f-a493-a22a1975576a.png)
+
+<h1 align="center"></h1>
+
+### CONFIGURAR FIREWALL IPFIRE | VirtualBox
+
+En la configuración de la máquina en VirtualBox le agregamos dos adaptadores de red al firewall como lo hemos hecho con VMWare al principio. Los pasos de instalación de IPFire son los mismos.
+
+![52](https://user-images.githubusercontent.com/75953873/208328732-083679bd-c890-4152-a8a7-675dc6285dfd.png)
 
 <h1 align="center"></h1>
 

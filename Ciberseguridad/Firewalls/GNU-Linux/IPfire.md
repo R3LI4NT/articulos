@@ -12,11 +12,11 @@ Un firewall es un sistema de defensa diseñado en proteger redes privadas de acc
 
 - Firewall de tipo **SOFTWARE**: Los firewalls por software son programas que se ejecutan en el sistema o dispositivo y examinan acerca del tráfico de la red para interceptar y prevenir infecciones de programas maliciosos antes de que lleguen a éste. Normalmente suelen ir acompañados de un antivirus u otra arquitectura de firewall más fuerte, a diferencia del hardware, estos ya vienen preconfigurados con lo más básico para proteger las conexiones. No obstante, un cortafuego de tipo software va a recibir mas actualizaciones que de tipo físico debido que es un programa que instalamos y eso le aporta un plus. Además de que si nos traladamos a otro lugar el firewall va a seguir ahí, mientras que al ser físico se encuentra conectado al sistema o router, y por lo tanto, es menos flexible para trasladarlo de un lugar a otro.
 
-Un firewall actúa bloqueando el tráfico no autorizado y cada diseño de implentación se enfocara a las necesidades de cada individuo o empresa en particular. Existen una variedad de métodos que se utilizan para filtrar el tráfico de datos, que pueden ser utilizados individualmente o combinados en un equipo de firewall:
+Un firewall actúa bloqueando el tráfico no autorizado y cada diseño de implementación se enfocara a las necesidades de cada individuo o empresa en particular. Existen una variedad de métodos que se utilizan para filtrar el tráfico de datos, que pueden ser utilizados individualmente o combinados en un equipo de firewall:
 
-- **Filtrado de contenido**: Esta funciona examina los paquetes de comunicación que intentan pasar a través del firewall, comparándolos con las reglas. Las reglas determinan cómo se maneja la comunicación de entrada y salida. Las reglas de **ENTRADA** controla el tráfico que se permite o deniega de fuentes externas, es decir, conexiones que se generan en Internet y llegan a nuestro equipo. Las reglasde **SALIDA** controla las conexiones que se genera en nuestro equipo y que tienen como objetivo salir al exterior (Internet). El filtrado de contenido permite a los administradores de redes bloquear fácilmente algunos tipos de contenido web sin tener que proporcionar la URL individualmente, como pueden ser sitios inapropiados o redes sociales, entre otros.
+- **Filtrado de contenido**: Esta funciona examina los paquetes de comunicación que intentan pasar a través del firewall, comparándolos con las reglas. Las reglas determinan cómo se maneja la comunicación de entrada y salida. Las reglas de **ENTRADA** controla el tráfico que se permite o deniega de fuentes externas, es decir, conexiones que se generan en Internet y llegan a nuestro equipo. Las regla sde **SALIDA** controla las conexiones que se genera en nuestro equipo y que tienen como objetivo salir al exterior (Internet). El filtrado de contenido permite a los administradores de redes bloquear fácilmente algunos tipos de contenido web sin tener que proporcionar la URL individualmente, como pueden ser sitios inapropiados o redes sociales, entre otros.
 
-- **Servicio de Anti-Virus a nivel red**: Este servicio es una defensa imlementada en algunos firewalls para proteger la red interna contra ataques que provengan de Internet o enlace WAN (ordenadores interconectados).
+- **Servicio de Anti-Virus a nivel red**: Este servicio es una defensa implementada en algunos firewalls para proteger la red interna contra ataques que provengan de Internet o enlace WAN (ordenadores interconectados).
 
 - **Servicio Anti-Spam**: Este servicio proteger contra spam, correos phishing y cargados de virus. Utiliza la tecnología de reconocimiento de patrones recurrente (RDP) para analizar y bloquear todos los mensajes infectados en tiempo real. Además, el antispam se aplica a la IP remitente para eliminar y evitar mensajes no deseados.
 
@@ -36,7 +36,7 @@ Un firewall actúa bloqueando el tráfico no autorizado y cada diseño de implen
 
 ### CONFIGURAR FIREWALL IPFIRE | VMware
 
-IPFire es una distribución de Linux basada en Debian cuya función principal es actuar como un firewall (cortafuegos) y también de router dentro de una red local, hace uso de IPtables para permitir o denegar el tráfico. IPFire se gestiona muy fácilmente con su interfaz web intuitiva sin necesidad entrar vía SSH , sino que desde el propio nevageador web. No requiere de altos requisitos y prácticamente se puede instalar en cualqueir ordenador actual, el rendimiento dependerá del hardware utilizado y de las reglas del firewall dependiendo de las necesidades.
+IPFire es una distribución de Linux basada en Debian cuya función principal es actuar como un firewall (cortafuegos) y también de router dentro de una red local, hace uso de IPtables para permitir o denegar el tráfico. IPFire se gestiona muy fácilmente con su interfaz web intuitiva sin necesidad entrar vía SSH , sino que desde el propio nevageador web. No requiere de altos requisitos y prácticamente se puede instalar en cualquier ordenador actual, el rendimiento dependerá del hardware utilizado y de las reglas del firewall dependiendo de las necesidades.
 
 Proporciona seguridad en entornos domésticos y pequeñas empresas, su facilidad de configurar previene de posibles intrusos en la red gracias a su sistema de IDS (Sistema de detección de intrusos). IPFire emplea un cortafuegos SPI (Stateful Packet Inspection) basado en IPtables, proporciona anchos de banda superiores a los 10Gbps. Con IPFire podemos configurar el firewall para mitigar y bloquear posibles ataques de denegación de servicio gracias a su interfaz gráfica de usuario, podremos crear host y redes para aplicarle reglas ordenadas. El firewall incorpora redes privadas virtuales para interconectar ubicaciones remotas a través de Internet de forma segura, entre las que se incluyen IPsec y OpenVPN; permitiendo que los usuarios puedan conectarse a ella de forma remota y segura gracias a que las comunicaciones permanecen cifradas de extremo a extremo. Además, otra de las características adicionales es la posibilidad de configurar un servidor Proxy e instalar extensiones populares. Esta basada en web, algunos de sus complementos y funciones adicionales son:
 
@@ -90,7 +90,7 @@ Nos devuelve un mensaje de que la instalación ha sido finalizada de manera exit
 
 ![8](https://user-images.githubusercontent.com/75953873/206938883-f4242e59-b5b7-4e48-9ee4-2c44d2433383.png)
 
-Al reiniciar el sistema, entramos a la segunda fase de instalación. Seleccionamos el lenguaje de nuestro teclado.
+Después de reiniciar el sistema entramos a la segunda fase de instalación. Seleccionamos el lenguaje de nuestro teclado.
 
 ![9](https://user-images.githubusercontent.com/75953873/206939209-b2da480e-09ae-48fc-9f98-2b779f56f9a9.png)
 
@@ -127,11 +127,11 @@ En mi caso voy a seleccionar verde y rojo. Luego tenemos que asignar a cada adap
 
 ![16](https://user-images.githubusercontent.com/75953873/206941296-c4f1104f-e7f7-408f-ba55-c823b227a640.png)
 
-A continuación configuramos el adaptador RED, que recordemos que es la conexión hacia el Internet.
+A continuación configuramos el adaptador RED que, recordemos que es la conexión hacia el Internet.
 
 ![17](https://user-images.githubusercontent.com/75953873/206941433-d23e7d81-708e-480d-8049-5df81ba19a71.png)
 
-Y el adaptador GREEN, que corresponde a la red interna, actuando así como puerta de enlace de nuestro entorno.
+Y el adaptador GREEN que corresponde a la red interna, actuando así como puerta de enlace de nuestro entorno.
 
 ![18](https://user-images.githubusercontent.com/75953873/206941591-c2df2dd2-87b5-4e2d-98df-4d0ad2a5a067.png)
 
@@ -139,7 +139,7 @@ Ya al haber identificado la dirección MAC de cada adaptador, podemos darle en f
 
 ![19](https://user-images.githubusercontent.com/75953873/206941659-9a65cfcd-ffdd-4b73-869e-2dee2b87a47d.png)
 
-Por último, configuramos la dirreción IP para cada interfaz. En la interfaz roja observarán que tenemos tres opciones a elegir, el modo estático es el más recomendado pero para ello nuestro proveedor de Internet nos tiene que entregar los parámetros de la red (dirección IP pública, máscara de red, enlace de salida y los DNS), el modo DHCP asigna de manera automática direcciones de protocolo de Internet (IP) a los equipo de la red, el modo PPP Dial-UP para una conexión a un modem o a una línea ADSL. Como hemos configurado el adaptador VMWare (ya sea por NAT también), será está la opción a escoger.
+Por último, configuramos la dirección IP para cada interfaz. En la interfaz roja observarán que tenemos tres opciones a elegir, el modo estático es el más recomendado pero para ello nuestro proveedor de Internet nos tiene que entregar los parámetros de la red (dirección IP pública, máscara de red, enlace de salida y los DNS), el modo DHCP asigna de manera automática direcciones de protocolo de Internet (IP) a los equipo de la red, el modo PPP Dial-UP para una conexión a un modem o a una línea ADSL. Como hemos configurado el adaptador VMWare (ya sea por NAT también), será está la opción a escoger.
 
 ![20](https://user-images.githubusercontent.com/75953873/206942415-7bbee8ba-9873-4264-bbf4-cee38cbd7d31.png)
 
@@ -151,7 +151,7 @@ Habilitamos el DHCP y configuramos el rango de inicio (**192.25.130.50**) y fina
 
 ![22](https://user-images.githubusercontent.com/75953873/206943449-1b127e15-a5f7-42a2-929c-90042a9a09bd.png)
 
-Se comenzará a incializar todos los servicios.
+Se comenzará a inicializar todos los servicios.
 
 ![23](https://user-images.githubusercontent.com/75953873/206943905-512a514a-0c03-4ba5-80b5-9367b69f3dd2.png)
 
@@ -179,9 +179,9 @@ Nos saldrá la página inicial de IPFire. Cabe recalcar que este firewall esta h
 
 El filtrado de contenido es un sistema empleado para bloquear contenido no deseado de páginas web, en redes públicas (escuelas, universidades) es muy útil para restringir el acceso a contenido explícito, violento, entre otros. Esta acción se lleva a cabo gracias al cumplimiento de dos listas y/o categorías:
 
-- **Lista Blanca**: Hace referencia a todos quellos dominios o URLs que son `permitidos` para los usuarios dentro de la misma red local.
+- **Lista Blanca**: Hace referencia a todos aquellos dominios o URLs que son `permitidos` para los usuarios dentro de la misma red local.
 
-- **Lista Negra**: Hace referencia a todos aquellos dominios o URLs que han sido `bloqueados` para los usuarios dentro de la misma red local.
+- **Lista Negra**: Hace referencia a todos aquellos dominios o URLs que son `bloqueados` para los usuarios dentro de la misma red local.
 
 - **Categorías**: Se basa en los filtros que proporciona dichas páginas para bloquear el contenido, es decir, palabras claves que le indiquemos.
 
@@ -205,7 +205,7 @@ Accedemos a la pestaña `Red` **->** `Web Proxy` y activamos las siguientes casi
 
 ![31](https://user-images.githubusercontent.com/75953873/207195835-67343d76-33ea-4aa8-9a5b-f4d3ee148677.png)
 
-A continuación, accedemos nuevamente a la pestaña `Red` **->** `Filtro de contenido` y activamos la casilla de Lista Negra. Dentro de la lista deben escribir todos los dominios o URLs que desean bloquear para aquellos clientes que estén contectados en el área local.
+A continuación, accedemos nuevamente a la pestaña `Red` **->** `Filtro de contenido` y activamos la casilla de Lista Negra. Dentro de la lista deben escribir todos los dominios o URLs que desean bloquear para aquellos clientes que estén conectados en el área local.
 
 ![32](https://user-images.githubusercontent.com/75953873/207196759-4b8fb22b-73a3-4838-99a8-92b07f3cf55f.png)
 
@@ -227,7 +227,7 @@ Luego de guardar los cambios y reiniciar, ingresan a `Logs` **->** `Registros de
 
 Una lista de bloqueos de IP es un sistema de filtrado implementado por el firewall para gestionar aquellas IP's maliciosas, es útil para identificar spammers y/o ciberdelincuentes que estén haciendo mal uso del recurso. Si una dirección IP termina en una lista de bloqueo, ya no puede acceder a la red. Por ejemplo, todos aquellos correos electrónicos que fueron enviados desde esa dirección IP bloqueada, rebotan y no llegan al destinatario.
 
-Por lo general, una dirección IP es bloqueada por su comportamiento ílicito, pero muchas veces se debe a que un atacante esté explotando maliciosamente la IP, o el cliente heredo una IP que ya estaba incluida en alguna lista de bloqueo de IP. Existen diversas razones por la que se agrega una IP a una lista de bloqueo, algunas de ellas son:
+Por lo general, una dirección IP es bloqueada por su comportamiento ilícito, pero muchas veces se debe a que un atacante esté explotando maliciosamente la IP, o el cliente heredo una IP que ya estaba incluida en alguna lista de bloqueo de IP. Existen diversas razones por la que se agrega una IP a una lista de bloqueo, algunas de ellas son:
 
 - **Spam**: abuso de límites de envío diarios.
 
@@ -253,17 +253,17 @@ Aunque la lista de bloqueo es una estrategia efectiva para restringir el acceso 
 
 - **Cambio de direcciones IP**: Para evitar ser incluidos en la lista de bloqueo, muchos atacantes siguen cambiando sus direcciones IP a través de un VPN o Proxy.
 
-- **Falsificación de IP:** Los atacantes pueden emplear la suplantación de IP para que parezca que están conectados a través de una dirección IP diferente en ataques de capa de red (por ejemplo, ataques DDoS). Esto les permite evitar ser incluidos en la lista negra mientras ocultan sus identidades.
+- **Falsificación de IP**: Los atacantes pueden emplear la suplantación de IP para que parezca que están conectados a través de una dirección IP diferente en ataques de capa de red (por ejemplo, ataques DDoS). Esto les permite evitar ser incluidos en la lista negra mientras ocultan sus identidades.
 
 - **Botnets**: Muchos atacantes utilizan miles o millones de dispositivos de usuario final o dispositivos de Internet de las cosas (IoT) en enormes botnets. Los atacantes hackean los dispositivos y obtienen el control de ellos, o alquilan una botnet. Esto le permtie al atacante asociarse de un ejército zombie de dispositivos dispuestos a atacar mediante ordenes.
 
 </br> 
 
-El motor de firewall permtie la fácil activación de varias listas de bloqueo públicas basadas en IP. Ingresan a la pestaña de `Firewall` **->** `IP Address Blocklists`.
+El motor de firewall permite la fácil activación de varias listas de bloqueo públicas basadas en IP. Ingresan a la pestaña de `Firewall` **->** `IP Address Blocklists`.
 
 ![36](https://user-images.githubusercontent.com/75953873/208311949-31ebcfe7-8c1f-4bed-87b1-95b211f84d56.png)
 
-Todas las listas que se observan se actualizan automáticamente y protegen de diversas amenazas. Las redes y direcciones IP que tienen mala reputación se encuentran en estas listas, sobre todo las que han sido involucradas con el alojamiento de delitos cibernéticos o simplemente no están asignadas. Algunas de las listas no es necesario que sean habilitadas ya que están incluidas en otras, tampoco se recomienda utilizar las listas de Tor si se está usando Tor. Cualquier tipo de amaenaza detectada a tiempo será registrada e informada en la pestaña `Firewall` **->** `IP Address Blocklists Logs`.
+Todas las listas que se observan se actualizan automáticamente y protegen de diversas amenazas. Las redes y direcciones IP que tienen mala reputación se encuentran en estas listas, sobre todo las que han sido involucradas con el alojamiento de delitos cibernéticos o simplemente no están asignadas. Algunas de las listas no es necesario que sean habilitadas ya que están incluidas en otras, tampoco se recomienda utilizar las listas de Tor si se está usando Tor. Cualquier tipo de amenaza detectada a tiempo será registrada e informada en la pestaña `Firewall` **->** `IP Address Blocklists Logs`.
 
 <p align="center">
   <img src="https://wiki.ipfire.org/configuration/firewall/ipblocklist/ip_address_blocklist_logs.png?s=920">
@@ -281,7 +281,7 @@ El protocolo SSH permite al usuario el acceso remoto con el servidor para realiz
 
 ![39](https://user-images.githubusercontent.com/75953873/208318715-68c688d0-d51d-418b-b726-8b626407bc8b.png)
 
-Habilitar el reenvío del agente SSH permite el uso de una clave SSH local privada de forma remota sin dejar datos confidenciales en el servidor. El reenvío de puertos TCP permite que otras aplicaciones TCP reenvíen sus datos de red a través de una conexión SSH segura. La autenticación basada en contraseña permite inciar sesión con con ID y contraseña para acceder a SSH. La autenticación basada en clave pública se útil para autenticar al servidor (hosts) y el cliente (usuario), el cifrado de clave pública utiliza llaves públicas y privadas para cifrar y descifrar datos; una de estas claves es pública y se puede distribuir libremente, mientras que la clave privada debe almacenarse en un lugar seguro. Los datos de está solo se puede descrifar con la clave pública y los datos cifrados con la clave pública sólo pueden descifrarse con la clave privada.
+Habilitar el reenvío del agente SSH permite el uso de una clave SSH local privada de forma remota sin dejar datos confidenciales en el servidor. El reenvío de puertos TCP permite que otras aplicaciones TCP reenvíen sus datos de red a través de una conexión SSH segura. La autenticación basada en contraseña permite inciar sesión con con ID y contraseña para acceder a SSH. La autenticación basada en clave pública se útil para autenticar al servidor (hosts) y el cliente (usuario), el cifrado de clave pública utiliza llaves públicas y privadas para cifrar y descifrar datos; una de estas claves es pública y se puede distribuir libremente, mientras que la clave privada debe almacenarse en un lugar seguro. Los datos de está solo se puede descifrar con la clave pública y los datos cifrados con la clave pública sólo pueden descifrarse con la clave privada.
 
 Acceder al servidor mediante SSH (puerto **22**):
 ```

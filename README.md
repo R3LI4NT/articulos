@@ -27,7 +27,7 @@
      - <sub>A nivel: **Ingeniería Social**</sub>
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/ING-SOCIAL/email_spoofing.md" target="_blank">Email Spoofing + Phishing [Facebook] fuera y dentro de LAN</a>
           
-          - <a href="#" target="_blank">Ataque SMishing con Python</a>
+          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/ING-SOCIAL/SMishing.md" target="_blank">Ataque SMishing con Python</a>
           
      - <sub>A nivel: **Web**</sub>
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/fileUpload.md" target="_blank">Explotar vulnerabilidad File Upload con Weevely + Burp Suite</a>

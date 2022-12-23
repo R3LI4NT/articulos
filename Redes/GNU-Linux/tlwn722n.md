@@ -104,7 +104,7 @@ Para este caso los controladores oficiales de aircrack quedarón inutilizable pa
 > sudo reboot
 > cd Desktop
 > cd rtl8188eus
-> sh -c "$(curl -fsSL https://raw.githubusercontent.com/KanuX-14/rtl8188eus/v5.3.9/build.sh)"
+> sh -c "$(curl -fsSL https://raw.githubusercontent.com/KanuX-14/rtl8188eus/master/scripts/build.sh)"
 ```
 
 </br>

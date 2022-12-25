@@ -40,6 +40,14 @@ Por último, contiene el parámetro "`-z`" el cual agrega una sobrescritura al f
 
 ![6](https://user-images.githubusercontent.com/75953873/179379711-a2069c48-fc2a-4f59-ad00-1602edfbc1a0.png)
 
+</br>
+
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
 
 
 #### ~R3LI4NT~

@@ -29,6 +29,14 @@ Así como el primero, también podemos seleccionar el algoritmo más bajo hasta 
 
 ![2](https://user-images.githubusercontent.com/75953873/179380342-49c78898-c22f-438e-b70c-d4fa94230f0f.png)
 
+</br>
+
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
 
 
 #### ~R3LI4NT~

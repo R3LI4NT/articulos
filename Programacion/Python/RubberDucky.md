@@ -279,14 +279,6 @@ Lo primero que hace es enumerar todas las redes de nuestro alrededor (incluyendo
 
 Los posibles efectos de este ataque son devastadores para cualquier empresa que no invierte en ciberseguridad. Los ataques de Rubber Ducky se aprovechan de la confianza del usuario (capa 8) para llevar a cabo el ataque, precisamente por eso se debe ser cuidadoso con conectar cualquier dispositivo desconocido en nuestro ordenador, o hacerlo en una máquina virtual de prueba. Por otra parte, existen herramientas como <a href="https://github.com/teamghsoftware/Beamgun">Beamgun</a> especializadas en monitorear dispositivos insertados. Cuando detecta uno, bloquea las pulsaciones de teclas de teclados falsos hasta su reinicio.
 
-<h1 align="center"></h1>
-
-</br>
-
-<h3 align="center"><ins>ADVERTENCIA<ins></h3>
-
-<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
-
 </br>
 
 <h1 align="center"></h1>

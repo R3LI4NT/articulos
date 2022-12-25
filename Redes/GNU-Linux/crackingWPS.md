@@ -142,6 +142,14 @@ Efectivamente, ahora tengo el control total del router y no solo puedo habilitar
 
 Ante todo, desactivar el sistema WPS desde la configuración del router o llamar al ISP en caso de que la opción no aparezca, solamente cuando haya demasiados usuarios queriéndose conectar a la red y la contraseña sea muy larga, entonces lo mejor es compartir el PIN. Utilizar el cifrado WPA/WPA2 para mayor protección y emplear una contraseña compleja con la combinación de caracteres como números, símbolos, frases, etc. A menudo es recomendable ejecutar un proceso de Hardening (endurecimiento) a nivel red inalámbrica para establecer medidas de seguridad con el objetivo de estar prevenidos ante un ataque informático, no solo a nivel red, sino también a sistema.
 
+</br>
+
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
 
 
 #### ~R3LI4NT~

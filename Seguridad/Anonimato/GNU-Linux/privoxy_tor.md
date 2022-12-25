@@ -92,6 +92,14 @@ En caso de que estén utilizando el entorno de escritorio de Gnome, pueden confi
 
 ![8](https://user-images.githubusercontent.com/75953873/184516873-25be5cbf-6d45-4766-8379-1b64b4c039b0.png)
 
+</br>
+
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
 
 
 #### ~R3LI4NT~

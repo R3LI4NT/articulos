@@ -112,6 +112,14 @@ Recomiendo que escondan la aplicación en una carpeta entre medio de otras aplic
 
 ![14](https://user-images.githubusercontent.com/75953873/183228723-4b16e0d8-8ccc-465f-9d62-ee1ba34daf47.jpg)
 
+</br>
+
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
 
 
 #### ~R3LI4NT~

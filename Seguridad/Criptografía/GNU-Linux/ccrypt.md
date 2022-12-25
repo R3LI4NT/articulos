@@ -52,7 +52,7 @@ ccrypt -c <archivo>
 ```
 ![5](https://user-images.githubusercontent.com/75953873/179381414-186f8f29-4144-4d4e-96b5-5dfee6b1c8f4.png)
 
-Ccrypt también incluye un menú de ayuda **-->** ccrypt --help
+Ccrypt también incluye un menú de ayuda **-->** `ccrypt --help`
 
 </br>
 

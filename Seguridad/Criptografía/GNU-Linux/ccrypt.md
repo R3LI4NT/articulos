@@ -54,6 +54,14 @@ ccrypt -c <archivo>
 
 Ccrypt también incluye un menú de ayuda **-->** ccrypt --help
 
+</br>
+
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
 
 
 #### ~R3LI4NT~

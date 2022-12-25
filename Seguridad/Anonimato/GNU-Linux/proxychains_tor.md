@@ -103,6 +103,14 @@ sudo proxychains nmap -p- --open -sS -sV -n -Pn <URL/IP>
 
 Para utilizar el proxy de por medio es preciso ejecutar antes proxychains seguido de la herramienta, así como tener el servicio Tor encendido. Un tip que les doy frente a un ataque cibernético es utilizar una IP del país enemigo que estén atacando; por ejemplo, supongamos que ataco una empresa de EE.UU, el FBI tiene la IP de donde provino el ataque pero por fortuna la geolocalizacion de esa IP esta en Irán (un país conflictivo con Estados Unidos), por lo tanto, las autoridades iraníes no revelarán ningúna información de la dirección IP que pueda revelar mi verdadera identidad, después de todo a ellos les favorece que un país enemigo este bajo ataque. ¿Se entiende lo que quiero decir?, países como Estonía, Afganistán, Siria, Yemen, etc donde la policía no puede entrar por sus conflictos políticos.
 
+</br>
+
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
 
 
 #### ~R3LI4NT~

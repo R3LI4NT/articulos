@@ -87,6 +87,14 @@ curl ifconfig.me && curl checkip.dyndns.org
 
 Lo más probable es que tu ancho de banda sea compartido con el resto de usuarios en internet para contribuir en el anonimato de estos, algunos servicios poco "confiables" se aprovechan de la ténica **Browser Hijacking** (secuestro del navegador) para redirigirte a sitios webs sin que tú lo hayas proporcionado (comparte similitud a DNS Spoofing). Otros servicios monitorean al tráfico del usuario y esté es guardado en sus servidores con la finalidad de vender la información personal de esté y ganar dinero sucio. Dependiendo del equipo de mantenimiento detrás del servicio, una mala configuración por parte de estos puede exponer la dirección IP pública del usuario, poniendo en riesgo su seguridad y privacidad. Es por eso que se recomienda leer las políticas de seguridad, centrarse en la reputación y comentarios de clientes, sí es de paga mucho mejor.
 
+</br>
+
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
 
 
 #### ~R3LI4NT~

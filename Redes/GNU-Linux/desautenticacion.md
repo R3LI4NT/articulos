@@ -133,6 +133,14 @@ mdk4 <INTERFAZ> d -S <MAC-CLIENTE>
 ```
 ![10](https://user-images.githubusercontent.com/75953873/181662651-c2858424-4bcf-40ff-b424-7a0fae2b194f.png)
 
+</br>
+
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
 
 
 #### ~R3LI4NT~

@@ -44,6 +44,14 @@ Volviendo al menú principal, en *Proxy Tools* podemos establecer un servidor pr
 
 ![7](https://user-images.githubusercontent.com/75953873/187049808-3669a66b-d9c2-4c0f-80f8-0ff57419768e.png)
 
+</br>
+
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
 
 
 #### ~R3LI4NT~

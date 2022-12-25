@@ -136,6 +136,14 @@ Otra forma de cambiar la dirección MAC en Windows es accediendo a **Administrad
 
 ![13](https://user-images.githubusercontent.com/75953873/185280599-5eb0f56d-9647-49f2-b29f-181a69f2a39a.png)
 
+</br>
+
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
 
 
 #### ~R3LI4NT~

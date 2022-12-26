@@ -9,8 +9,10 @@
 :mag_right: **CIBERSEGURIDAD** :lock:
 
 - [x] Reportes / Informes
+    - <sub>O.S: **GNU/Linux**</sub>
     
-         - <a href="#" target="_blank">Generar reportes con nmap-bootstrap/a>    
+         - <a href="#" target="_blank">Generar reportes de Nmap con nmap-bootstrap</a>
+
 </br>
 
 - [x] Firewalls

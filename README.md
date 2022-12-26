@@ -6,7 +6,7 @@
 
 </br>
 
-:mag_right: **CIBERSEGURIDAD** :lock:
+:lock: **CIBERSEGURIDAD** :lock:
 
 - [x] Reportes / Informes
     - <sub>O.S: **GNU/Linux**</sub>

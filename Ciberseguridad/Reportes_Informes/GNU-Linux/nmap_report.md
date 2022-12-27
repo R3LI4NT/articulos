@@ -4,4 +4,4 @@
 
 <h1 align="center"></h1>
 
-<h3 align="center"><ins>¿QUÉ ES Y PARA QUE SIRVE UN REPORTE TÉCNICO DE PENTEST?</ins></h3>
+<h3 align="center"><ins>¿QUÉ ES Y PARA QUE SIRVE UN REPORTE TÉCNICO DE UN PENTEST?</ins></h3>

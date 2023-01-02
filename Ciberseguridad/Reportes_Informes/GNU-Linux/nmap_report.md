@@ -8,14 +8,14 @@
 
 Un reporte de pentesting es un informe detallado donde se define un listado de acciones que se le recomienda al cliente de realizar. La elaboración del informe es de suma importancia luego de hacer una auditoría ya que en ella se refleja de forma clara los descubrimientos de vulnerabilidades y sus respectivos pasos de explotación. En el apartado del reporte se debe incluir varios aspectos: 
 
-- ▪ Mulnerabilidades encontradas.
+- Mulnerabilidades encontradas.
 
-- ▪ Metodología de explotación (exploits utilizados, scripts, pasos, etc).
+- Metodología de explotación (exploits utilizados, scripts, pasos, etc).
 
-- ▪ Máquinas o recursos vulnerados.
+- Máquinas o recursos vulnerados.
 
-- ▪ Criticidad (riesgo).
+- Criticidad (riesgo).
 
-- ▪ Usuarios afectados.
+- Usuarios afectados.
 
-- ▪ Conclusiones y recomendaciones.
+- Conclusiones y recomendaciones.

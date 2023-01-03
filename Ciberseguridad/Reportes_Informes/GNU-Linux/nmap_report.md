@@ -23,6 +23,6 @@ Un reporte de pentesting es un informe detallado donde se define un listado de a
 
 Las vulnerabilidades se pueden clasificar por dos tipos:
 
-- **Vulnerabilidad por tipo**: Enfocado a empresas mediana-grande que cuente con una cantidad considerable de activos (usuarios = equipos) en donde las vulnerabilidades se repitan y que permiten recolectar información confidencial para comprometer otros recursos. Para cada vulnerabilidad encontrada y explotada, se define su: _Nombre_, _Descripción detallada_, _Criticidad en la empresa_, _Clasificación_, _Número de ID en caso de que corresponda_.
+- **Vulnerabilidad por tipo**: Enfocado a empresas mediana-grande que cuente con una cantidad considerable de activos (usuarios = equipos) en donde las vulnerabilidades se repitan y que permiten recolectar información confidencial para comprometer otros recursos. Para cada vulnerabilidad encontrada y explotada, se define su: _Nombre_, _Descripción detallada_, _Criticidad en la empresa_, _Clasificación_, _Número de ID en caso de que corresponda_. Además, de forma detallada se debe incluir una breve descripción de los objetivos afectados, ya sea aplicación web, IP, puerto, URL, etc. Por último, para cada vulnerabilidad se debe proporcionar una prueba que valide la explotación, ya sea capturas de pantallas o el código del payload/exploit, así como también recomendaciones para mantener a la empresa prevenida de ataques similares.
 
 - **Vulnerabilidad por objetivo**:

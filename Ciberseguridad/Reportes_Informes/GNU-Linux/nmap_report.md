@@ -46,3 +46,19 @@ Gracias a la empresa <a href="https://www.offensive-security.com/">Offensive Sec
 </br>
 
 ### NMAP-Bootstrap
+
+Generalmente cuando escaneamos rangos de redes con muchos hosts, es recomendable hacerlo mediante un informe HTML. Es por eso que gracias al usuario <a href="https://github.com/honze-net">Andreas Hontzia</a> y su gran aportación a la herramienta <a href="https://nmap.org/">Nmap</a>, ha publicado una implementación de una plantilla XSL de nmap con Boostrap para obtener resultados bien estructurados.
+
+Primero que nada, agregamos el XSL de su repositorio con el siguiente comando:
+
+```
+nmap -sS -T4 -A -sC -oA scanme --stylesheet https://raw.githubusercontent.com/honze-net/nmap-bootstrap-xsl/master/nmap-bootstrap.xsl scanme.nmap.org scanme2.nmap.org
+```
+
+![1](https://user-images.githubusercontent.com/75953873/211124811-d34a8c86-d2a3-4ae9-b6b3-182bf96b4942.png)
+
+Podremos abrir el fichero scanme.xml con nuestro navegador o transformar el xml a html con xsltproc:
+
+```
+xsltproc -o scanme.html nmap-bootstrap.xsl scanme.xml
+```

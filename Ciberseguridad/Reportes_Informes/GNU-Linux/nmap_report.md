@@ -40,3 +40,7 @@ La importancia de un reporte o informe es fundamental para aquellos trabajadores
 Gracias a la empresa <a href="https://www.offensive-security.com/">Offensive Security</a>, creadores de BackTrack-Kali Linux, han liberado un libro electrónico de reporte que utilizan en sus test de penetración, se encuentra bien estructurado y contiene una base de los elementos que se debe mostrar en un reporte de este tipo.
 
 - https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf
+
+<h1 align="center"></h1>
+
+</br>

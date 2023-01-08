@@ -60,7 +60,7 @@ nmap -sS -T4 -A -sC -oA scanme --stylesheet https://raw.githubusercontent.com/ho
 Podremos abrir el fichero scanme.xml con nuestro navegador o transformar el xml a html con xsltproc:
 
 ```
-xsltproc -o scanme.html nmap-bootstrap.xsl scanme.xml
+xsltproc scanme.xml -o scanme.html
 ```
 
 Como verán a continuación, la información del escaneo se muestra detallada.
@@ -68,3 +68,13 @@ Como verán a continuación, la información del escaneo se muestra detallada.
 ![2](https://user-images.githubusercontent.com/75953873/211176236-0888ae1b-f1db-4399-a38e-c4dd8106c726.png)
 
 ![3](https://user-images.githubusercontent.com/75953873/211176263-f7e319ba-d7ad-41b4-b655-73fbf838b5fe.png)
+
+![4](https://user-images.githubusercontent.com/75953873/211176326-b4a07acf-5420-43fc-82de-7ba9ac1730cd.png)
+
+Es una herramienta muy útil que nos ayuda en la enumeración de hosts, puertos y servicios corriendo.
+
+<h1 align="center"></h1>
+
+</br>
+
+#### ~R3LI4NT~

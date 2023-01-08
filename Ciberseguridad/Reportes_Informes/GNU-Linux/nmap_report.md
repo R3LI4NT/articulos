@@ -65,7 +65,7 @@ xsltproc scanme.xml -o scanme.html
 
 Como verán a continuación, la información del escaneo se muestra detallada.
 
-![2](https://user-images.githubusercontent.com/75953873/211176236-0888ae1b-f1db-4399-a38e-c4dd8106c726.png)
+![2](https://user-images.githubusercontent.com/75953873/211176445-17c807e5-c18d-4c14-bad4-c638410d45c6.png)
 
 ![3](https://user-images.githubusercontent.com/75953873/211176263-f7e319ba-d7ad-41b4-b655-73fbf838b5fe.png)
 

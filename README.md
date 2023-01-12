@@ -104,11 +104,13 @@
   - `Anonimato y Privacidad:`
   
   - <sub>O.S: **GNU/Linux**</sub>
-    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/proxychains_tor.md" target="_blank">Configuración de Proxychains & Tor</a>
+    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/proxychains_tor.md" target="_blank">Configurar Proxychains & Tor</a>
     
-    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/privoxy_tor.md" target="_blank">Configuración de Privoxy & Tor</a>
+    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/privoxy_tor.md" target="_blank">Configurar Privoxy & Tor</a>
     
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/openvpn.md" target="_blank">Configurar una VPN con OpenVPN</a>
+    
+    - <a href="#" target="_blank">Configurar FoxyProxy/a>
 
   - <sub>O.S: **Windows**</sub>
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/Windows/proxyUltrasurf.md" target="_blank">Proxy Ultrasurf</a>

@@ -23,3 +23,7 @@ Su instalación es sencilla, basta con dirigirse a las extensiones de Firefox e 
 Es recomendable permitir que la extensión se ejecute en ventanas privadas (_Opciones_ **->** _Extensiones_ **->** _FoxyProxy_).
 
 ![2](https://user-images.githubusercontent.com/75953873/212215729-c57b191f-50d2-4ba6-9a65-7abcd43b6131.png)
+
+Dentro de los ajustes de FoxyProxy tendremos varias opciones, desde importar un nuevo proxy, configurar listas, ver registros, entre otras.
+
+![3](https://user-images.githubusercontent.com/75953873/212216304-33bd5865-6adb-4a7e-99a2-973a468aca29.png)

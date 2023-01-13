@@ -18,5 +18,8 @@ Su instalación es sencilla, basta con dirigirse a las extensiones de Firefox e 
 
 - https://addons.mozilla.org/es/firefox/addon/foxyproxy-standard/
 
-
 ![1](https://user-images.githubusercontent.com/75953873/212214528-62b6add9-fa9b-4cb3-8fa0-2fe3159308f1.png)
+
+Es recomendable permitir que la extensión se ejecute en ventanas privadas (_Opciones_ **->** _Extensiones_ **->** _FoxyProxy_).
+
+![2](https://user-images.githubusercontent.com/75953873/212215729-c57b191f-50d2-4ba6-9a65-7abcd43b6131.png)

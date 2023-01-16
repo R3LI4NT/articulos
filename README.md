@@ -110,7 +110,7 @@
     
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/openvpn.md" target="_blank">Configurar una VPN con OpenVPN</a>
     
-    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/FoxyProxy.md" target="_blank">Configurar FoxyProxy para Burp Suite</a>
+    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/GNU-Linux/FoxyProxy.md" target="_blank">Configurar FoxyProxy para Burp Suite con certificado SSL</a>
 
   - <sub>O.S: **Windows**</sub>
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Anonimato/Windows/proxyUltrasurf.md" target="_blank">Proxy Ultrasurf</a>

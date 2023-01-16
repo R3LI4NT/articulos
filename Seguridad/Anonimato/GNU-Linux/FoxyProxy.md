@@ -58,7 +58,7 @@ Para enmascar nuestra dirección IP pública podemos utilizar servicios gratuito
 
 ![10](https://user-images.githubusercontent.com/75953873/212580621-e12a0464-1445-432a-ba09-60caf5e40dc2.png)
 
-Crean un nuevo proxy y copian y pegan la IP **+** el Puerto.
+Crean un nuevo proxy y copian y pegan la `IP` **+** el `Puerto`.
 
 ![11](https://user-images.githubusercontent.com/75953873/212580729-73acc124-5ce3-4305-988e-59062946b74f.png)
 

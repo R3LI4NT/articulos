@@ -50,7 +50,7 @@ Una vez descargado el certificado solo quedaría importarlo desde el navegador, 
 
 ![8](https://user-images.githubusercontent.com/75953873/212577663-50c2b092-beaa-4bd4-aa39-1a842940335d.png)
 
-Finalmente ya se podría capturar el tráfico generado en sitios con servicios https (SSL).
+Finalmente ya se podría capturar el tráfico generado en sitios con servicios https (SSL). Gracias a herramientas de pentesting como Burp Suite, las peticiones HTTP que se producen entre el cliente y el servidor pueden ser capturadas y modificadas si así lo queremos.
 
 ![9](https://user-images.githubusercontent.com/75953873/212578614-3cc978f1-9e4e-48a2-a428-fd4427b7ced6.png)
 

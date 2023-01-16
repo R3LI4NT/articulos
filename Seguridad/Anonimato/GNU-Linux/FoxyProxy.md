@@ -54,7 +54,7 @@ Finalmente ya se podría capturar el tráfico generado en sitios con servicios h
 
 ![9](https://user-images.githubusercontent.com/75953873/212578614-3cc978f1-9e4e-48a2-a428-fd4427b7ced6.png)
 
-Para enmascar nuestra dirección IP pública podemos utilizar servicios gratuitos en Internet como lo es <a href="https://www.freeproxylists.net/">**FreeProxyList**</a>.
+Para enmascarar nuestra dirección IP pública podemos utilizar servicios gratuitos en Internet como lo es <a href="https://www.freeproxylists.net/">**FreeProxyList**</a>.
 
 ![10](https://user-images.githubusercontent.com/75953873/212580621-e12a0464-1445-432a-ba09-60caf5e40dc2.png)
 

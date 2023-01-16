@@ -54,6 +54,18 @@ Finalmente ya se podría capturar el tráfico generado en sitios con servicios h
 
 ![9](https://user-images.githubusercontent.com/75953873/212578614-3cc978f1-9e4e-48a2-a428-fd4427b7ced6.png)
 
+Para enmascar nuestra dirección IP pública podemos utilizar servicios gratuitos en Internet como lo es <a href="https://www.freeproxylists.net/">**FreeProxyList**</a>.
+
+![10](https://user-images.githubusercontent.com/75953873/212580621-e12a0464-1445-432a-ba09-60caf5e40dc2.png)
+
+Crean un nuevo proxy y copian y pegan la IP **+** el Puerto.
+
+![11](https://user-images.githubusercontent.com/75953873/212580729-73acc124-5ce3-4305-988e-59062946b74f.png)
+
+Por último, activan el proxy y chequean su IP.
+
+![12](https://user-images.githubusercontent.com/75953873/212580809-405f87b8-8440-4641-8064-8b7191360977.png)
+
 
 <h1 align="center"></h1>
 

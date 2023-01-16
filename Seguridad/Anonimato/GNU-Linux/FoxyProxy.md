@@ -52,6 +52,15 @@ Una vez descargado el certificado solo quedaría importarlo desde el navegador, 
 
 Finalmente ya se podría capturar el tráfico generado en sitios con servicios https (SSL).
 
-![9](https://user-images.githubusercontent.com/75953873/212578387-fccfea2f-2b5f-431d-9272-460e97ce11db.png)
+![9](https://user-images.githubusercontent.com/75953873/212578614-3cc978f1-9e4e-48a2-a428-fd4427b7ced6.png)
 
 
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
+
+
+#### ~R3LI4NT~

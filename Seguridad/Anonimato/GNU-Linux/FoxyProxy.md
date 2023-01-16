@@ -35,3 +35,7 @@ Añadiremos un nuevo proxy y lo configuramos como se ve en la imagen. El tipo de
 ![3](https://user-images.githubusercontent.com/75953873/212576414-3a011bfa-f22a-4bb5-bcdf-37442e2befab.png)
 
 ![4](https://user-images.githubusercontent.com/75953873/212576576-1c1b61a2-67f0-4934-afa8-7c6f0ad85108.png)
+
+Burp Suite escucha por defecto el puerto `8080`, para configurarlo debemos acceder «**Proxy**» **->** «**Options**».
+
+![5](https://user-images.githubusercontent.com/75953873/212576929-0c32f9eb-f5a4-4102-8c1f-3d265394e81a.png)

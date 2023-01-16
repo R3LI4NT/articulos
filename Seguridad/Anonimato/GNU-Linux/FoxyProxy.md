@@ -39,3 +39,19 @@ Añadiremos un nuevo proxy y lo configuramos como se ve en la imagen. El tipo de
 Burp Suite escucha por defecto el puerto `8080`, para configurarlo debemos acceder «**Proxy**» **->** «**Options**».
 
 ![5](https://user-images.githubusercontent.com/75953873/212576929-0c32f9eb-f5a4-4102-8c1f-3d265394e81a.png)
+
+De esta forma nos ahorramos de configurar manualmente el proxy desde las preferencias del navegador. Ahora bien, para no presentar problemas con los sitios cifrados (con certificado SSL), tenemos que instalar el certificado SSL de Burp Suite desde la IP localhost (http://127.0.0.1:8080). Antes que nada, asegurarse de tener el botón de interceptar activado (ON).
+
+![6](https://user-images.githubusercontent.com/75953873/212577326-76b5d35e-1dc1-4d8f-b57e-834e882e7d7a.png)
+
+![7](https://user-images.githubusercontent.com/75953873/212577399-9251c23d-a4a2-4ec1-9024-ab898c8de268.png)
+
+Una vez descargado el certificado solo quedaría importarlo desde el navegador, para ello nos dirigimos a «**Preferencias**» **->** «**Certificados**» **->** «**Ver Certificados**» **->** «**Importar**» y activan la primera casilla (_Trust this CA to identify websites_).
+
+![8](https://user-images.githubusercontent.com/75953873/212577663-50c2b092-beaa-4bd4-aa39-1a842940335d.png)
+
+Finalmente ya se podría capturar el tráfico generado en sitios con servicios https (SSL).
+
+![9](https://user-images.githubusercontent.com/75953873/212578387-fccfea2f-2b5f-431d-9272-460e97ce11db.png)
+
+

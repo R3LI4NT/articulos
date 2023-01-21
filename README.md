@@ -43,7 +43,7 @@
           
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/LocalFileInclusion.md" target="_blank">Ataque de Local File Inclusion (LFI)</a>
           
-          - <a href="#" target="_blank">Ataque de Directorio Transversal / Path Traversal</a>
+          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/pathTraversal.md" target="_blank">Ataque de Directorio Transversal / Path Traversal</a>
 
 </br>
 

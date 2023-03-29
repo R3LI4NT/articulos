@@ -21,3 +21,9 @@ Dicho lo anterior, ARP es un protocolo sumamente importante pero que en ocasione
 <p align="center">
   <img src="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/img/ARP_Spoofing.png">
 </p>
+
+<h1 align="center"></h1>
+
+### Ataque ARP Spoofing a Windows 10 | Manual
+
+El siguiente ejercicio práctico que se vera a continuación es cómo realizar un ataque ARP Spoofing a un sistema Windows desde nuestro laboratorio hacking (Kali Linux), cambiando la dirección MAC de la víctima y poder leer o enviar paquetes hacia su equipo pasando antes por nuestro atacante.

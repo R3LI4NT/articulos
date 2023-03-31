@@ -43,3 +43,10 @@ route -n
 ![1](https://user-images.githubusercontent.com/75953873/229241674-7c33df54-fd21-4414-b339-c3bef833dc17.png)
 
 
+Seguidamente debemos reconocer la dirección IP privada de nuestra víctima (en mi caso un dispositivo con Windows 10). Para ello, podemos hacer uso de varias herramientas que viene instaladas por defecto, por ejemplo, Netdiscover.
+
+```
+netdiscover -i wlan0 -r 192.168.1/24
+```
+
+![2](https://user-images.githubusercontent.com/75953873/229242160-1e7b526f-4b1a-43c9-b636-013ca01d06d3.png)

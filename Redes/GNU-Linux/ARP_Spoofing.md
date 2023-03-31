@@ -62,3 +62,9 @@ arpspoof -i wlan0 -t 192.168.1.8 192.168.1.1
 - **-t**: IP privada de la víctima (tráfico a interceptar).
 
 ![3](https://user-images.githubusercontent.com/75953873/229243937-50f84ca2-e064-4302-b258-1065b90a43c7.png)
+
+En la imagen anterior se observa como el tráfico del dispositivo Windows fue interceptado para que primero pase por mi máquina atacante y luego redireccionado al Gateway. Ahora, abrimos otra terminal (sin cerrar la primera) y ejecutamos el mismo comando pero viceversa, es decir, capturar el tráfico del Gateway (respuesta) que va dirigido a la víctima.
+
+```
+arpspoof -i wlan0 -t 192.168.1.1 192.168.1.8
+```

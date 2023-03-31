@@ -50,3 +50,15 @@ netdiscover -i wlan0 -r 192.168.1/24
 ```
 
 ![2](https://user-images.githubusercontent.com/75953873/229242160-1e7b526f-4b1a-43c9-b636-013ca01d06d3.png)
+
+Lo que haremos a continuación es interceptar el tráfico del dispositivo Windows 10 (192.168.1.8), de modo que, el tráfico pase por nosotros y éste pase al Gateway (192.168.1.1) y viceversa. Ejecutamos el siguiente comando:
+
+```
+arpspoof -i wlan0 -t 192.168.1.8 192.168.1.1
+```
+
+- **-i**: Especificar la interfaz de red.
+
+- **-t**: IP privada de la víctima (tráfico a interceptar).
+
+![3](https://user-images.githubusercontent.com/75953873/229243937-50f84ca2-e064-4302-b258-1065b90a43c7.png)

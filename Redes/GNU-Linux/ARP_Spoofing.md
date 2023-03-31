@@ -27,3 +27,19 @@ Dicho lo anterior, ARP es un protocolo sumamente importante pero que en ocasione
 ### Ataque ARP Spoofing a Windows 10 | Manual
 
 El siguiente ejercicio práctico que se vera a continuación es cómo realizar un ataque ARP Spoofing a un sistema Windows desde nuestro laboratorio hacking (Kali Linux), cambiando la dirección MAC de la víctima y poder leer o enviar paquetes hacia su equipo pasando antes por nuestro atacante.
+
+Desde nuestra máquina atacante debemos tener instalada la herramienta **ArpSpoof** de la suite Dsniff.
+
+**_Instalar en Debian:_**
+```
+sudo apt-get install dsniff
+```
+
+El primer paso es conocer la dirección IP de nuestro Gateway. Para esto, ejecutar el siguiente comando:
+```
+route -n
+```
+
+![1](https://user-images.githubusercontent.com/75953873/229241674-7c33df54-fd21-4414-b339-c3bef833dc17.png)
+
+

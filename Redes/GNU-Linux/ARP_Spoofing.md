@@ -70,3 +70,27 @@ arpspoof -i wlan0 -t 192.168.1.1 192.168.1.4
 ```
 
 ![4](https://user-images.githubusercontent.com/75953873/230746390-aefc5695-aa14-4c9e-b998-633d01b52974.png)
+
+Con lo anterior realizado ya estaría ejecutandose el ataque ARP Spoofing, y lo que podemos hacer luego es abrir Wireshark y sniffear el tráfico proveniente de la IP víctima (192.168.1.4) mediante filtros. Por ejemplo, el filtro `ip.addr == 192.168.1.4`, `arp`, `http`, etc.
+
+![6](https://user-images.githubusercontent.com/75953873/230746710-f365c6c6-86f1-4cd8-adfe-f2dd3bc5cac2.png)
+
+<h1 align="center"></h1>
+
+</br>
+
+### PREVENIR LOCAL FILE INCLUSION
+
+asas
+
+</br>
+
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
+
+
+#### ~R3LI4NT~

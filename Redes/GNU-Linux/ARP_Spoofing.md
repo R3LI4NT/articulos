@@ -79,9 +79,12 @@ Con lo anterior realizado ya estaría ejecutandose el ataque ARP Spoofing, y lo 
 
 </br>
 
-### PREVENIR LOCAL FILE INCLUSION
+### EVITAR ATAQUES ARP SPOOFING
 
-asas
+Estos ataques son muy peligrosos, más aún para empresas ya que manejan información confidencial que viajan en la red y que los atacantes pueden interceptar. Todo esto se puede evitar implementando medidas de seguridad como firewalls, autenticación, sistema de detección de intrusos, sistema de cifrado, entre otras recomendadas. Existen herramientas gratuitas que permiten monitorear el tráfico LAN (Ethernet) como lo es ArpWatch o/y ArpAlert, esto nos permite controlar que dispositivos hay conectados y su actividad en la red.
+
+Para reducir el impacto del ataque lo que se suele hacer es subdividr la red en varias partes el número de host. Esto evita que, en caso de que haya un ataque en un empresa por parte de un usuario malintencionado, solo afecte a una cierta parte y no a toda la red global. Lo útilmo y más importante, proteger las redes adecuadamente con contraseñas complejas y agregar filtrado de listas si es preciso, los ataques intermediarios necesita una brecha de seguridad y que mejor que el error humano.
+
 
 </br>
 

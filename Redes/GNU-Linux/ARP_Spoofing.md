@@ -68,3 +68,5 @@ En la imagen anterior se observa como el tráfico del dispositivo Android fue in
 ```
 arpspoof -i wlan0 -t 192.168.1.1 192.168.1.4
 ```
+
+![4](https://user-images.githubusercontent.com/75953873/230746390-aefc5695-aa14-4c9e-b998-633d01b52974.png)

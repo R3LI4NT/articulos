@@ -43,18 +43,18 @@ route -n
 ![1](https://user-images.githubusercontent.com/75953873/229241674-7c33df54-fd21-4414-b339-c3bef833dc17.png)
 
 
-Seguidamente debemos reconocer la dirección IP privada de nuestra víctima (en mi caso un dispositivo con Windows 10). Para ello, podemos hacer uso de varias herramientas que viene instaladas por defecto, por ejemplo, Netdiscover.
+Seguidamente debemos reconocer la dirección IP privada de nuestra víctima (en mi caso un dispositivo Android). Para ello, podemos hacer uso de varias herramientas que viene instaladas por defecto, por ejemplo, Netdiscover.
 
 ```
 netdiscover -i wlan0 -r 192.168.1/24
 ```
+![2](https://user-images.githubusercontent.com/75953873/230746245-726156f1-a7ca-4f24-b6a6-cd371f0ff29b.png)
 
-![2](https://user-images.githubusercontent.com/75953873/229242160-1e7b526f-4b1a-43c9-b636-013ca01d06d3.png)
 
-Lo que haremos a continuación es interceptar el tráfico del dispositivo Windows 10 (192.168.1.8), de modo que, el tráfico pase por nosotros y éste pase al Gateway (192.168.1.1) y viceversa. Ejecutamos el siguiente comando:
+Lo que haremos a continuación es interceptar el tráfico del dispositivo Android (192.168.1.4), de modo que, el tráfico pase por nosotros y éste pase al Gateway (192.168.1.1) y viceversa. Ejecutamos el siguiente comando:
 
 ```
-arpspoof -i wlan0 -t 192.168.1.8 192.168.1.1
+arpspoof -i wlan0 -t 192.168.1.4 192.168.1.1
 ```
 
 - **-i**: Especificar la interfaz de red.
@@ -63,8 +63,8 @@ arpspoof -i wlan0 -t 192.168.1.8 192.168.1.1
 
 ![3](https://user-images.githubusercontent.com/75953873/229243937-50f84ca2-e064-4302-b258-1065b90a43c7.png)
 
-En la imagen anterior se observa como el tráfico del dispositivo Windows fue interceptado para que primero pase por mi máquina atacante y luego redireccionado al Gateway. Ahora, abrimos otra terminal (sin cerrar la primera) y ejecutamos el mismo comando pero viceversa, es decir, capturar el tráfico del Gateway (respuesta) que va dirigido a la víctima.
+En la imagen anterior se observa como el tráfico del dispositivo Android fue interceptado para que primero pase por mi máquina atacante y luego redireccionado al Gateway. Ahora, abrimos otra terminal (sin cerrar la primera) y ejecutamos el mismo comando pero viceversa, es decir, capturar el tráfico del Gateway (respuesta) que va dirigido a la víctima.
 
 ```
-arpspoof -i wlan0 -t 192.168.1.1 192.168.1.8
+arpspoof -i wlan0 -t 192.168.1.1 192.168.1.4
 ```

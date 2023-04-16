@@ -38,7 +38,7 @@
           
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/ING-SOCIAL/SMishing.md" target="_blank">Ataque SMishing con Python</a>
           
-          - <a href="#" target="_blank">Guía Doxing y OSINT</a>
+          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/ING-SOCIAL/Doxing_OSINT.md" target="_blank">Guía Doxing y OSINT</a>
           
      - <sub>A nivel: **Web**</sub>
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/fileUpload.md" target="_blank">Explotar vulnerabilidad File Upload con Weevely + Burp Suite</a>

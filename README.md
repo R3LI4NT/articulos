@@ -6,7 +6,6 @@
 
 </br>
 
-**TOTAL ARTPÍCULOS:** 36
 
 :lock: **CIBERSEGURIDAD** :lock:
 

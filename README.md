@@ -96,7 +96,6 @@
      
 </br>
 
--
   - `Forense:`
   
   - <sub>O.S: **GNU/Linux**</sub>
@@ -108,7 +107,7 @@
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Forense/Windows/bitkiller_shredder.md" target="_blank">Borrado de datos seguro en Windows, AntiForense</a>
 
 </br>        
--
+
   - `Esteganografía:`
   
   - <sub>O.S: **GNU/Linux**</sub>
@@ -119,7 +118,7 @@
        - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Esteganograf%C3%ADa/Windows/DeepSound.md" target="_blank">Ocultar archivos secretos en una pista de audio</a>
        
 </br>
--
+
   - `Anonimato y Privacidad:`
   
   - <sub>O.S: **GNU/Linux**</sub>

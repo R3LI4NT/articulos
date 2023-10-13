@@ -84,7 +84,7 @@
 </br>
 
 - [x] Seguridad
-    - `Criptografía:`
+ - `Criptografía:`
      
      - <sub>O.S: **GNU/Linux**</sub>
     

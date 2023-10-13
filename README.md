@@ -100,11 +100,11 @@
   
   - <sub>O.S: **GNU/Linux**</sub>
 
-    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Criptograf%C3%ADa/GNU-Linux/shred.md" target="_blank">Borrado de datos seguro en GNU / Linux, AntiForense</a>
+    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Forense/GNU-Linux/shred.md" target="_blank">Borrado de datos seguro en GNU / Linux, AntiForense</a>
         
   - <sub>O.S: **Windows**</sub>
 
-    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Criptograf%C3%ADa/Windows/bitkiller_shredder.md" target="_blank">Borrado de datos seguro en Windows, AntiForense</a>
+    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Forense/Windows/bitkiller_shredder.md" target="_blank">Borrado de datos seguro en Windows, AntiForense</a>
 
         
 -

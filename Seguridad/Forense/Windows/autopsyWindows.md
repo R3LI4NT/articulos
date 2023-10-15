@@ -96,9 +96,11 @@ Como pueden observar, los archivos fueron guardados exitosamente.
 
 ![10](https://github.com/R3LI4NT/articulos/assets/75953873/b4a24bd8-e306-4350-af58-6c03c324c21b)
 
-Ahora bien, si quisieramos recuperar información del disco local C de Windows debemos seleccionar "Logical Files". 
+Ahora bien, si quisieramos recuperar información del disco local C de Windows debemos escoger "Logical Files". 
 
 ![11](https://github.com/R3LI4NT/articulos/assets/75953873/8aabf112-6d07-49a7-a7e6-bee483c0132d)
+
+Luego seleccionan el disco C o D.
 
 ![12](https://github.com/R3LI4NT/articulos/assets/75953873/bdc1ded4-af3a-4360-8842-9543a44dcc80)
 

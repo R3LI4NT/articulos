@@ -100,7 +100,7 @@ Ahora bien, si quisieramos recuperar información del disco local C de Windows d
 
 ![11](https://github.com/R3LI4NT/articulos/assets/75953873/8aabf112-6d07-49a7-a7e6-bee483c0132d)
 
-Luego seleccionan el disco C o D.
+Luego seleccionan el disco C/D o carpeta.
 
 ![12](https://github.com/R3LI4NT/articulos/assets/75953873/bdc1ded4-af3a-4360-8842-9543a44dcc80)
 

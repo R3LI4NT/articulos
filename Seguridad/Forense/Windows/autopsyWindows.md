@@ -35,3 +35,19 @@ El proceso de identificación en la investigación forense de dispositivos tecno
 <h1 align="center"></h1>
 
 ### AUTOPSY
+
+Autopsy es una herramienta de código abierto ampliamente utilizada en el campo de la informática forense. A continuación le proporciono una descripción general de Autopsia y sus características clave:
+
+- _Análisis forense de discos:_ Autopsy es capaz de examinar discos duros, unidades USB, tarjetas de memoria y otros dispositivos de almacenamiento para recuperar datos y realizar análisis forenses.
+
+- _Interfaz de usuario amigable:_ Autopsy ofrece una interfaz gráfica de usuario que facilita la navegación y el uso de las funciones de la herramienta, lo que la hace adecuada tanto para expertos en informática forense como para personas con menos experiencia en el campo.
+
+- _Análisis de la memoria:_ Puede realizar análisis de volcado de memoria, lo que le permitirá examinar la actividad del sistema en tiempo real y recuperar datos e información relevantes.
+
+- _Generación de informes:_ Autopsia le permite crear informes detallados de las investigaciones forenses realizadas.
+
+- _Soporte para casos multiusuario:_ Autopsia le permite trabajar en casos forenses que involucran a varios usuarios, lo que resulta útil para investigaciones más amplias.
+
+Es importante tener en cuenta que Autopsy es una herramienta gratuita y de código abierto que la comunidad informática forense desarrolla y mejora constantemente. Se encuentra disponible tanto para Windows, Linux como MacOS
+
+**➤ Descargar:** https://www.autopsy.com/download/

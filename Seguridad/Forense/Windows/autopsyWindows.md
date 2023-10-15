@@ -104,5 +104,7 @@ Luego seleccionan el disco C/D o carpeta.
 
 ![12](https://github.com/R3LI4NT/articulos/assets/75953873/bdc1ded4-af3a-4360-8842-9543a44dcc80)
 
+El contenido del disco local C en un sistema Windows puede variar significativamente de una computadora a otra. La cantidad de información almacenada en el disco local C depende de varios factores, como el uso que se le haya dado a la computadora, las aplicaciones instaladas, los archivos personales y el sistema operativo en sí. Por lo tanto, es normal que tarde en analizar y recuperar información.
+
 ![13](https://github.com/R3LI4NT/articulos/assets/75953873/828e340b-de28-4f5f-b553-41d9f4c63db1)
 

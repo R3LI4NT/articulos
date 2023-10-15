@@ -106,7 +106,7 @@
 
     - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Forense/Windows/bitkiller_shredder.md" target="_blank">Borrado de datos seguro en Windows, AntiForense</a>
 
-    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Forense/Windows/autopsyWindows.md" target="_blank">Recuperar archivos borrados en Windows con Autopsy</a>
+    - <a href="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Forense/Windows/autopsyWindows.md" target="_blank">Recuperar archivos borrados en Windows o memoria externa con Autopsy</a>
 
 </br>        
 

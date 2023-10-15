@@ -88,7 +88,7 @@ Una vez que haya terminado el análisis de recuperación, Autopsy muestra la inf
 
 ![8](https://github.com/R3LI4NT/articulos/assets/75953873/3aaa35f1-7f03-4606-af37-82ee02cddb67)
 
-Pueden seleccionar todos los archivos y extraerlos.
+Pueden seleccionar los archivos y extraerlos.
 
 ![9](https://github.com/R3LI4NT/articulos/assets/75953873/6fcdf0bf-7dc7-42f9-a230-db2e38912577)
 

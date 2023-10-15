@@ -4,6 +4,16 @@
 
 <h1 align="center"></h1>
 
+<h3 align="center">¿QUÉ ES LA INFORMÁTICA FORENSE'?</h3>
+
 La informática forense es una disciplina que se centra en la recopilación, preservación, análisis y presentación de pruebas electrónicas en casos legales o investigaciones relacionadas con delitos cibernéticos de manera que estas evidencias sean aceptables durante un procedimiento legal o administrativo en un juzgado. Está especialmente centrada en los delitos cometidos mediante dispositivos de computación, como redes, ordenadores y medios de almacenamiento digital.
 
 El proceso de identificación en la investigación forense de dispositivos tecnológicos implica la búsqueda de evidencias. Antes de examinar los datos, se deben hacer copias maestras de los archivos relevantes para no alterar las pruebas. Se utilizan dispositivos especiales que permiten copiar archivos a alta velocidad, incluso aquellos cifrados. Una vez que se tienen las copias, se procede al examen de los datos, incluyendo la recuperación de datos eliminados y la apertura de archivos encriptados. Se utilizan software especializado para optimizar la búsqueda, pero estos programas suelen ser costosos y con licencias restrictivas. Después de identificar las pruebas y recopilar la información, se pasa a la preservación de las pruebas, siguiendo procedimientos legalmente aceptables si se presentarán ante un juez. Esto requiere que un perito informático siga las normas del proceso legal. La tercera etapa implica el análisis de los datos obtenidos y preservados, donde el investigador forense toma una posición dictaminante sobre los resultados. Por último, el perito defiende su peritaje ante el juzgado. En resumen, el proceso forense de dispositivos tecnológicos involucra la identificación, examen, preservación, análisis y presentación de evidencias digitales en un entorno legal.
+
+### Procesos en informática forense
+
+- **Adquisición de pruebas:** Recopilación de datos de dispositivos y sistemas sin modificarlos. Se busca preservar la integridad de las pruebas.
+
+- **Análisis de pruebas:** Examinar los datos recopilados en busca de evidencia relevante. Esto puede incluir el desciframiento de contraseñas, la recuperación de archivos eliminados y la identificación de actividades maliciosas.
+
+- **Presentación de pruebas:** La información recopilada y analizada se presenta de manera legalmente aceptable en un tribunal. Esto puede implicar la preparación de informes periciales y la participación en testimonios como testigo experto.

@@ -51,3 +51,7 @@ Autopsy es una herramienta de código abierto ampliamente utilizada en el campo 
 Es importante tener en cuenta que Autopsy es una herramienta gratuita y de código abierto que la comunidad informática forense desarrolla y mejora constantemente. Se encuentra disponible tanto para Windows, Linux como MacOS
 
 **➤ Descargar:** https://www.autopsy.com/download/
+
+![1](https://github.com/R3LI4NT/articulos/assets/75953873/af66631f-5123-43a7-9230-b3ca729b3b10)
+
+Para esta practica

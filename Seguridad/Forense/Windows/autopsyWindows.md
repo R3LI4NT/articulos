@@ -17,3 +17,13 @@ El proceso de identificación en la investigación forense de dispositivos tecno
 - **Análisis de pruebas:** Examinar los datos recopilados en busca de evidencia relevante. Esto puede incluir el desciframiento de contraseñas, la recuperación de archivos eliminados y la identificación de actividades maliciosas.
 
 - **Presentación de pruebas:** La información recopilada y analizada se presenta de manera legalmente aceptable en un tribunal. Esto puede implicar la preparación de informes periciales y la participación en testimonios como testigo experto.
+
+### Tipos de informática forense
+
+- **Sistemas Operativos:** Esta rama se centra en recuperar información relevante del sistema operativo de un dispositivo. Su objetivo principal es adquirir evidencia contra ciberdelincuentes. En este proceso, se investigan los registros del sistema, archivos, registros de actividades y otros datos relacionados con la operación del sistema operativo.
+
+- **Redes:** La informática forense de redes implica recopilar, monitorear y analizar las actividades de una red con el fin de descubrir el origen de ataques, virus o violaciones de seguridad. Se utiliza para identificar tráfico sospechoso y prevenir futuros ataques a la red.
+
+- **Dispositivos Móviles:** Esta área se enfoca en recuperar evidencia digital o datos de dispositivos móviles como teléfonos inteligentes y tabletas. Los investigadores forenses de dispositivos móviles extraen información como mensajes de texto, registros de llamadas, fotos, videos y datos de aplicaciones para su uso en investigaciones legales.
+
+- **Cloud (Nube):** La informática forense en la nube implica la combinación de la computación en la nube y el análisis forense digital. Los investigadores se centran en recuperar datos almacenados en servicios en la nube, como correos electrónicos, archivos y registros de actividades, para su uso en investigaciones legales.

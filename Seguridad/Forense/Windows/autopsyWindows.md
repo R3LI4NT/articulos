@@ -108,3 +108,4 @@ El contenido del disco local C en un sistema Windows puede variar significativam
 
 ![13](https://github.com/R3LI4NT/articulos/assets/75953873/828e340b-de28-4f5f-b553-41d9f4c63db1)
 
+En conclusión, la informática forense y la herramienta Autopsy desempeñan un papel fundamental en la investigación de delitos cibernéticos y la recuperación de datos. Proporcionan las capacidades necesarias para preservar la integridad de la evidencia digital, analizarla de manera efectiva y presentarla de manera convincente en procesos legales.

@@ -4,7 +4,7 @@
 
 <h1 align="center"></h1>
 
-<h3 align="center">¿QUÉ ES LA INFORMÁTICA FORENSE'?</h3>
+<h3 align="center">¿QUÉ ES LA INFORMÁTICA FORENSE?</h3>
 
 La informática forense es una disciplina que se centra en la recopilación, preservación, análisis y presentación de pruebas electrónicas en casos legales o investigaciones relacionadas con delitos cibernéticos de manera que estas evidencias sean aceptables durante un procedimiento legal o administrativo en un juzgado. Está especialmente centrada en los delitos cometidos mediante dispositivos de computación, como redes, ordenadores y medios de almacenamiento digital.
 

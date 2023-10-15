@@ -27,3 +27,7 @@ El proceso de identificación en la investigación forense de dispositivos tecno
 - **Dispositivos Móviles:** Esta área se enfoca en recuperar evidencia digital o datos de dispositivos móviles como teléfonos inteligentes y tabletas. Los investigadores forenses de dispositivos móviles extraen información como mensajes de texto, registros de llamadas, fotos, videos y datos de aplicaciones para su uso en investigaciones legales.
 
 - **Cloud (Nube):** La informática forense en la nube implica la combinación de la computación en la nube y el análisis forense digital. Los investigadores se centran en recuperar datos almacenados en servicios en la nube, como correos electrónicos, archivos y registros de actividades, para su uso en investigaciones legales.
+
+<p align="center">
+   <img src="https://github.com/R3LI4NT/articulos/blob/main/Seguridad/Forense/img/Informatica_Forense.png">
+</p>

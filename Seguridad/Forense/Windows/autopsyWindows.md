@@ -60,7 +60,7 @@ Usuario único (Single-User): en este modo, la autopsia se utiliza individualmen
 
 Multiusuario (Multi-User): en el modo "Multiusuario", Autopsia permite que varios investigadores forenses colaboren en el mismo caso.
 
-![2](https://github.com/R3LI4NT/articulos/assets/75953873/5cab67f5-d942-4522-8abc-3456100908d5)
+![2](https://github.com/R3LI4NT/articulos/assets/75953873/77ff2329-7291-49c2-b0f5-ed1287a2964d)
 
 Luego nos pide que rellenemos la información solicitada (opcional), esto es útil para los investigadores forenses al momento de presentar las pruebas ante un tribunal o peritaje informático.
 

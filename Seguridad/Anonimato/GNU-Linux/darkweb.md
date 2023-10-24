@@ -27,7 +27,10 @@ Las características clave de la red oscura incluyen:
 
 Algunos usuarios lo utilizan por razones legítimas de privacidad y seguridad, especialmente en países con severa censura o vigilancia en línea. Es imperativo priorizar la seguridad en línea y mantener estándares éticos al utilizar estos servicios ocultos.
 
-<a href="#" align="center">
-<img src="https://raw.githubusercontent.com/R3LI4NT/articulos/main/Seguridad/Anonimato/GNU-Linux/img/icebergWeb.png"></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/R3LI4NT/articulos/main/Seguridad/Anonimato/GNU-Linux/img/icebergWeb.png">
+</p>
 
-</br>
+Si desean saber más acerca de la Deep Web, les recomiendo leer mi revista llamada "<a href="https://github.com/R3LI4NT/Deep-Web">**Deep Web: El otro lado de Internet**</a>". No solamente cuento anécdotas, al final de la revista enseño como entrar de forma anónima y segura.
+
+<h1 align="center"></h1>

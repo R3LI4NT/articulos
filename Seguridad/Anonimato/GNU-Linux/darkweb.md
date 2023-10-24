@@ -27,3 +27,7 @@ Las características clave de la red oscura incluyen:
 
 Algunos usuarios lo utilizan por razones legítimas de privacidad y seguridad, especialmente en países con severa censura o vigilancia en línea. Es imperativo priorizar la seguridad en línea y mantener estándares éticos al utilizar estos servicios ocultos.
 
+<a href="#" align="center">
+<img src="https://raw.githubusercontent.com/R3LI4NT/articulos/main/Seguridad/Anonimato/GNU-Linux/img/icebergWeb.png"></a>
+
+</br>

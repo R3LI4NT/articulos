@@ -34,3 +34,22 @@ Algunos usuarios lo utilizan por razones legítimas de privacidad y seguridad, e
 Si desean saber más acerca de la Deep Web, les recomiendo leer mi revista llamada "<a href="https://github.com/R3LI4NT/Deep-Web">**Deep Web: El otro lado de Internet**</a>". No solamente cuento anécdotas, al final de la revista enseño como entrar de forma anónima y segura.
 
 <h1 align="center"></h1>
+
+### Crear servidor web bajo la red Tor
+
+El objetivo de este artículo es enseñarles a montar una página web en la red tor de manera pública. Existen servicios en la dark web que ofrecen alojamiento web (hosting) donde los usuarios pueden almacenar los archivos y datos necesarios para que funcione una web 24/7. Para este caso voy a utilizar mi propio ordenador físico como "hosting", esto quiere decir que yo como dueño puedo decidir cuando arrancar y/o detener mi sitio web.
+
+Antes de comenzar deben de tener su sitio ya programado, en mi caso voy a utilizar un blog personal que aún no termino. Aún así, les dejo un código básico de HTML para que utilicen de ejemplo:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ejemplo de imagen de Google</title>
+</head>
+<body>
+    <h1>Imagen de Google</h1>
+    <img src="https://blog.felinus.cl/wp-content/uploads/2023/04/118.png" alt="Imagen de Google">
+</body>
+</html>
+```

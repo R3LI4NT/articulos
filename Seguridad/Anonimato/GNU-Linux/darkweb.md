@@ -136,7 +136,7 @@ Para detener el servicio:
 > sudo service tor stop
 ```
 
-De está manera conseguimos abrir nuestra página web en la darkweb, recuerden que nuestra máquina funciona como "hosting" por lo cual cuando apaguemos nuestro ordenador también lo hará el servicio; esto último puede ser una ventaja para no dejar rastro y que solo sea accesible en ciertos momentos que lo requieran.
+De está manera conseguimos abrir nuestra página web en la darkweb, recuerden que nuestra máquina funciona como "hosting" por lo cual cuando apaguemos nuestro ordenador también lo hará el servicio; esto último puede ser una ventaja para no dejar rastro y que solo sea accesible en ciertos momentos que lo requiera.
 
 </br>
 

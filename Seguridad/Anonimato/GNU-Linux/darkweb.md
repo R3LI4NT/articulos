@@ -107,7 +107,7 @@ Iniciamos tor.
 Ya con esto tendríamos nuestra página web bajo la red tor, para encontrar la URL del sitio hay que acceder al archivo de configuración `/var/lib/tor/hidden_service/hostname`.
 
 ```
-sudo cat /var/lib/tor/hidden_service/hostname
+> sudo cat /var/lib/tor/hidden_service/hostname
 ```
 
 ![7](https://github.com/R3LI4NT/articulos/assets/75953873/9cf563c1-ee2e-495e-9911-a34c4ca95c50)
@@ -119,3 +119,33 @@ Si copiamos esa URL y la pegamos en el navegador Tor nos mostrará el contenido 
 Ahora voy hacer la misma prueba pero desde mi teléfono y con otra red Wi-Fi distinta.
 
 ![9](https://github.com/R3LI4NT/articulos/assets/75953873/edc5d579-78f2-487a-8e39-4262a5407d8e)
+
+Cada vez que quieran modificar el servicio web (los archivos) es necesario restaurar el servicio de localhost y tor. Lo pueden hacer con el siguiente comando:
+
+```
+> sudo service apache2 restart
+
+> sudo service tor restart
+```
+
+Para detener el servicio:
+
+```
+> sudo service apache2 stop
+
+> sudo service tor stop
+```
+
+De está manera conseguimos abrir nuestra página web en la darkweb, recuerden que nuestra máquina funciona como "hosting" por lo cual cuando apaguemos nuestro ordenador también lo hará el servicio; esto último puede ser una ventaja para no dejar rastro y que solo sea accesible en ciertos momentos que lo requieran.
+
+</br>
+
+<h1 align="center"></h1>
+
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+
+
+
+#### ~R3LI4NT~

@@ -39,7 +39,7 @@ Si desean saber más acerca de la Deep Web, les recomiendo leer mi revista llama
 
 El objetivo de este artículo es enseñarles a montar una página web en la red tor de manera pública. Existen servicios en la dark web que ofrecen alojamiento web (hosting) donde los usuarios pueden almacenar los archivos y datos necesarios para que funcione una web 24/7. Para este caso voy a utilizar mi propio ordenador físico como "hosting", esto quiere decir que yo como dueño puedo decidir cuando arrancar y/o detener mi sitio web.
 
-Antes de comenzar deben de tener su sitio ya programado, en mi caso voy a utilizar un blog personal que aún no termino. Aún así, les dejo un código básico de HTML para que utilicen de ejemplo:
+Antes de comenzar deben de tener su sitio ya programado, en mi caso voy a utilizar un proyecto personal. De todas formas, si no tienen conocimiento de diseño web, les dejo un código básico de HTML para que utilicen de ejemplo:
 
 ```html
 <!DOCTYPE html>
@@ -53,3 +53,69 @@ Antes de comenzar deben de tener su sitio ya programado, en mi caso voy a utiliz
 </body>
 </html>
 ```
+
+Este código lo deben guardar como `index.html` en un directorio llamado "server". 
+
+![1](https://github.com/R3LI4NT/articulos/assets/75953873/08b4944e-4740-4046-aaad-2162c62d28b1)
+
+A continuación, descargamos tor.
+
+```
+sudo apt-get install tor
+```
+
+![2](https://github.com/R3LI4NT/articulos/assets/75953873/726b5a05-b91e-4365-86e3-6cda615eb7c4)
+
+Después debemos iniciar un servidor web local en el puerto 80; podemos utilizar nodeJS, python o apache:
+
+```
+> python3 -m http.server 80
+
+> sudo service apache2 start
+```
+
+Si abrimos el navegador y entramos al localhost, podemos ver nuestro sitio web accesible solo para usuarios dentro de la misma red local y en la clearnet.
+
+![3](https://github.com/R3LI4NT/articulos/assets/75953873/73292d7a-b146-469f-baa9-d9e6348fe821)
+
+Luego tenemos que iniciar el servicio tor:
+
+```
+> sudo service tor start
+```
+
+Para saber si el servicio se encuentra activo ejecutamos el siguiente comando:
+
+```
+> sudo service tor status
+```
+
+![4](https://github.com/R3LI4NT/articulos/assets/75953873/25806063-81d2-4bdc-9f78-7cef0301ec69)
+
+Ahora bien, antes de ejecutar tor nos faltaría el útlimo paso. Debemos de entrar al directorio `/etc/tor` y modificar el archivo `torrc`. Debemos desmarcar las líneas `HiddenServiceDir` y `HiddenServicePort` para redirigir el tráfico de localhost a través de la red Tor en el puerto 80. Guardar con CTRL + O.
+
+```
+> sudo nano /etc/tor/torrc
+```
+
+![5](https://github.com/R3LI4NT/articulos/assets/75953873/157a2670-7fd7-4567-a406-8e94c2d80415)
+
+Iniciamos tor.
+
+![6](https://github.com/R3LI4NT/articulos/assets/75953873/18aa62b7-2362-4de0-9c85-40055ef3d925)
+
+Ya con esto tendríamos nuestra página web bajo la red tor, para encontrar la URL del sitio hay que acceder al archivo de configuración `/var/lib/tor/hidden_service/hostname`.
+
+```
+sudo cat /var/lib/tor/hidden_service/hostname
+```
+
+![7](https://github.com/R3LI4NT/articulos/assets/75953873/9cf563c1-ee2e-495e-9911-a34c4ca95c50)
+
+Si copiamos esa URL y la pegamos en el navegador Tor nos mostrará el contenido de nuestro sitio web.
+
+![8](https://github.com/R3LI4NT/articulos/assets/75953873/56eefee5-7292-4500-bc2e-22cdc36f774f)
+
+Ahora voy hacer la misma prueba pero desde mi teléfono y con otra red Wi-Fi distinta.
+
+![9](https://github.com/R3LI4NT/articulos/assets/75953873/edc5d579-78f2-487a-8e39-4262a5407d8e)

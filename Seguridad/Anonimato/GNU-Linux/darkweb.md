@@ -102,6 +102,10 @@ Ahora bien, antes de ejecutar tor nos faltaría el último paso. Debemos de entr
 
 Iniciamos tor.
 
+```
+> sudo tor
+```
+
 ![6](https://github.com/R3LI4NT/articulos/assets/75953873/18aa62b7-2362-4de0-9c85-40055ef3d925)
 
 Ya con esto tendríamos nuestra página web bajo la red tor, para encontrar la URL del sitio hay que acceder al archivo de configuración `/var/lib/tor/hidden_service/hostname`.

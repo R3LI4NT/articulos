@@ -61,7 +61,7 @@ Este código lo deben guardar como `index.html` en un directorio llamado "server
 A continuación, descargamos tor.
 
 ```
-sudo apt-get install tor
+> sudo apt-get install tor
 ```
 
 ![2](https://github.com/R3LI4NT/articulos/assets/75953873/726b5a05-b91e-4365-86e3-6cda615eb7c4)
@@ -92,7 +92,7 @@ Para saber si el servicio se encuentra activo ejecutamos el siguiente comando:
 
 ![4](https://github.com/R3LI4NT/articulos/assets/75953873/25806063-81d2-4bdc-9f78-7cef0301ec69)
 
-Ahora bien, antes de ejecutar tor nos faltaría el útlimo paso. Debemos de entrar al directorio `/etc/tor` y modificar el archivo `torrc`. Debemos desmarcar las líneas `HiddenServiceDir` y `HiddenServicePort` para redirigir el tráfico de localhost a través de la red Tor en el puerto 80. Guardar con CTRL + O.
+Ahora bien, antes de ejecutar tor nos faltaría el último paso. Debemos de entrar al directorio `/etc/tor` y modificar el archivo `torrc`, desmarcamos las líneas `HiddenServiceDir` y `HiddenServicePort` para redirigir el tráfico de localhost a través de la red Tor en el puerto 80. Guardar con CTRL + O.
 
 ```
 > sudo nano /etc/tor/torrc

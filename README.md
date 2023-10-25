@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/75953873/179371259-cdf3480f-6c6a-48dd-b32f-bf111ce0a664.png"></h1>
 
-**Bienvenidos a este espacio donde compartiré artículos relacionados a la Ciberseguridad y Hacking en general. Abarcará temarios de explotación de vulnerabilidades, técnicas de seguridad y antiforense, criptografía, programación orientada a hacking, auditoría de redes, pentesting a nivel web; sistema operativo, ingeniería social y mucho más!**
+**Bienvenidos a este espacio donde compartiré artículos relacionados a la Ciberseguridad y Hacking en general. Abarcará temarios de explotación de vulnerabilidades, técnicas de seguridad y antiforense, darkweb, criptografía, programación orientada a hacking, auditoría de redes, pentesting a nivel web; sistema operativo, ingeniería social y mucho más!**
 
 <h1 align="center"></h1>
 

@@ -52,6 +52,8 @@
           
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/pathTraversal.md" target="_blank">Ataque de Directorio Transversal / Path Traversal</a>
 
+          - <a href="#" target="_blank">Ataque de Inyección SQLi Manual & Automático</a>
+
 </br>
 
 - [x] Redes / Wireless

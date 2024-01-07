@@ -14,6 +14,8 @@
     
          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Ciberseguridad/Reportes_Informes/GNU-Linux/nmap_report.md" target="_blank">Generar reportes de Nmap con nmap-bootstrap</a>
 
+         - <a href="#" target="_blank">Fases de un Pentest</a>
+
 </br>
 
 - [x] Firewalls

@@ -73,8 +73,14 @@ Como verán a continuación, la información del escaneo se muestra detallada.
 
 Es una herramienta muy útil que nos ayuda en la enumeración de hosts, puertos y servicios corriendo.
 
+</br>
+
 <h1 align="center"></h1>
 
-</br>
+<h3 align="center"><ins>ADVERTENCIA<ins></h3>
+
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta o información.</h4>
+
+
 
 #### ~R3LI4NT~

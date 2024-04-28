@@ -63,7 +63,7 @@ Lista de servidores proxys gratuitos:
 
 <h3 align="center"><ins>ADVERTENCIA<ins></h3>
 
-<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta u información.</h4>
+<h4 align="center">Esto es con fines de aprendizaje, no nos hacemos responsables ni el fundador, ni el creador del tema del mal uso de esta herramienta o información.</h4>
 
 
 

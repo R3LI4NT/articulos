@@ -32,6 +32,8 @@
      - <sub>A nivel: **O.S**</sub>
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/O.S/smbRelay.md" target="_blank">Explotar Windows Network con envenenamiento LMMNR/NBT-NS [SMB-Relay]</a>
 
+         - <a href="#" target="_blank">Enumerar recursos compartidos con SMBMAP y SMBCLIENT</a>
+
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/O.S/eternalblue.md" target="_blank">Explotar Windows 7 con exploit EternalBlue</a>
           
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/O.S/incrustar_Payload.md" target="_blank">Incrustar Payload .EXE a un archivo .PDF</a>

@@ -50,13 +50,15 @@
      - <sub>A nivel: **Web**</sub>
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/fileUpload.md" target="_blank">Explotar vulnerabilidad File Upload con Weevely + Burp Suite</a>
 
-          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/ataqueXSS.md" target="_blank">Ataque de XSS y secuestro de cookies</a>
+          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/ataqueXSS.md" target="_blank">Ataque de XSS(Cross-site scripting) y secuestro de cookies</a>
           
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/LocalFileInclusion.md" target="_blank">Ataque de Local File Inclusion (LFI)</a>
           
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/pathTraversal.md" target="_blank">Ataque de Directorio Transversal / Path Traversal</a>
 
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/SQLI_injection.md" target="_blank">Ataque de Inyección SQL Manual & Automático</a>
+
+          - <a href="#" target="_blank">Explotar vulnerabilidad CSRF (Cross-site Request Forgery)</a>
 
 </br>
 

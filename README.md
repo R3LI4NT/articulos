@@ -50,7 +50,7 @@
      - <sub>A nivel: **Web**</sub>
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/fileUpload.md" target="_blank">Explotar vulnerabilidad File Upload con Weevely + Burp Suite</a>
 
-          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/ataqueXSS.md" target="_blank">Ataque de XSS(Cross-site scripting) y secuestro de cookies</a>
+          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/ataqueXSS.md" target="_blank">Ataque de XSS (Cross-site scripting) y secuestro de cookies</a>
           
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/LocalFileInclusion.md" target="_blank">Ataque de Local File Inclusion (LFI)</a>
           

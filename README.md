@@ -59,7 +59,7 @@
 
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/SQLI_injection.md" target="_blank">Ataque de Inyección SQL Manual & Automático</a>
 
-          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/ataqueCSRF.md" target="_blank">Explotar vulnerabilidad CSRF (Cross-site Request Forgery)</a>
+          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/ataqueCSRF.md" target="_blank">Explotar vulnerabilidad CSRF (Cross-site Request Forgery) + Phishing</a>
 
 </br>
 

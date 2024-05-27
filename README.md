@@ -61,6 +61,8 @@
 
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/ataqueCSRF.md" target="_blank">Explotar vulnerabilidad CSRF (Cross-site Request Forgery) + Phishing</a>
 
+          - <a href="#" target="_blank">Ataque de Fuerza Bruta Login Page con Burp Suite</a>
+
 </br>
 
 - [x] Redes / Wireless

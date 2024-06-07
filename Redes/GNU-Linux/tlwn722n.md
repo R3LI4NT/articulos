@@ -94,7 +94,7 @@ Para este caso los controladores oficiales de aircrack quedarón inutilizable pa
 > sudo apt install bc
 > sudo apt-get install build-essential 
 > sudo apt-get install libelf-dev 
-> sudo apt-get install linux-headers-$('uname -r') || sudo apt-get install -y linux-headers-generic
+> sudo apt-get install -y linux-headers-generic || sudo apt-get install linux-headers-$('uname -r')
 > cd Desktop
 > git clone https://github.com/KanuX-14/rtl8188eus.git
 > cd rtl8188eus

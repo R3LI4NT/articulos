@@ -65,7 +65,7 @@
 
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/bruteForce_BS.md" target="_blank">Ataque de Fuerza Bruta Login Page con Burp Suite</a>
 
-          - <a href="#" target="_blank">Enumeración de SubDominios</a>
+          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/enum_subdominios.md" target="_blank">Enumeración de SubDominios</a>
 
 </br>
 

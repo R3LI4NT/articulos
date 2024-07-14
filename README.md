@@ -6,7 +6,7 @@
 
 </br>
 
-[![Artículos-count](https://img.shields.io/badge/Artículos-46-00DE3E?style=for-the-badge)](https://github.com/R3LI4NT/articulos)
+[![Artículos-count](https://img.shields.io/badge/Artículos-47-00DE3E?style=for-the-badge)](https://github.com/R3LI4NT/articulos)
 
 :lock: **CIBERSEGURIDAD** :lock:
 
@@ -66,6 +66,8 @@
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/bruteForce_BS.md" target="_blank">Ataque de Fuerza Bruta Login Page con Burp Suite</a>
 
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/enum_subdominios.md" target="_blank">Enumeración de SubDominios</a>
+
+          - <a href="#" target="_blank">Explotar vulnerabilidad SSRF (Server-side Request Forgery)</a>
 
 </br>
 

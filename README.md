@@ -62,12 +62,13 @@
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/SQLI_injection.md" target="_blank">Ataque de Inyección SQL Manual & Automático</a>
 
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/ataqueCSRF.md" target="_blank">Explotar vulnerabilidad CSRF (Cross-site Request Forgery) + Phishing</a>
-
+     
+          - <a href="#" target="_blank">Explotar vulnerabilidad SSRF (Server-side Request Forgery)</a>
+       
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/bruteForce_BS.md" target="_blank">Ataque de Fuerza Bruta Login Page con Burp Suite</a>
 
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/enum_subdominios.md" target="_blank">Enumeración de SubDominios</a>
 
-          - <a href="#" target="_blank">Explotar vulnerabilidad SSRF (Server-side Request Forgery)</a>
 
 </br>
 

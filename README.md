@@ -69,6 +69,8 @@
 
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/enum_subdominios.md" target="_blank">Enumeración de SubDominios</a>
 
+          - <a href="#" target="_blank">Vulnerabilidad XMLRPC.php de WordPress</a>
+
 
 </br>
 

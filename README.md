@@ -6,7 +6,7 @@
 
 </br>
 
-[![Artículos-count](https://img.shields.io/badge/Artículos-47-00DE3E?style=for-the-badge)](https://github.com/R3LI4NT/articulos)
+[![Artículos-count](https://img.shields.io/badge/Artículos-48-00DE3E?style=for-the-badge)](https://github.com/R3LI4NT/articulos)
 
 :lock: **CIBERSEGURIDAD** :lock:
 

@@ -30,7 +30,7 @@
 :skull: **HACKING** :skull:
 
 - [x] Pentesting
-     - <sub>A nivel: **Active Directory & Otros**</sub>
+     - <sub>A nivel: **Active Directory | Infraestructura**</sub>
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/O.S/AS_REP_Roasting.md" target="_blank">Ataque de AS-REP Roasting</a>
      
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/O.S/smbRelay.md" target="_blank">Explotar Windows Network con envenenamiento LMMNR/NBT-NS [SMB-Relay]</a>
@@ -42,6 +42,8 @@
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/O.S/incrustar_Payload.md" target="_blank">Incrustar Payload .EXE a un archivo .PDF</a>
           
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/O.S/mimikatz.md" target="_blank">Cracking de contraseñas Windows con Mimikatz</a>
+
+          - <a href="#" target="_blank">Enumerar y exportar shares NFS</a>
           
      - <sub>A nivel: **Ingeniería Social**</sub>
 

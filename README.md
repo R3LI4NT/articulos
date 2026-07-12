@@ -2,7 +2,7 @@
 
 **Bienvenidos a este espacio donde compartiré artículos relacionados a la Ciberseguridad y Hacking en general. Abarcará temarios de explotación de vulnerabilidades, técnicas de seguridad y antiforense, darkweb, criptografía, programación orientada a hacking, auditoría de redes, pentesting a nivel web; active directory, ingeniería social y mucho más!**
 
-  <p align="center">Leer desde el blog:【 https://r3li4nt.github.io/artiuculos 】</p>
+  <p align="center">Leer desde el blog:【 https://r3li4nt.github.io/articulos 】</p>
 
 <h1 align="center"></h1>
 

@@ -77,7 +77,7 @@
 
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/XMLRPC.md" target="_blank">Explotar vulnerabilidad XMLRPC.php de WordPress</a>
 
-          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/IDOR.md" target="_blank">Vulnerabilidad IDOR (Insecure Direct Object Reference)</a>
+          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/IDOR.md" target="_blank">Vulnerabilidad Insecure Direct Object Reference (IDOR)</a>
 
 
 </br>

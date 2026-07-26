@@ -8,7 +8,7 @@
 
 </br>
 
-[![Artículos-count](https://img.shields.io/badge/Artículos-51-00DE3E?style=for-the-badge)](https://github.com/R3LI4NT/articulos)
+[![Artículos-count](https://img.shields.io/badge/Artículos-52-00DE3E?style=for-the-badge)](https://github.com/R3LI4NT/articulos)
 
 :lock: **CIBERSEGURIDAD** :lock:
 
@@ -78,6 +78,8 @@
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/XMLRPC.md" target="_blank">Explotar vulnerabilidad XMLRPC.php de WordPress</a>
 
           - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/IDOR.md" target="_blank">Vulnerabilidad Insecure Direct Object Reference (IDOR)</a>
+
+          - <a href="https://github.com/R3LI4NT/articulos/blob/main/Pentesting/WEB/SessionTokenURL.md" target="_blank">Vulnerabilidad Session Token en URL</a>
 
 
 </br>

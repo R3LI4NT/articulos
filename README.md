@@ -87,6 +87,8 @@
 - [x] Redes / Wireless
     - <sub>O.S: **GNU/Linux**</sub>
 
+Pentesting autónomo con IA con Dark-Moon (plataforma open source, self-hosted, servidor MCP)
+https://github.com/ASCIT31/Dark-Moon
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/crackingWPA_aircrack.md" target="_blank">Cracking WPA/WPA2 con Aircrack-ng</a>
 
         - <a href="https://github.com/R3LI4NT/articulos/blob/main/Redes/GNU-Linux/crackingWPS.md" target="_blank">Cracking WPS PIN - Ataque Pixie Dust</a>
